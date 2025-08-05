@@ -1,0 +1,761 @@
+match_id;game_in_series;teamA;teamB;teamA_win
+0;1;Top Esports;LGD Gaming;1
+0;2;Top Esports;LGD Gaming;1
+0;3;Top Esports;LGD Gaming;1
+1;1;Funplus Phoenix;Invictus Gaming;0
+1;2;Funplus Phoenix;Invictus Gaming;0
+1;3;Funplus Phoenix;Invictus Gaming;0
+2;1;Bilibili Gaming;TT;1
+2;2;Bilibili Gaming;TT;1
+2;3;Bilibili Gaming;TT;0
+2;4;Bilibili Gaming;TT;0
+2;5;Bilibili Gaming;TT;0
+3;1;Royal Never Give Up;Ninjas in Pyjamas;0
+3;2;Royal Never Give Up;Ninjas in Pyjamas;0
+3;3;Royal Never Give Up;Ninjas in Pyjamas;0
+4;1;Ultra Prime;OMG;1
+4;2;Ultra Prime;OMG;1
+4;3;Ultra Prime;OMG;0
+4;4;Ultra Prime;OMG;0
+4;5;Ultra Prime;OMG;0
+5;1;Edward Gaming;LNG Esports;1
+5;2;Edward Gaming;LNG Esports;1
+5;3;Edward Gaming;LNG Esports;1
+6;1;Team WE;Anyone s Legend;1
+6;2;Team WE;Anyone s Legend;0
+6;3;Team WE;Anyone s Legend;0
+6;4;Team WE;Anyone s Legend;0
+7;1;JD Gaming;Weibo Gaming;1
+7;2;JD Gaming;Weibo Gaming;1
+7;3;JD Gaming;Weibo Gaming;1
+7;4;JD Gaming;Weibo Gaming;0
+7;5;JD Gaming;Weibo Gaming;0
+8;1;Ninjas in Pyjamas;Funplus Phoenix;1
+8;2;Ninjas in Pyjamas;Funplus Phoenix;1
+8;3;Ninjas in Pyjamas;Funplus Phoenix;1
+9;1;Invictus Gaming;Royal Never Give Up;1
+9;2;Invictus Gaming;Royal Never Give Up;1
+9;3;Invictus Gaming;Royal Never Give Up;1
+9;4;Invictus Gaming;Royal Never Give Up;0
+10;1;Bilibili Gaming;LNG Esports;1
+10;2;Bilibili Gaming;LNG Esports;1
+10;3;Bilibili Gaming;LNG Esports;1
+11;1;Top Esports;Anyone s Legend;1
+11;2;Top Esports;Anyone s Legend;0
+11;3;Top Esports;Anyone s Legend;0
+11;4;Top Esports;Anyone s Legend;0
+12;1;OMG;JD Gaming;1
+12;2;OMG;JD Gaming;1
+12;3;OMG;JD Gaming;0
+12;4;OMG;JD Gaming;0
+12;5;OMG;JD Gaming;0
+13;1;LGD Gaming;Team WE;1
+13;2;LGD Gaming;Team WE;1
+13;3;LGD Gaming;Team WE;1
+14;1;Edward Gaming;TT;1
+14;2;Edward Gaming;TT;0
+14;3;Edward Gaming;TT;0
+14;4;Edward Gaming;TT;0
+15;1;JD Gaming;Ultra Prime;1
+15;2;JD Gaming;Ultra Prime;1
+15;3;JD Gaming;Ultra Prime;1
+16;1;Invictus Gaming;Ninjas in Pyjamas;1
+16;2;Invictus Gaming;Ninjas in Pyjamas;0
+16;3;Invictus Gaming;Ninjas in Pyjamas;0
+16;4;Invictus Gaming;Ninjas in Pyjamas;0
+17;1;Top Esports;Team WE;1
+17;2;Top Esports;Team WE;1
+17;3;Top Esports;Team WE;1
+18;1;Edward Gaming;Bilibili Gaming;0
+18;2;Edward Gaming;Bilibili Gaming;0
+18;3;Edward Gaming;Bilibili Gaming;0
+19;1;LGD Gaming;Anyone s Legend;0
+19;2;LGD Gaming;Anyone s Legend;0
+19;3;LGD Gaming;Anyone s Legend;0
+20;1;Ultra Prime;Weibo Gaming;1
+20;2;Ultra Prime;Weibo Gaming;0
+20;3;Ultra Prime;Weibo Gaming;0
+20;4;Ultra Prime;Weibo Gaming;0
+21;1;Royal Never Give Up;Funplus Phoenix;1
+21;2;Royal Never Give Up;Funplus Phoenix;1
+21;3;Royal Never Give Up;Funplus Phoenix;1
+21;4;Royal Never Give Up;Funplus Phoenix;0
+22;1;LNG Esports;TT;1
+22;2;LNG Esports;TT;0
+22;3;LNG Esports;TT;0
+22;4;LNG Esports;TT;0
+23;1;Weibo Gaming;OMG;1
+23;2;Weibo Gaming;OMG;1
+23;3;Weibo Gaming;OMG;1
+24;1;Top Esports;Anyone s Legend;1
+24;2;Top Esports;Anyone s Legend;1
+24;3;Top Esports;Anyone s Legend;1
+24;4;Top Esports;Anyone s Legend;0
+25;1;JD Gaming;Top Esports;1
+25;2;JD Gaming;Top Esports;0
+25;3;JD Gaming;Top Esports;0
+25;4;JD Gaming;Top Esports;0
+26;1;Bilibili Gaming;Top Esports;1
+26;2;Bilibili Gaming;Top Esports;0
+26;3;Bilibili Gaming;Top Esports;0
+26;4;Bilibili Gaming;Top Esports;0
+27;1;JD Gaming;Anyone s Legend;1
+27;2;JD Gaming;Anyone s Legend;1
+27;3;JD Gaming;Anyone s Legend;0
+27;4;JD Gaming;Anyone s Legend;0
+27;5;JD Gaming;Anyone s Legend;0
+28;1;Ninjas in Pyjamas;Top Esports;1
+28;2;Ninjas in Pyjamas;Top Esports;0
+28;3;Ninjas in Pyjamas;Top Esports;0
+28;4;Ninjas in Pyjamas;Top Esports;0
+29;1;Bilibili Gaming;TT;1
+29;2;Bilibili Gaming;TT;1
+29;3;Bilibili Gaming;TT;1
+29;4;Bilibili Gaming;TT;0
+30;1;Invictus Gaming;Top Esports;1
+30;2;Invictus Gaming;Top Esports;0
+30;3;Invictus Gaming;Top Esports;0
+30;4;Invictus Gaming;Top Esports;0
+31;1;Weibo Gaming;Bilibili Gaming;1
+31;2;Weibo Gaming;Bilibili Gaming;0
+31;3;Weibo Gaming;Bilibili Gaming;0
+31;4;Weibo Gaming;Bilibili Gaming;0
+32;1;Ninjas in Pyjamas;Anyone s Legend;1
+32;2;Ninjas in Pyjamas;Anyone s Legend;1
+32;3;Ninjas in Pyjamas;Anyone s Legend;0
+32;4;Ninjas in Pyjamas;Anyone s Legend;0
+32;5;Ninjas in Pyjamas;Anyone s Legend;0
+33;1;JD Gaming;TT;1
+33;2;JD Gaming;TT;1
+33;3;JD Gaming;TT;1
+33;4;JD Gaming;TT;0
+34;1;SK Gaming;Fnatic;0
+35;1;G2 Esports;Team Heretics;1
+36;1;Karmine Corp;Team BDS;0
+37;1;Movistar KOI;Rogue;1
+38;1;Team Vitality;GIANTX;1
+39;1;G2 Esports;Movistar KOI;1
+40;1;Team Heretics;Team Vitality;0
+41;1;Fnatic;Karmine Corp;1
+42;1;Team BDS;GIANTX;0
+43;1;Rogue;SK Gaming;0
+44;1;Team Vitality;Karmine Corp;0
+45;1;Team Heretics;Movistar KOI;1
+46;1;Rogue;G2 Esports;0
+47;1;GIANTX;Fnatic;0
+48;1;SK Gaming;Team BDS;0
+49;1;SK Gaming;Movistar KOI;0
+50;1;Karmine Corp;Team Heretics;1
+51;1;G2 Esports;GIANTX;1
+52;1;Fnatic;Team BDS;1
+53;1;Team Vitality;Rogue;1
+54;1;Team BDS;Movistar KOI;0
+55;1;Karmine Corp;Rogue;1
+56;1;Fnatic;G2 Esports;1
+57;1;SK Gaming;Team Vitality;0
+58;1;GIANTX;Team Heretics;1
+59;1;Karmine Corp;SK Gaming;1
+60;1;Team Vitality;G2 Esports;0
+61;1;GIANTX;Movistar KOI;0
+62;1;Team BDS;Team Heretics;0
+63;1;Rogue;Fnatic;0
+64;1;GIANTX;Karmine Corp;1
+65;1;G2 Esports;SK Gaming;1
+66;1;Movistar KOI;Team Vitality;1
+67;1;Team Heretics;Fnatic;0
+68;1;Team BDS;Rogue;1
+69;1;Fnatic;Team Vitality;1
+70;1;G2 Esports;Team BDS;0
+71;1;Movistar KOI;Karmine Corp;0
+72;1;Rogue;GIANTX;0
+73;1;Team Heretics;SK Gaming;1
+74;1;Karmine Corp;G2 Esports;1
+75;1;Movistar KOI;Fnatic;1
+76;1;GIANTX;SK Gaming;1
+77;1;Team Vitality;Team BDS;1
+78;1;Team Heretics;Rogue;0
+79;1;G2 Esports;Karmine Corp;0
+79;2;G2 Esports;Karmine Corp;0
+79;3;G2 Esports;Karmine Corp;0
+80;1;Karmine Corp;Fnatic;1
+80;2;Karmine Corp;Fnatic;1
+80;3;Karmine Corp;Fnatic;1
+80;4;Karmine Corp;Fnatic;0
+80;5;Karmine Corp;Fnatic;0
+81;1;Fnatic;Movistar KOI;1
+81;2;Fnatic;Movistar KOI;1
+81;3;Fnatic;Movistar KOI;1
+81;4;Fnatic;Movistar KOI;0
+82;1;Karmine Corp;G2 Esports;1
+82;2;Karmine Corp;G2 Esports;0
+82;3;Karmine Corp;G2 Esports;0
+82;4;Karmine Corp;G2 Esports;0
+83;1;Movistar KOI;GIANTX;1
+83;2;Movistar KOI;GIANTX;1
+84;1;Fnatic;Team BDS;1
+84;2;Fnatic;Team BDS;1
+84;3;Fnatic;Team BDS;0
+85;1;Team Vitality;Team BDS;1
+85;2;Team Vitality;Team BDS;0
+85;3;Team Vitality;Team BDS;0
+86;1;GIANTX;Team Heretics;1
+86;2;GIANTX;Team Heretics;1
+86;3;GIANTX;Team Heretics;0
+87;1;Karmine Corp;Movistar KOI;1
+87;2;Karmine Corp;Movistar KOI;1
+88;1;Fnatic;G2 Esports;0
+88;2;Fnatic;G2 Esports;0
+89;1;Karmine Corp;Team Vitality;1
+89;2;Karmine Corp;Team Vitality;1
+90;1;Movistar KOI;Team BDS;1
+90;2;Movistar KOI;Team BDS;1
+91;1;G2 Esports;GIANTX;1
+91;2;G2 Esports;GIANTX;1
+92;1;Fnatic;Team Heretics;1
+92;2;Fnatic;Team Heretics;1
+93;1;Hanwha Life eSports;Gen.G eSports;1
+93;2;Hanwha Life eSports;Gen.G eSports;1
+93;3;Hanwha Life eSports;Gen.G eSports;1
+93;4;Hanwha Life eSports;Gen.G eSports;0
+93;5;Hanwha Life eSports;Gen.G eSports;0
+94;1;Dplus KIA;Gen.G eSports;0
+94;2;Dplus KIA;Gen.G eSports;0
+94;3;Dplus KIA;Gen.G eSports;0
+95;1;Nongshim RedForce;Gen.G eSports;1
+95;2;Nongshim RedForce;Gen.G eSports;1
+95;3;Nongshim RedForce;Gen.G eSports;0
+95;4;Nongshim RedForce;Gen.G eSports;0
+95;5;Nongshim RedForce;Gen.G eSports;0
+96;1;Hanwha Life eSports;Dplus KIA;1
+96;2;Hanwha Life eSports;Dplus KIA;1
+96;3;Hanwha Life eSports;Dplus KIA;1
+96;4;Hanwha Life eSports;Dplus KIA;0
+96;5;Hanwha Life eSports;Dplus KIA;0
+97;1;Gen.G eSports;Hanwha Life eSports;1
+97;2;Gen.G eSports;Hanwha Life eSports;1
+97;3;Gen.G eSports;Hanwha Life eSports;0
+97;4;Gen.G eSports;Hanwha Life eSports;0
+97;5;Gen.G eSports;Hanwha Life eSports;0
+98;1;Dplus KIA;Nongshim RedForce;1
+98;2;Dplus KIA;Nongshim RedForce;1
+98;3;Dplus KIA;Nongshim RedForce;1
+98;4;Dplus KIA;Nongshim RedForce;0
+99;1;Hanwha Life eSports;T1;1
+99;2;Hanwha Life eSports;T1;1
+99;3;Hanwha Life eSports;T1;1
+99;4;Hanwha Life eSports;T1;0
+99;5;Hanwha Life eSports;T1;0
+100;1;KT Rolster;Nongshim RedForce;0
+100;2;KT Rolster;Nongshim RedForce;0
+100;3;KT Rolster;Nongshim RedForce;0
+101;1;DRX;Nongshim RedForce;1
+101;2;DRX;Nongshim RedForce;0
+101;3;DRX;Nongshim RedForce;0
+101;4;DRX;Nongshim RedForce;0
+102;1;Hanwha Life eSports;DRX;1
+102;2;Hanwha Life eSports;DRX;1
+103;1;T1;Nongshim RedForce;1
+103;2;T1;Nongshim RedForce;1
+104;1;Nongshim RedForce;OK BRION;1
+104;2;Nongshim RedForce;OK BRION;1
+105;1;DRX;DN Freecs;1
+105;2;DRX;DN Freecs;1
+106;1;Nongshim RedForce;BNK FearX;1
+106;2;Nongshim RedForce;BNK FearX;1
+107;1;OK BRION;Dplus KIA;1
+107;2;OK BRION;Dplus KIA;0
+107;3;OK BRION;Dplus KIA;0
+108;1;T1;Gen.G eSports;1
+108;2;T1;Gen.G eSports;1
+108;3;T1;Gen.G eSports;0
+109;1;DRX;Hanwha Life eSports;0
+109;2;DRX;Hanwha Life eSports;0
+110;1;DN Freecs;KT Rolster;1
+110;2;DN Freecs;KT Rolster;0
+110;3;DN Freecs;KT Rolster;0
+111;1;KT Rolster;OK BRION;1
+111;2;KT Rolster;OK BRION;1
+112;1;T1;Nongshim RedForce;1
+112;2;T1;Nongshim RedForce;1
+113;1;Gen.G eSports;DN Freecs;1
+113;2;Gen.G eSports;DN Freecs;1
+114;1;Hanwha Life eSports;Dplus KIA;1
+114;2;Hanwha Life eSports;Dplus KIA;0
+114;3;Hanwha Life eSports;Dplus KIA;0
+115;1;T1;KT Rolster;1
+115;2;T1;KT Rolster;1
+115;3;T1;KT Rolster;0
+116;1;DRX;BNK FearX;1
+116;2;DRX;BNK FearX;1
+116;3;DRX;BNK FearX;0
+117;1;Hanwha Life eSports;Nongshim RedForce;1
+117;2;Hanwha Life eSports;Nongshim RedForce;1
+118;1;OK BRION;Gen.G eSports;1
+118;2;OK BRION;Gen.G eSports;1
+119;1;DN Freecs;DRX;1
+119;2;DN Freecs;DRX;0
+119;3;DN Freecs;DRX;0
+120;1;Dplus KIA;BNK FearX;1
+120;2;Dplus KIA;BNK FearX;1
+120;3;Dplus KIA;BNK FearX;0
+121;1;BNK FearX;Gen.G eSports;0
+121;2;BNK FearX;Gen.G eSports;0
+122;1;KT Rolster;Hanwha Life eSports;0
+122;2;KT Rolster;Hanwha Life eSports;0
+123;1;DRX;T1;0
+123;2;DRX;T1;0
+124;1;Dplus KIA;DN Freecs;1
+124;2;Dplus KIA;DN Freecs;1
+125;1;Nongshim RedForce;OK BRION;1
+125;2;Nongshim RedForce;OK BRION;1
+126;1;Gen.G eSports;Hanwha Life eSports;1
+126;2;Gen.G eSports;Hanwha Life eSports;1
+127;1;Dplus KIA;T1;1
+127;2;Dplus KIA;T1;1
+127;3;Dplus KIA;T1;0
+128;1;BNK FearX;KT Rolster;1
+128;2;BNK FearX;KT Rolster;0
+128;3;BNK FearX;KT Rolster;0
+129;1;DN Freecs;Nongshim RedForce;1
+129;2;DN Freecs;Nongshim RedForce;1
+129;3;DN Freecs;Nongshim RedForce;0
+130;1;OK BRION;DRX;1
+130;2;OK BRION;DRX;0
+130;3;OK BRION;DRX;0
+131;1;Team Liquid;FlyQuest;0
+132;1;Dignitas;FlyQuest;0
+132;2;Dignitas;FlyQuest;0
+133;1;Team Liquid;Shopify Rebellion;1
+133;2;Team Liquid;Shopify Rebellion;1
+134;1;100 Thieves;Cloud9;1
+135;1;FlyQuest;Cloud9;1
+135;2;FlyQuest;Cloud9;0
+135;3;FlyQuest;Cloud9;0
+136;1;Team Liquid;100 Thieves;1
+136;2;Team Liquid;100 Thieves;0
+136;3;Team Liquid;100 Thieves;0
+137;1;LYON;Shopify Rebellion;1
+137;2;LYON;Shopify Rebellion;0
+137;3;LYON;Shopify Rebellion;0
+138;1;Disguised;Dignitas;1
+138;2;Disguised;Dignitas;0
+138;3;Disguised;Dignitas;0
+139;1;Dignitas;Team Liquid;0
+139;2;Dignitas;Team Liquid;0
+140;1;Disguised;100 Thieves;0
+140;2;Disguised;100 Thieves;0
+141;1;LYON;Cloud9;0
+141;2;LYON;Cloud9;0
+142;1;Shopify Rebellion;FlyQuest;0
+142;2;Shopify Rebellion;FlyQuest;0
+143;1;LOUD;paiN Gaming;1
+144;1;paiN Gaming;FURIA;1
+144;2;paiN Gaming;FURIA;1
+144;3;paiN Gaming;FURIA;0
+145;1;RED Canids;LOUD;1
+145;2;RED Canids;LOUD;0
+145;3;RED Canids;LOUD;0
+146;1;Leviatan;Isurus;0
+147;1;paiN Gaming;Leviatan;1
+147;2;paiN Gaming;Leviatan;0
+147;3;paiN Gaming;Leviatan;0
+148;1;Isurus;RED Canids;1
+148;2;Isurus;RED Canids;1
+148;3;Isurus;RED Canids;0
+149;1;Fluxo;FURIA;0
+149;2;Fluxo;FURIA;0
+150;1;LOUD;Vivo Keyd Stars;1
+150;2;LOUD;Vivo Keyd Stars;1
+150;3;LOUD;Vivo Keyd Stars;0
+151;1;RED Canids;Fluxo;1
+151;2;RED Canids;Fluxo;1
+152;1;Isurus;FURIA;1
+152;2;Isurus;FURIA;1
+152;3;Isurus;FURIA;0
+153;1;Vivo Keyd Stars;Leviatan;1
+153;2;Vivo Keyd Stars;Leviatan;0
+153;3;Vivo Keyd Stars;Leviatan;0
+154;1;LOUD;paiN Gaming;1
+154;2;LOUD;paiN Gaming;0
+154;3;LOUD;paiN Gaming;0
+155;1;PSG Talon;MGN Vikings Esports;1
+155;2;PSG Talon;MGN Vikings Esports;1
+155;3;PSG Talon;MGN Vikings Esports;0
+156;1;CTBC Flying Oyster;Chiefs Esports Club;1
+156;2;CTBC Flying Oyster;Chiefs Esports Club;1
+157;1;Team Secret Whales;GAM Esports;1
+157;2;Team Secret Whales;GAM Esports;1
+158;1;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0
+158;2;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0
+159;1;CTBC Flying Oyster;PSG Talon;1
+159;2;CTBC Flying Oyster;PSG Talon;1
+159;3;CTBC Flying Oyster;PSG Talon;0
+160;1;Chiefs Esports Club;MGN Vikings Esports;0
+160;2;Chiefs Esports Club;MGN Vikings Esports;0
+161;1;GAM Esports;DetonatioN FocusMe;1
+161;2;GAM Esports;DetonatioN FocusMe;1
+162;1;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0
+162;2;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0
+163;1;PSG Talon;GAM Esports;1
+163;2;PSG Talon;GAM Esports;1
+163;3;PSG Talon;GAM Esports;0
+164;1;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0
+164;2;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0
+165;1;MGN Vikings Esports;DetonatioN FocusMe;1
+165;2;MGN Vikings Esports;DetonatioN FocusMe;1
+165;3;MGN Vikings Esports;DetonatioN FocusMe;0
+166;1;CTBC Flying Oyster;Team Secret Whales;1
+166;2;CTBC Flying Oyster;Team Secret Whales;0
+166;3;CTBC Flying Oyster;Team Secret Whales;0
+167;1;Chiefs Esports Club;GAM Esports;0
+167;2;Chiefs Esports Club;GAM Esports;0
+168;1;Fukuoka SoftBank HAWKS gaming;PSG Talon;0
+168;2;Fukuoka SoftBank HAWKS gaming;PSG Talon;0
+169;1;MGN Vikings Esports;Team Secret Whales;1
+169;2;MGN Vikings Esports;Team Secret Whales;1
+170;1;CTBC Flying Oyster;DetonatioN FocusMe;1
+170;2;CTBC Flying Oyster;DetonatioN FocusMe;1
+171;1;PSG Talon;DetonatioN FocusMe;1
+171;2;PSG Talon;DetonatioN FocusMe;1
+172;1;Chiefs Esports Club;Team Secret Whales;0
+172;2;Chiefs Esports Club;Team Secret Whales;0
+173;1;GAM Esports;CTBC Flying Oyster;1
+173;2;GAM Esports;CTBC Flying Oyster;0
+173;3;GAM Esports;CTBC Flying Oyster;0
+174;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0
+174;2;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0
+175;1;PSG Talon;Team Secret Whales;1
+175;2;PSG Talon;Team Secret Whales;1
+176;1;Chiefs Esports Club;DetonatioN FocusMe;1
+176;2;Chiefs Esports Club;DetonatioN FocusMe;0
+176;3;Chiefs Esports Club;DetonatioN FocusMe;0
+177;1;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0
+177;2;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0
+178;1;GAM Esports;MGN Vikings Esports;0
+178;2;GAM Esports;MGN Vikings Esports;0
+179;1;PSG Talon;Chiefs Esports Club;1
+179;2;PSG Talon;Chiefs Esports Club;1
+180;1;Team Secret Whales;DetonatioN FocusMe;1
+180;2;Team Secret Whales;DetonatioN FocusMe;1
+181;1;Fukuoka SoftBank HAWKS gaming;GAM Esports;1
+181;2;Fukuoka SoftBank HAWKS gaming;GAM Esports;0
+181;3;Fukuoka SoftBank HAWKS gaming;GAM Esports;0
+182;1;CTBC Flying Oyster;MGN Vikings Esports;1
+182;2;CTBC Flying Oyster;MGN Vikings Esports;1
+182;3;CTBC Flying Oyster;MGN Vikings Esports;0
+183;1;CTBC Flying Oyster;PSG Talon;1
+183;2;CTBC Flying Oyster;PSG Talon;1
+183;3;CTBC Flying Oyster;PSG Talon;1
+183;4;CTBC Flying Oyster;PSG Talon;0
+184;1;PSG Talon;MGN Vikings Esports;1
+184;2;PSG Talon;MGN Vikings Esports;1
+184;3;PSG Talon;MGN Vikings Esports;1
+184;4;PSG Talon;MGN Vikings Esports;0
+184;5;PSG Talon;MGN Vikings Esports;0
+185;1;CTBC Flying Oyster;MGN Vikings Esports;1
+185;2;CTBC Flying Oyster;MGN Vikings Esports;1
+185;3;CTBC Flying Oyster;MGN Vikings Esports;1
+185;4;CTBC Flying Oyster;MGN Vikings Esports;0
+186;1;GAM Esports;PSG Talon;1
+186;2;GAM Esports;PSG Talon;0
+186;3;GAM Esports;PSG Talon;0
+187;1;CTBC Flying Oyster;GAM Esports;1
+187;2;CTBC Flying Oyster;GAM Esports;1
+188;1;PSG Talon;MGN Vikings Esports;1
+188;2;PSG Talon;MGN Vikings Esports;0
+188;3;PSG Talon;MGN Vikings Esports;0
+189;1;Team Secret Whales;GAM Esports;0
+189;2;Team Secret Whales;GAM Esports;0
+190;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0
+190;2;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0
+191;1;Besiktas Esports;Papara SuperMassive;0
+192;1;BoostGate Esports;ULF Esports;1
+193;1;Misa Esports;Bushido Wildcats;0
+194;1;BBL Dark Passage;Eternal Fire;0
+195;1;Bushido Wildcats;Eternal Fire;1
+196;1;Besiktas Esports;BBL Dark Passage;0
+197;1;ULF Esports;Misa Esports;0
+198;1;Papara SuperMassive;BoostGate Esports;0
+199;1;Eternal Fire;ULF Esports;1
+200;1;Misa Esports;Papara SuperMassive;1
+201;1;BoostGate Esports;Besiktas Esports;1
+202;1;BBL Dark Passage;Bushido Wildcats;0
+203;1;BoostGate Esports;BBL Dark Passage;1
+204;1;Besiktas Esports;Misa Esports;0
+205;1;Papara SuperMassive;Eternal Fire;0
+206;1;ULF Esports;Bushido Wildcats;0
+207;1;Bushido Wildcats;Papara SuperMassive;0
+208;1;ULF Esports;BBL Dark Passage;1
+209;1;Misa Esports;BoostGate Esports;1
+210;1;Eternal Fire;Besiktas Esports;1
+211;1;BBL Dark Passage;Misa Esports;0
+212;1;Bushido Wildcats;Besiktas Esports;0
+213;1;Eternal Fire;BoostGate Esports;1
+214;1;Papara SuperMassive;ULF Esports;1
+215;1;Besiktas Esports;ULF Esports;1
+216;1;BBL Dark Passage;Papara SuperMassive;0
+217;1;Bushido Wildcats;BoostGate Esports;1
+218;1;Misa Esports;Eternal Fire;1
+219;1;Eternal Fire;BBL Dark Passage;1
+220;1;Bushido Wildcats;Misa Esports;1
+221;1;Papara SuperMassive;Besiktas Esports;1
+222;1;ULF Esports;BoostGate Esports;0
+223;1;Misa Esports;ULF Esports;1
+224;1;Papara SuperMassive;BoostGate Esports;0
+225;1;BBL Dark Passage;Besiktas Esports;0
+226;1;Eternal Fire;Bushido Wildcats;1
+227;1;ULF Esports;Eternal Fire;0
+228;1;Bushido Wildcats;BBL Dark Passage;0
+229;1;Besiktas Esports;BoostGate Esports;0
+230;1;Papara SuperMassive;Misa Esports;1
+231;1;BBL Dark Passage;BoostGate Esports;1
+232;1;Eternal Fire;Papara SuperMassive;0
+233;1;Misa Esports;Besiktas Esports;1
+234;1;Bushido Wildcats;ULF Esports;1
+235;1;Misa Esports;BoostGate Esports;0
+236;1;Papara SuperMassive;Bushido Wildcats;1
+237;1;Besiktas Esports;Eternal Fire;0
+238;1;BBL Dark Passage;ULF Esports;1
+239;1;ULF Esports;Papara SuperMassive;1
+240;1;Besiktas Esports;Bushido Wildcats;1
+241;1;BoostGate Esports;Eternal Fire;0
+242;1;Misa Esports;BBL Dark Passage;1
+243;1;Eternal Fire;Misa Esports;1
+244;1;Bushido Wildcats;BoostGate Esports;1
+245;1;ULF Esports;Besiktas Esports;0
+246;1;Papara SuperMassive;BBL Dark Passage;1
+247;1;Eternal Fire;Papara SuperMassive;1
+247;2;Eternal Fire;Papara SuperMassive;1
+247;3;Eternal Fire;Papara SuperMassive;0
+247;4;Eternal Fire;Papara SuperMassive;0
+247;5;Eternal Fire;Papara SuperMassive;0
+248;1;Papara SuperMassive;Misa Esports;1
+248;2;Papara SuperMassive;Misa Esports;1
+248;3;Papara SuperMassive;Misa Esports;1
+248;4;Papara SuperMassive;Misa Esports;0
+248;5;Papara SuperMassive;Misa Esports;0
+249;1;Misa Esports;BoostGate Esports;1
+249;2;Misa Esports;BoostGate Esports;1
+249;3;Misa Esports;BoostGate Esports;1
+249;4;Misa Esports;BoostGate Esports;0
+249;5;Misa Esports;BoostGate Esports;0
+250;1;Eternal Fire;Papara SuperMassive;1
+250;2;Eternal Fire;Papara SuperMassive;1
+250;3;Eternal Fire;Papara SuperMassive;1
+251;1;Bushido Wildcats;BoostGate Esports;0
+251;2;Bushido Wildcats;BoostGate Esports;0
+252;1;Misa Esports;Besiktas Esports;1
+252;2;Misa Esports;Besiktas Esports;1
+253;1;Joblife;Karmine Corp Blue;0
+254;1;GameWard;Joblife;0
+255;1;Karmine Corp Blue;GameWard;1
+256;1;Karmine Corp Blue;Gentle Mates;0
+257;1;Joblife;Vitality.Bee;0
+258;1;Solary;Ici Japon Corp. Esport;1
+259;1;BK ROG Esports;Galions;1
+260;1;Gentle Mates;Joblife;1
+261;1;GameWard;Vitality.Bee;0
+262;1;Solary;BK ROG Esports;0
+263;1;Galions;Team BDS Academy;1
+264;1;Gentle Mates;Vitality.Bee;0
+265;1;GameWard;Karmine Corp Blue;1
+266;1;Solary;Team BDS Academy;1
+267;1;Ici Japon Corp. Esport;BK ROG Esports;1
+268;1;Karmine Corp Blue;Vitality.Bee;0
+269;1;GameWard;Joblife;0
+270;1;Galions;Solary;1
+271;1;Ici Japon Corp. Esport;Team BDS Academy;1
+272;1;Karmine Corp Blue;Joblife;1
+273;1;Gentle Mates;GameWard;1
+274;1;Galions;Ici Japon Corp. Esport;1
+275;1;BK ROG Esports;Team BDS Academy;1
+276;1;Galions;Gentle Mates;1
+276;2;Galions;Gentle Mates;1
+277;1;BK ROG Esports;Solary;1
+277;2;BK ROG Esports;Solary;0
+277;3;BK ROG Esports;Solary;0
+278;1;Karmine Corp Blue;Solary;1
+278;2;Karmine Corp Blue;Solary;1
+279;1;BK ROG Esports;Ici Japon Corp. Esport;1
+279;2;BK ROG Esports;Ici Japon Corp. Esport;0
+279;3;BK ROG Esports;Ici Japon Corp. Esport;0
+280;1;Gentle Mates;Joblife;1
+280;2;Gentle Mates;Joblife;1
+281;1;Vitality.Bee;Galions;0
+281;2;Vitality.Bee;Galions;0
+282;1;Galions;Karmine Corp Blue;1
+282;2;Galions;Karmine Corp Blue;0
+282;3;Galions;Karmine Corp Blue;0
+283;1;Gentle Mates;Solary;1
+283;2;Gentle Mates;Solary;0
+283;3;Gentle Mates;Solary;0
+284;1;BK ROG Esports;Joblife;1
+284;2;BK ROG Esports;Joblife;1
+285;1;Vitality.Bee;Ici Japon Corp. Esport;0
+285;2;Vitality.Bee;Ici Japon Corp. Esport;0
+286;1;Karmine Corp Blue;Ici Japon Corp. Esport;1
+286;2;Karmine Corp Blue;Ici Japon Corp. Esport;1
+286;3;Karmine Corp Blue;Ici Japon Corp. Esport;1
+286;4;Karmine Corp Blue;Ici Japon Corp. Esport;0
+287;1;Ici Japon Corp. Esport;Solary;1
+287;2;Ici Japon Corp. Esport;Solary;1
+287;3;Ici Japon Corp. Esport;Solary;1
+287;4;Ici Japon Corp. Esport;Solary;0
+288;1;Galions;Solary;1
+288;2;Galions;Solary;1
+288;3;Galions;Solary;0
+288;4;Galions;Solary;0
+288;5;Galions;Solary;0
+289;1;Ici Japon Corp. Esport;Karmine Corp Blue;0
+289;2;Ici Japon Corp. Esport;Karmine Corp Blue;0
+289;3;Ici Japon Corp. Esport;Karmine Corp Blue;0
+290;1;ZETA;UCAM Esports;0
+291;1;Veni Vidi Vici;Guasones;1
+292;1;Barça eSports;GIANTX Pride;0
+293;1;Movistar KOI Fénix;LUA Gaming;1
+294;1;Ramboot Club;Los Heretics;0
+295;1;Los Heretics;ZETA;1
+296;1;GIANTX Pride;Ramboot Club;1
+297;1;Guasones;Barça eSports;0
+298;1;Movistar KOI Fénix;Veni Vidi Vici;0
+299;1;UCAM Esports;LUA Gaming;0
+300;1;Barça eSports;Movistar KOI Fénix;0
+301;1;ZETA;GIANTX Pride;0
+302;1;LUA Gaming;Veni Vidi Vici;0
+303;1;Ramboot Club;Guasones;1
+304;1;Los Heretics;UCAM Esports;1
+305;1;ZETA;Guasones;0
+306;1;UCAM Esports;Veni Vidi Vici;0
+307;1;LUA Gaming;Barça eSports;1
+308;1;GIANTX Pride;Los Heretics;0
+309;1;Movistar KOI Fénix;Ramboot Club;0
+310;1;GIANTX Pride;UCAM Esports;1
+311;1;Barça eSports;Veni Vidi Vici;1
+312;1;Los Heretics;Guasones;1
+313;1;Ramboot Club;LUA Gaming;1
+314;1;Movistar KOI Fénix;ZETA;1
+315;1;ZETA;LUA Gaming;0
+316;1;UCAM Esports;Barça eSports;1
+317;1;GIANTX Pride;Guasones;1
+318;1;Movistar KOI Fénix;Los Heretics;1
+319;1;Veni Vidi Vici;Ramboot Club;0
+320;1;ZETA;Veni Vidi Vici;0
+321;1;GIANTX Pride;Movistar KOI Fénix;1
+322;1;Ramboot Club;Barça eSports;0
+323;1;Los Heretics;LUA Gaming;0
+324;1;Guasones;UCAM Esports;0
+325;1;Barça eSports;ZETA;1
+326;1;Veni Vidi Vici;Los Heretics;0
+327;1;Movistar KOI Fénix;Guasones;1
+328;1;UCAM Esports;Ramboot Club;0
+329;1;GIANTX Pride;LUA Gaming;0
+330;1;Los Heretics;Barça eSports;1
+331;1;Movistar KOI Fénix;UCAM Esports;0
+332;1;GIANTX Pride;Veni Vidi Vici;0
+333;1;LUA Gaming;Guasones;1
+334;1;Ramboot Club;ZETA;1
+335;1;Barça eSports;Movistar KOI Fénix;1
+335;2;Barça eSports;Movistar KOI Fénix;1
+335;3;Barça eSports;Movistar KOI Fénix;0
+336;1;Ramboot Club;GIANTX Pride;1
+336;2;Ramboot Club;GIANTX Pride;0
+336;3;Ramboot Club;GIANTX Pride;0
+337;1;Movistar KOI Fénix;LUA Gaming;1
+337;2;Movistar KOI Fénix;LUA Gaming;1
+338;1;UCAM Esports;Barça eSports;1
+338;2;UCAM Esports;Barça eSports;0
+338;3;UCAM Esports;Barça eSports;0
+339;1;Los Heretics;GIANTX Pride;1
+339;2;Los Heretics;GIANTX Pride;1
+340;1;Ramboot Club;Veni Vidi Vici;0
+340;2;Ramboot Club;Veni Vidi Vici;0
+341;1;Los Heretics;Barça eSports;1
+342;1;Movistar KOI Fénix;Veni Vidi Vici;0
+343;1;LUA Gaming;GIANTX Pride;0
+344;1;Ramboot Club;UCAM Esports;1
+345;1;Los Heretics;Barça eSports;1
+345;2;Los Heretics;Barça eSports;1
+345;3;Los Heretics;Barça eSports;1
+345;4;Los Heretics;Barça eSports;0
+346;1;Barça eSports;Veni Vidi Vici;1
+346;2;Barça eSports;Veni Vidi Vici;1
+346;3;Barça eSports;Veni Vidi Vici;1
+346;4;Barça eSports;Veni Vidi Vici;0
+347;1;GIANTX Pride;Barça eSports;1
+347;2;GIANTX Pride;Barça eSports;1
+347;3;GIANTX Pride;Barça eSports;0
+347;4;GIANTX Pride;Barça eSports;0
+347;5;GIANTX Pride;Barça eSports;0
+348;1;Los Heretics;Veni Vidi Vici;1
+348;2;Los Heretics;Veni Vidi Vici;1
+348;3;Los Heretics;Veni Vidi Vici;1
+348;4;Los Heretics;Veni Vidi Vici;0
+349;1;Eintracht Spandau;Kaufland Hangry Knights;0
+349;2;Eintracht Spandau;Kaufland Hangry Knights;0
+350;1;ROSSMANN Centaurs;Unicorns of Love Sexy Edition;1
+350;2;ROSSMANN Centaurs;Unicorns of Love Sexy Edition;0
+350;3;ROSSMANN Centaurs;Unicorns of Love Sexy Edition;0
+351;1;Austrian Force Willhaben;CGN Esports;0
+351;2;Austrian Force Willhaben;CGN Esports;0
+352;1;TeamOrangeGaming;Berlin International Gaming;1
+352;2;TeamOrangeGaming;Berlin International Gaming;0
+352;3;TeamOrangeGaming;Berlin International Gaming;0
+353;1;Kaufland Hangry Knights;Austrian Force Willhaben;0
+353;2;Kaufland Hangry Knights;Austrian Force Willhaben;0
+354;1;Berlin International Gaming;ROSSMANN Centaurs;1
+354;2;Berlin International Gaming;ROSSMANN Centaurs;1
+355;1;Eintracht Frankfurt;Eintracht Spandau;1
+355;2;Eintracht Frankfurt;Eintracht Spandau;1
+356;1;Unicorns of Love Sexy Edition;E WIE EINFACH E-SPORTS;0
+356;2;Unicorns of Love Sexy Edition;E WIE EINFACH E-SPORTS;0
+357;1;CGN Esports;Kaufland Hangry Knights;1
+357;2;CGN Esports;Kaufland Hangry Knights;1
+357;3;CGN Esports;Kaufland Hangry Knights;0
+358;1;E WIE EINFACH E-SPORTS;ROSSMANN Centaurs;1
+358;2;E WIE EINFACH E-SPORTS;ROSSMANN Centaurs;1
+358;3;E WIE EINFACH E-SPORTS;ROSSMANN Centaurs;0
+359;1;Eintracht Frankfurt;Austrian Force Willhaben;0
+359;2;Eintracht Frankfurt;Austrian Force Willhaben;0
+360;1;Unicorns of Love Sexy Edition;TeamOrangeGaming;0
+360;2;Unicorns of Love Sexy Edition;TeamOrangeGaming;0
+361;1;CGN Esports;Eintracht Spandau;1
+361;2;CGN Esports;Eintracht Spandau;0
+361;3;CGN Esports;Eintracht Spandau;0
+362;1;ROSSMANN Centaurs;TeamOrangeGaming;1
+362;2;ROSSMANN Centaurs;TeamOrangeGaming;0
+362;3;ROSSMANN Centaurs;TeamOrangeGaming;0
+363;1;Kaufland Hangry Knights;Eintracht Frankfurt;1
+363;2;Kaufland Hangry Knights;Eintracht Frankfurt;0
+363;3;Kaufland Hangry Knights;Eintracht Frankfurt;0
+364;1;E WIE EINFACH E-SPORTS;Berlin International Gaming;1
+364;2;E WIE EINFACH E-SPORTS;Berlin International Gaming;0
+364;3;E WIE EINFACH E-SPORTS;Berlin International Gaming;0
+365;1;Austrian Force Willhaben;Eintracht Spandau;1
+365;2;Austrian Force Willhaben;Eintracht Spandau;0
+365;3;Austrian Force Willhaben;Eintracht Spandau;0
+366;1;TeamOrangeGaming;E WIE EINFACH E-SPORTS;1
+366;2;TeamOrangeGaming;E WIE EINFACH E-SPORTS;0
+366;3;TeamOrangeGaming;E WIE EINFACH E-SPORTS;0
+367;1;Eintracht Frankfurt;CGN Esports;1
+367;2;Eintracht Frankfurt;CGN Esports;0
+367;3;Eintracht Frankfurt;CGN Esports;0
+368;1;Berlin International Gaming;Unicorns of Love Sexy Edition;1
+368;2;Berlin International Gaming;Unicorns of Love Sexy Edition;1
+369;1;Berlin International Gaming;E WIE EINFACH E-SPORTS;1
+369;2;Berlin International Gaming;E WIE EINFACH E-SPORTS;1
+369;3;Berlin International Gaming;E WIE EINFACH E-SPORTS;1
+370;1;CGN Esports;E WIE EINFACH E-SPORTS;0
+370;2;CGN Esports;E WIE EINFACH E-SPORTS;0
+370;3;CGN Esports;E WIE EINFACH E-SPORTS;0
+371;1;Berlin International Gaming;Austrian Force Willhaben;1
+371;2;Berlin International Gaming;Austrian Force Willhaben;1
+371;3;Berlin International Gaming;Austrian Force Willhaben;1
+372;1;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;1
+372;2;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;1
+372;3;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;1
+372;4;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;0
+372;5;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;0
+373;1;Austrian Force Willhaben;TeamOrangeGaming;1
+373;2;Austrian Force Willhaben;TeamOrangeGaming;1
+373;3;Austrian Force Willhaben;TeamOrangeGaming;1
+373;4;Austrian Force Willhaben;TeamOrangeGaming;0

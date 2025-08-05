@@ -2,11 +2,11 @@ import pandas as pd
 
 def matchesAndTeamsMerge(matches, teams):
     data = matches.merge(teams, how='left', left_on='teamA', right_on='Name')
-    data = data.rename(columns=lambda x: x if x in ['teamA','teamB','winA'] else f"{x}_A")
+    data = data.rename(columns=lambda x: x if x in ['teamA','teamB','teamA_win','match_id','game_in_series','date','split'] else f"{x}_A")
     data = data.drop(columns=['Name_A'], errors='ignore')
 
     data = data.merge(teams, how='left', left_on='teamB', right_on='Name')
-    data = data.rename(columns=lambda x: x if x in ['teamA','teamB','winA'] or x.endswith('_A') else f"{x}_B")
+    data = data.rename(columns=lambda x: x if x in ['teamA','teamB','teamA_win','match_id','game_in_series','date','split'] or x.endswith('_A') else f"{x}_B")
     data = data.drop(columns=['Name_B'], errors='ignore')
     return data
 

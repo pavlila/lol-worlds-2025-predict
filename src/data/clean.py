@@ -19,9 +19,8 @@ def matchesClean(df, split, prefix):
     
     return pd.concat(df.apply(divideMatchOnMaps, axis=1).tolist(), ignore_index=True)
 
-def teamsClean(df, split):
+def teamsClean(df):
     df = df.drop(columns=['Season'])
-    df['split'] = split
     return df
 
 matches_winter = pd.read_csv("../../data/raw/matches_winter.csv", sep=r'\t|\s{2,}', engine='python')
@@ -40,9 +39,9 @@ teams_winter = pd.read_csv("../../data/raw/teams_winter.csv", sep=r'\t|\s{2,}', 
 teams_spring = pd.read_csv("../../data/raw/teams_spring.csv", sep=r'\t|\s{2,}', engine='python')
 teams_summer = pd.read_csv("../../data/raw/teams_summer.csv", sep=r'\t|\s{2,}', engine='python')
 
-teams_winter = teamsClean(teams_winter, 1)
-teams_spring = teamsClean(teams_spring, 2)
-teams_summer = teamsClean(teams_summer, 3)
+teams_winter = teamsClean(teams_winter)
+teams_spring = teamsClean(teams_spring)
+teams_summer = teamsClean(teams_summer)
 
 teams_winter.to_csv("../../data/cleaned/teams_winter.csv", sep=';', index=False)
 teams_spring.to_csv("../../data/cleaned/teams_spring.csv", sep=';', index=False)

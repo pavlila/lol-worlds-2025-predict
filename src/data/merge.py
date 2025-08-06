@@ -22,12 +22,17 @@ matches_ewc = pd.read_csv("../../data/cleaned/matches_ewc.csv", sep=';')
 teams_winter = pd.read_csv("../../data/cleaned/teams_winter.csv", sep=';')
 teams_spring = pd.read_csv("../../data/cleaned/teams_spring.csv", sep=';')
 teams_summer = pd.read_csv("../../data/cleaned/teams_summer.csv", sep=';')
+teams_winter_daily = pd.read_csv("../../data/cleaned/teams_winter_daily.csv", sep=';')
 
 winter = matchesAndTeamsMerge(matches_winter, teams_winter)
 spring = matchesAndTeamsMerge(matches_spring, teams_spring)
 summer = matchesAndTeamsMerge(matches_summer, teams_summer)
 msi = matchesAndTeamsMerge(matches_msi, teams_spring) # end of spring split
 ewc = matchesAndTeamsMerge(matches_ewc, teams_spring) # start of summer split
+
+winter_daily = matchesAndTeamsMergeDaily(matches_winter, teams_winter_daily)
+# potrebuju jeste se naucit spojovat podle tymu, datumu (co nejblizsi pred tim dnem) a podle turnaje
+# musis pridat jeste do matches sloupec turnaje a udelej to jenom s hlavnimi peti ligy viz github
 
 spring = mergeSplits([spring, msi])
 summer = mergeSplits([summer, ewc])
@@ -40,3 +45,4 @@ summer.to_csv("../../data/merged/summer.csv", sep=';', index=False)
 winter_spring.to_csv("../../data/merged/winter_spring.csv", sep=';', index=False)
 spring_summer.to_csv("../../data/merged/spring_summer.csv", sep=';', index=False)
 winter_spring_summer.to_csv("../../data/merged/winter_spring_summer.csv", sep=';', index=False)
+winter_daily.to_csv("../../data/merged/winter_daily.csv", sep=';', index=False)

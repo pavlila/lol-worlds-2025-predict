@@ -16,6 +16,8 @@ def mergeSplits(splits):
 matches_winter = pd.read_csv("../../data/cleaned/matches_winter.csv", sep=';')
 matches_spring = pd.read_csv("../../data/cleaned/matches_spring.csv", sep=';')
 matches_summer = pd.read_csv("../../data/cleaned/matches_summer.csv", sep=';')
+matches_msi = pd.read_csv("../../data/cleaned/matches_msi.csv", sep=';')
+matches_ewc = pd.read_csv("../../data/cleaned/matches_ewc.csv", sep=';')
 
 teams_winter = pd.read_csv("../../data/cleaned/teams_winter.csv", sep=';')
 teams_spring = pd.read_csv("../../data/cleaned/teams_spring.csv", sep=';')
@@ -24,10 +26,14 @@ teams_summer = pd.read_csv("../../data/cleaned/teams_summer.csv", sep=';')
 winter = matchesAndTeamsMerge(matches_winter, teams_winter)
 spring = matchesAndTeamsMerge(matches_spring, teams_spring)
 summer = matchesAndTeamsMerge(matches_summer, teams_summer)
+msi = matchesAndTeamsMerge(matches_msi, teams_spring) # end of spring split
+ewc = matchesAndTeamsMerge(matches_ewc, teams_spring) # start of summer split
 
-winter_spring = mergeSplits([winter, spring])
-spring_summer = mergeSplits([spring, summer])
-winter_spring_summer = mergeSplits([winter, spring, summer])
+spring = mergeSplits([spring, msi])
+summer = mergeSplits([summer, ewc])
+winter_spring = mergeSplits([winter, spring, msi])
+spring_summer = mergeSplits([spring, summer, msi, ewc])
+winter_spring_summer = mergeSplits([winter, spring, summer, msi, ewc])
 
 spring.to_csv("../../data/merged/spring.csv", sep=';', index=False)
 summer.to_csv("../../data/merged/summer.csv", sep=';', index=False)

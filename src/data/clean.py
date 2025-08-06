@@ -26,14 +26,20 @@ def teamsClean(df):
 matches_winter = pd.read_csv("../../data/raw/matches_winter.csv", sep=r'\t|\s{2,}', engine='python')
 matches_spring = pd.read_csv("../../data/raw/matches_spring.csv", sep=r'\t|\s{2,}', engine='python')
 matches_summer = pd.read_csv("../../data/raw/matches_summer.csv", sep=r'\t|\s{2,}', engine='python')
+matches_msi = pd.read_csv("../../data/raw/matches_msi.csv", sep=r'\t|\s{2,}', engine='python')
+matches_ewc = pd.read_csv("../../data/raw/matches_ewc.csv", sep=r'\t|\s{2,}', engine='python')
 
 matches_winter = matchesClean(matches_winter, 1, 'winter_')
 matches_spring = matchesClean(matches_spring, 2, 'spring_')
 matches_summer = matchesClean(matches_summer, 3, 'summer_')
+matches_msi = matchesClean(matches_msi, 4, 'msi_')
+matches_ewc = matchesClean(matches_ewc, 4, 'ewc_')
 
 matches_winter.to_csv("../../data/cleaned/matches_winter.csv", sep=';', index=False)
 matches_spring.to_csv("../../data/cleaned/matches_spring.csv", sep=';', index=False)
 matches_summer.to_csv("../../data/cleaned/matches_summer.csv", sep=';', index=False)
+matches_msi.to_csv("../../data/cleaned/matches_msi.csv", sep=';', index=False)
+matches_ewc.to_csv("../../data/cleaned/matches_ewc.csv", sep=';', index=False)
 
 teams_winter = pd.read_csv("../../data/raw/teams_winter.csv", sep=r'\t|\s{2,}', engine='python')
 teams_spring = pd.read_csv("../../data/raw/teams_spring.csv", sep=r'\t|\s{2,}', engine='python')

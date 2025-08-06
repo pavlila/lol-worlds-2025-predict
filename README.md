@@ -11,3 +11,5 @@ winter_teams_data:
     lpl - split 1 | split 1 playoffs
 
     lec - winter | winter playoffs
+
+    lck - lck cup

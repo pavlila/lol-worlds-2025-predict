@@ -13,3 +13,7 @@ winter_teams_data:
     lec - winter | winter playoffs
 
     lck - lck cup
+
+    lta north - split 1
+
+    lta south - split 1

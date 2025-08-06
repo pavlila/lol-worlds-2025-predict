@@ -24,33 +24,11 @@ def teamsClean(df):
     return df
 
 matches_winter = pd.read_csv("../../data/raw/matches_winter.csv", sep=r'\t|\s{2,}', engine='python')
-#matches_spring = pd.read_csv("../../data/raw/matches_spring.csv", sep=r'\t|\s{2,}', engine='python')
-#matches_summer = pd.read_csv("../../data/raw/matches_summer.csv", sep=r'\t|\s{2,}', engine='python')
-#matches_msi = pd.read_csv("../../data/raw/matches_msi.csv", sep=r'\t|\s{2,}', engine='python')
-#matches_ewc = pd.read_csv("../../data/raw/matches_ewc.csv", sep=r'\t|\s{2,}', engine='python')
 
 matches_winter = matchesClean(matches_winter, 'winter_')
-#matches_spring = matchesClean(matches_spring, 'spring_')
-#matches_summer = matchesClean(matches_summer, 'summer_')
-#matches_msi = matchesClean(matches_msi, 'msi_')
-#matches_ewc = matchesClean(matches_ewc, 'ewc_')
 
 matches_winter.to_csv("../../data/cleaned/matches_winter.csv", sep=';', index=False)
-#matches_spring.to_csv("../../data/cleaned/matches_spring.csv", sep=';', index=False)
-#matches_summer.to_csv("../../data/cleaned/matches_summer.csv", sep=';', index=False)
-#matches_msi.to_csv("../../data/cleaned/matches_msi.csv", sep=';', index=False)
-#matches_ewc.to_csv("../../data/cleaned/matches_ewc.csv", sep=';', index=False)
 
-#teams_winter = pd.read_csv("../../data/raw/teams_winter.csv", sep=r'\t|\s{2,}', engine='python')
-#teams_spring = pd.read_csv("../../data/raw/teams_spring.csv", sep=r'\t|\s{2,}', engine='python')
-#teams_summer = pd.read_csv("../../data/raw/teams_summer.csv", sep=r'\t|\s{2,}', engine='python')
-teams_winter_daily = pd.read_csv("../../data/raw/teams_winter_by_time.csv", sep=',')
+teams_winter_daily = pd.read_csv("../../data/raw/teams_winter.csv", sep=',')
 
-#teams_winter = teamsClean(teams_winter)
-#teams_spring = teamsClean(teams_spring)
-#teams_summer = teamsClean(teams_summer)
-
-#teams_winter.to_csv("../../data/cleaned/teams_winter.csv", sep=';', index=False)
-#teams_spring.to_csv("../../data/cleaned/teams_spring.csv", sep=';', index=False)
-#teams_summer.to_csv("../../data/cleaned/teams_summer.csv", sep=';', index=False)
-teams_winter_daily.to_csv("../../data/cleaned/teams_winter_daily.csv", sep=';', index=False)
+teams_winter_daily.to_csv("../../data/cleaned/teams_winter.csv", sep=';', index=False)

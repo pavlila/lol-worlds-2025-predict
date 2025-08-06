@@ -1,761 +1,470 @@
-match_id;game_in_series;teamA;teamB;teamA_win;date;split
-winter_0;1;Top Esports;LGD Gaming;1;2025-02-16;1
-winter_0;2;Top Esports;LGD Gaming;1;2025-02-16;1
-winter_0;3;Top Esports;LGD Gaming;1;2025-02-16;1
-winter_1;1;Funplus Phoenix;Invictus Gaming;0;2025-02-15;1
-winter_1;2;Funplus Phoenix;Invictus Gaming;0;2025-02-15;1
-winter_1;3;Funplus Phoenix;Invictus Gaming;0;2025-02-15;1
-winter_2;1;Bilibili Gaming;TT;1;2025-02-14;1
-winter_2;2;Bilibili Gaming;TT;1;2025-02-14;1
-winter_2;3;Bilibili Gaming;TT;0;2025-02-14;1
-winter_2;4;Bilibili Gaming;TT;0;2025-02-14;1
-winter_2;5;Bilibili Gaming;TT;0;2025-02-14;1
-winter_3;1;Royal Never Give Up;Ninjas in Pyjamas;0;2025-02-13;1
-winter_3;2;Royal Never Give Up;Ninjas in Pyjamas;0;2025-02-13;1
-winter_3;3;Royal Never Give Up;Ninjas in Pyjamas;0;2025-02-13;1
-winter_4;1;Ultra Prime;OMG;1;2025-02-12;1
-winter_4;2;Ultra Prime;OMG;1;2025-02-12;1
-winter_4;3;Ultra Prime;OMG;0;2025-02-12;1
-winter_4;4;Ultra Prime;OMG;0;2025-02-12;1
-winter_4;5;Ultra Prime;OMG;0;2025-02-12;1
-winter_5;1;Edward Gaming;LNG Esports;1;2025-02-11;1
-winter_5;2;Edward Gaming;LNG Esports;1;2025-02-11;1
-winter_5;3;Edward Gaming;LNG Esports;1;2025-02-11;1
-winter_6;1;Team WE;Anyone s Legend;1;2025-02-10;1
-winter_6;2;Team WE;Anyone s Legend;0;2025-02-10;1
-winter_6;3;Team WE;Anyone s Legend;0;2025-02-10;1
-winter_6;4;Team WE;Anyone s Legend;0;2025-02-10;1
-winter_7;1;JD Gaming;Weibo Gaming;1;2025-02-09;1
-winter_7;2;JD Gaming;Weibo Gaming;1;2025-02-09;1
-winter_7;3;JD Gaming;Weibo Gaming;1;2025-02-09;1
-winter_7;4;JD Gaming;Weibo Gaming;0;2025-02-09;1
-winter_7;5;JD Gaming;Weibo Gaming;0;2025-02-09;1
-winter_8;1;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08;1
-winter_8;2;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08;1
-winter_8;3;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08;1
-winter_9;1;Invictus Gaming;Royal Never Give Up;1;2025-01-25;1
-winter_9;2;Invictus Gaming;Royal Never Give Up;1;2025-01-25;1
-winter_9;3;Invictus Gaming;Royal Never Give Up;1;2025-01-25;1
-winter_9;4;Invictus Gaming;Royal Never Give Up;0;2025-01-25;1
-winter_10;1;Bilibili Gaming;LNG Esports;1;2025-01-25;1
-winter_10;2;Bilibili Gaming;LNG Esports;1;2025-01-25;1
-winter_10;3;Bilibili Gaming;LNG Esports;1;2025-01-25;1
-winter_11;1;Top Esports;Anyone s Legend;1;2025-01-24;1
-winter_11;2;Top Esports;Anyone s Legend;0;2025-01-24;1
-winter_11;3;Top Esports;Anyone s Legend;0;2025-01-24;1
-winter_11;4;Top Esports;Anyone s Legend;0;2025-01-24;1
-winter_12;1;OMG;JD Gaming;1;2025-01-23;1
-winter_12;2;OMG;JD Gaming;1;2025-01-23;1
-winter_12;3;OMG;JD Gaming;0;2025-01-23;1
-winter_12;4;OMG;JD Gaming;0;2025-01-23;1
-winter_12;5;OMG;JD Gaming;0;2025-01-23;1
-winter_13;1;LGD Gaming;Team WE;1;2025-01-22;1
-winter_13;2;LGD Gaming;Team WE;1;2025-01-22;1
-winter_13;3;LGD Gaming;Team WE;1;2025-01-22;1
-winter_14;1;Edward Gaming;TT;1;2025-01-21;1
-winter_14;2;Edward Gaming;TT;0;2025-01-21;1
-winter_14;3;Edward Gaming;TT;0;2025-01-21;1
-winter_14;4;Edward Gaming;TT;0;2025-01-21;1
-winter_15;1;JD Gaming;Ultra Prime;1;2025-01-20;1
-winter_15;2;JD Gaming;Ultra Prime;1;2025-01-20;1
-winter_15;3;JD Gaming;Ultra Prime;1;2025-01-20;1
-winter_16;1;Invictus Gaming;Ninjas in Pyjamas;1;2025-01-19;1
-winter_16;2;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19;1
-winter_16;3;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19;1
-winter_16;4;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19;1
-winter_17;1;Top Esports;Team WE;1;2025-01-18;1
-winter_17;2;Top Esports;Team WE;1;2025-01-18;1
-winter_17;3;Top Esports;Team WE;1;2025-01-18;1
-winter_18;1;Edward Gaming;Bilibili Gaming;0;2025-01-17;1
-winter_18;2;Edward Gaming;Bilibili Gaming;0;2025-01-17;1
-winter_18;3;Edward Gaming;Bilibili Gaming;0;2025-01-17;1
-winter_19;1;LGD Gaming;Anyone s Legend;0;2025-01-16;1
-winter_19;2;LGD Gaming;Anyone s Legend;0;2025-01-16;1
-winter_19;3;LGD Gaming;Anyone s Legend;0;2025-01-16;1
-winter_20;1;Ultra Prime;Weibo Gaming;1;2025-01-15;1
-winter_20;2;Ultra Prime;Weibo Gaming;0;2025-01-15;1
-winter_20;3;Ultra Prime;Weibo Gaming;0;2025-01-15;1
-winter_20;4;Ultra Prime;Weibo Gaming;0;2025-01-15;1
-winter_21;1;Royal Never Give Up;Funplus Phoenix;1;2025-01-14;1
-winter_21;2;Royal Never Give Up;Funplus Phoenix;1;2025-01-14;1
-winter_21;3;Royal Never Give Up;Funplus Phoenix;1;2025-01-14;1
-winter_21;4;Royal Never Give Up;Funplus Phoenix;0;2025-01-14;1
-winter_22;1;LNG Esports;TT;1;2025-01-13;1
-winter_22;2;LNG Esports;TT;0;2025-01-13;1
-winter_22;3;LNG Esports;TT;0;2025-01-13;1
-winter_22;4;LNG Esports;TT;0;2025-01-13;1
-winter_23;1;Weibo Gaming;OMG;1;2025-01-12;1
-winter_23;2;Weibo Gaming;OMG;1;2025-01-12;1
-winter_23;3;Weibo Gaming;OMG;1;2025-01-12;1
-winter_24;1;Top Esports;Anyone s Legend;1;2025-03-01;1
-winter_24;2;Top Esports;Anyone s Legend;1;2025-03-01;1
-winter_24;3;Top Esports;Anyone s Legend;1;2025-03-01;1
-winter_24;4;Top Esports;Anyone s Legend;0;2025-03-01;1
-winter_25;1;JD Gaming;Top Esports;1;2025-02-27;1
-winter_25;2;JD Gaming;Top Esports;0;2025-02-27;1
-winter_25;3;JD Gaming;Top Esports;0;2025-02-27;1
-winter_25;4;JD Gaming;Top Esports;0;2025-02-27;1
-winter_26;1;Bilibili Gaming;Top Esports;1;2025-02-26;1
-winter_26;2;Bilibili Gaming;Top Esports;0;2025-02-26;1
-winter_26;3;Bilibili Gaming;Top Esports;0;2025-02-26;1
-winter_26;4;Bilibili Gaming;Top Esports;0;2025-02-26;1
-winter_27;1;JD Gaming;Anyone s Legend;1;2025-02-25;1
-winter_27;2;JD Gaming;Anyone s Legend;1;2025-02-25;1
-winter_27;3;JD Gaming;Anyone s Legend;0;2025-02-25;1
-winter_27;4;JD Gaming;Anyone s Legend;0;2025-02-25;1
-winter_27;5;JD Gaming;Anyone s Legend;0;2025-02-25;1
-winter_28;1;Ninjas in Pyjamas;Top Esports;1;2025-02-24;1
-winter_28;2;Ninjas in Pyjamas;Top Esports;0;2025-02-24;1
-winter_28;3;Ninjas in Pyjamas;Top Esports;0;2025-02-24;1
-winter_28;4;Ninjas in Pyjamas;Top Esports;0;2025-02-24;1
-winter_29;1;Bilibili Gaming;TT;1;2025-02-24;1
-winter_29;2;Bilibili Gaming;TT;1;2025-02-24;1
-winter_29;3;Bilibili Gaming;TT;1;2025-02-24;1
-winter_29;4;Bilibili Gaming;TT;0;2025-02-24;1
-winter_30;1;Invictus Gaming;Top Esports;1;2025-02-23;1
-winter_30;2;Invictus Gaming;Top Esports;0;2025-02-23;1
-winter_30;3;Invictus Gaming;Top Esports;0;2025-02-23;1
-winter_30;4;Invictus Gaming;Top Esports;0;2025-02-23;1
-winter_31;1;Weibo Gaming;Bilibili Gaming;1;2025-02-23;1
-winter_31;2;Weibo Gaming;Bilibili Gaming;0;2025-02-23;1
-winter_31;3;Weibo Gaming;Bilibili Gaming;0;2025-02-23;1
-winter_31;4;Weibo Gaming;Bilibili Gaming;0;2025-02-23;1
-winter_32;1;Ninjas in Pyjamas;Anyone s Legend;1;2025-02-22;1
-winter_32;2;Ninjas in Pyjamas;Anyone s Legend;1;2025-02-22;1
-winter_32;3;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22;1
-winter_32;4;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22;1
-winter_32;5;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22;1
-winter_33;1;JD Gaming;TT;1;2025-02-22;1
-winter_33;2;JD Gaming;TT;1;2025-02-22;1
-winter_33;3;JD Gaming;TT;1;2025-02-22;1
-winter_33;4;JD Gaming;TT;0;2025-02-22;1
-winter_34;1;SK Gaming;Fnatic;0;2025-02-03;1
-winter_35;1;G2 Esports;Team Heretics;1;2025-02-03;1
-winter_36;1;Karmine Corp;Team BDS;0;2025-02-03;1
-winter_37;1;Movistar KOI;Rogue;1;2025-02-03;1
-winter_38;1;Team Vitality;GIANTX;1;2025-02-03;1
-winter_39;1;G2 Esports;Movistar KOI;1;2025-02-02;1
-winter_40;1;Team Heretics;Team Vitality;0;2025-02-02;1
-winter_41;1;Fnatic;Karmine Corp;1;2025-02-02;1
-winter_42;1;Team BDS;GIANTX;0;2025-02-02;1
-winter_43;1;Rogue;SK Gaming;0;2025-02-02;1
-winter_44;1;Team Vitality;Karmine Corp;0;2025-02-01;1
-winter_45;1;Team Heretics;Movistar KOI;1;2025-02-01;1
-winter_46;1;Rogue;G2 Esports;0;2025-02-01;1
-winter_47;1;GIANTX;Fnatic;0;2025-02-01;1
-winter_48;1;SK Gaming;Team BDS;0;2025-02-01;1
-winter_49;1;SK Gaming;Movistar KOI;0;2025-01-27;1
-winter_50;1;Karmine Corp;Team Heretics;1;2025-01-27;1
-winter_51;1;G2 Esports;GIANTX;1;2025-01-27;1
-winter_52;1;Fnatic;Team BDS;1;2025-01-27;1
-winter_53;1;Team Vitality;Rogue;1;2025-01-27;1
-winter_54;1;Team BDS;Movistar KOI;0;2025-01-26;1
-winter_55;1;Karmine Corp;Rogue;1;2025-01-26;1
-winter_56;1;Fnatic;G2 Esports;1;2025-01-26;1
-winter_57;1;SK Gaming;Team Vitality;0;2025-01-26;1
-winter_58;1;GIANTX;Team Heretics;1;2025-01-26;1
-winter_59;1;Karmine Corp;SK Gaming;1;2025-01-25;1
-winter_60;1;Team Vitality;G2 Esports;0;2025-01-25;1
-winter_61;1;GIANTX;Movistar KOI;0;2025-01-25;1
-winter_62;1;Team BDS;Team Heretics;0;2025-01-25;1
-winter_63;1;Rogue;Fnatic;0;2025-01-25;1
-winter_64;1;GIANTX;Karmine Corp;1;2025-01-20;1
-winter_65;1;G2 Esports;SK Gaming;1;2025-01-20;1
-winter_66;1;Movistar KOI;Team Vitality;1;2025-01-20;1
-winter_67;1;Team Heretics;Fnatic;0;2025-01-20;1
-winter_68;1;Team BDS;Rogue;1;2025-01-20;1
-winter_69;1;Fnatic;Team Vitality;1;2025-01-19;1
-winter_70;1;G2 Esports;Team BDS;0;2025-01-19;1
-winter_71;1;Movistar KOI;Karmine Corp;0;2025-01-19;1
-winter_72;1;Rogue;GIANTX;0;2025-01-19;1
-winter_73;1;Team Heretics;SK Gaming;1;2025-01-19;1
-winter_74;1;Karmine Corp;G2 Esports;1;2025-01-18;1
-winter_75;1;Movistar KOI;Fnatic;1;2025-01-18;1
-winter_76;1;GIANTX;SK Gaming;1;2025-01-18;1
-winter_77;1;Team Vitality;Team BDS;1;2025-01-18;1
-winter_78;1;Team Heretics;Rogue;0;2025-01-18;1
-winter_79;1;G2 Esports;Karmine Corp;0;2025-03-02;1
-winter_79;2;G2 Esports;Karmine Corp;0;2025-03-02;1
-winter_79;3;G2 Esports;Karmine Corp;0;2025-03-02;1
-winter_80;1;Karmine Corp;Fnatic;1;2025-03-01;1
-winter_80;2;Karmine Corp;Fnatic;1;2025-03-01;1
-winter_80;3;Karmine Corp;Fnatic;1;2025-03-01;1
-winter_80;4;Karmine Corp;Fnatic;0;2025-03-01;1
-winter_80;5;Karmine Corp;Fnatic;0;2025-03-01;1
-winter_81;1;Fnatic;Movistar KOI;1;2025-02-28;1
-winter_81;2;Fnatic;Movistar KOI;1;2025-02-28;1
-winter_81;3;Fnatic;Movistar KOI;1;2025-02-28;1
-winter_81;4;Fnatic;Movistar KOI;0;2025-02-28;1
-winter_82;1;Karmine Corp;G2 Esports;1;2025-02-24;1
-winter_82;2;Karmine Corp;G2 Esports;0;2025-02-24;1
-winter_82;3;Karmine Corp;G2 Esports;0;2025-02-24;1
-winter_82;4;Karmine Corp;G2 Esports;0;2025-02-24;1
-winter_83;1;Movistar KOI;GIANTX;1;2025-02-23;1
-winter_83;2;Movistar KOI;GIANTX;1;2025-02-23;1
-winter_84;1;Fnatic;Team BDS;1;2025-02-23;1
-winter_84;2;Fnatic;Team BDS;1;2025-02-23;1
-winter_84;3;Fnatic;Team BDS;0;2025-02-23;1
-winter_85;1;Team Vitality;Team BDS;1;2025-02-22;1
-winter_85;2;Team Vitality;Team BDS;0;2025-02-22;1
-winter_85;3;Team Vitality;Team BDS;0;2025-02-22;1
-winter_86;1;GIANTX;Team Heretics;1;2025-02-22;1
-winter_86;2;GIANTX;Team Heretics;1;2025-02-22;1
-winter_86;3;GIANTX;Team Heretics;0;2025-02-22;1
-winter_87;1;Karmine Corp;Movistar KOI;1;2025-02-17;1
-winter_87;2;Karmine Corp;Movistar KOI;1;2025-02-17;1
-winter_88;1;Fnatic;G2 Esports;0;2025-02-17;1
-winter_88;2;Fnatic;G2 Esports;0;2025-02-17;1
-winter_89;1;Karmine Corp;Team Vitality;1;2025-02-16;1
-winter_89;2;Karmine Corp;Team Vitality;1;2025-02-16;1
-winter_90;1;Movistar KOI;Team BDS;1;2025-02-16;1
-winter_90;2;Movistar KOI;Team BDS;1;2025-02-16;1
-winter_91;1;G2 Esports;GIANTX;1;2025-02-15;1
-winter_91;2;G2 Esports;GIANTX;1;2025-02-15;1
-winter_92;1;Fnatic;Team Heretics;1;2025-02-15;1
-winter_92;2;Fnatic;Team Heretics;1;2025-02-15;1
-winter_93;1;Hanwha Life eSports;Gen.G eSports;1;2025-02-23;1
-winter_93;2;Hanwha Life eSports;Gen.G eSports;1;2025-02-23;1
-winter_93;3;Hanwha Life eSports;Gen.G eSports;1;2025-02-23;1
-winter_93;4;Hanwha Life eSports;Gen.G eSports;0;2025-02-23;1
-winter_93;5;Hanwha Life eSports;Gen.G eSports;0;2025-02-23;1
-winter_94;1;Dplus KIA;Gen.G eSports;0;2025-02-22;1
-winter_94;2;Dplus KIA;Gen.G eSports;0;2025-02-22;1
-winter_94;3;Dplus KIA;Gen.G eSports;0;2025-02-22;1
-winter_95;1;Nongshim RedForce;Gen.G eSports;1;2025-02-20;1
-winter_95;2;Nongshim RedForce;Gen.G eSports;1;2025-02-20;1
-winter_95;3;Nongshim RedForce;Gen.G eSports;0;2025-02-20;1
-winter_95;4;Nongshim RedForce;Gen.G eSports;0;2025-02-20;1
-winter_95;5;Nongshim RedForce;Gen.G eSports;0;2025-02-20;1
-winter_96;1;Hanwha Life eSports;Dplus KIA;1;2025-02-19;1
-winter_96;2;Hanwha Life eSports;Dplus KIA;1;2025-02-19;1
-winter_96;3;Hanwha Life eSports;Dplus KIA;1;2025-02-19;1
-winter_96;4;Hanwha Life eSports;Dplus KIA;0;2025-02-19;1
-winter_96;5;Hanwha Life eSports;Dplus KIA;0;2025-02-19;1
-winter_97;1;Gen.G eSports;Hanwha Life eSports;1;2025-02-16;1
-winter_97;2;Gen.G eSports;Hanwha Life eSports;1;2025-02-16;1
-winter_97;3;Gen.G eSports;Hanwha Life eSports;0;2025-02-16;1
-winter_97;4;Gen.G eSports;Hanwha Life eSports;0;2025-02-16;1
-winter_97;5;Gen.G eSports;Hanwha Life eSports;0;2025-02-16;1
-winter_98;1;Dplus KIA;Nongshim RedForce;1;2025-02-15;1
-winter_98;2;Dplus KIA;Nongshim RedForce;1;2025-02-15;1
-winter_98;3;Dplus KIA;Nongshim RedForce;1;2025-02-15;1
-winter_98;4;Dplus KIA;Nongshim RedForce;0;2025-02-15;1
-winter_99;1;Hanwha Life eSports;T1;1;2025-02-13;1
-winter_99;2;Hanwha Life eSports;T1;1;2025-02-13;1
-winter_99;3;Hanwha Life eSports;T1;1;2025-02-13;1
-winter_99;4;Hanwha Life eSports;T1;0;2025-02-13;1
-winter_99;5;Hanwha Life eSports;T1;0;2025-02-13;1
-winter_100;1;KT Rolster;Nongshim RedForce;0;2025-02-12;1
-winter_100;2;KT Rolster;Nongshim RedForce;0;2025-02-12;1
-winter_100;3;KT Rolster;Nongshim RedForce;0;2025-02-12;1
-winter_101;1;DRX;Nongshim RedForce;1;2025-02-09;1
-winter_101;2;DRX;Nongshim RedForce;0;2025-02-09;1
-winter_101;3;DRX;Nongshim RedForce;0;2025-02-09;1
-winter_101;4;DRX;Nongshim RedForce;0;2025-02-09;1
-winter_102;1;Hanwha Life eSports;DRX;1;2025-02-08;1
-winter_102;2;Hanwha Life eSports;DRX;1;2025-02-08;1
-winter_103;1;T1;Nongshim RedForce;1;2025-02-08;1
-winter_103;2;T1;Nongshim RedForce;1;2025-02-08;1
-winter_104;1;Nongshim RedForce;OK BRION;1;2025-02-07;1
-winter_104;2;Nongshim RedForce;OK BRION;1;2025-02-07;1
-winter_105;1;DRX;DN Freecs;1;2025-02-07;1
-winter_105;2;DRX;DN Freecs;1;2025-02-07;1
-winter_106;1;Nongshim RedForce;BNK FearX;1;2025-02-02;1
-winter_106;2;Nongshim RedForce;BNK FearX;1;2025-02-02;1
-winter_107;1;OK BRION;Dplus KIA;1;2025-02-01;1
-winter_107;2;OK BRION;Dplus KIA;0;2025-02-01;1
-winter_107;3;OK BRION;Dplus KIA;0;2025-02-01;1
-winter_108;1;T1;Gen.G eSports;1;2025-02-01;1
-winter_108;2;T1;Gen.G eSports;1;2025-02-01;1
-winter_108;3;T1;Gen.G eSports;0;2025-02-01;1
-winter_109;1;DRX;Hanwha Life eSports;0;2025-01-31;1
-winter_109;2;DRX;Hanwha Life eSports;0;2025-01-31;1
-winter_110;1;DN Freecs;KT Rolster;1;2025-01-31;1
-winter_110;2;DN Freecs;KT Rolster;0;2025-01-31;1
-winter_110;3;DN Freecs;KT Rolster;0;2025-01-31;1
-winter_111;1;KT Rolster;OK BRION;1;2025-01-26;1
-winter_111;2;KT Rolster;OK BRION;1;2025-01-26;1
-winter_112;1;T1;Nongshim RedForce;1;2025-01-26;1
-winter_112;2;T1;Nongshim RedForce;1;2025-01-26;1
-winter_113;1;Gen.G eSports;DN Freecs;1;2025-01-25;1
-winter_113;2;Gen.G eSports;DN Freecs;1;2025-01-25;1
-winter_114;1;Hanwha Life eSports;Dplus KIA;1;2025-01-25;1
-winter_114;2;Hanwha Life eSports;Dplus KIA;0;2025-01-25;1
-winter_114;3;Hanwha Life eSports;Dplus KIA;0;2025-01-25;1
-winter_115;1;T1;KT Rolster;1;2025-01-24;1
-winter_115;2;T1;KT Rolster;1;2025-01-24;1
-winter_115;3;T1;KT Rolster;0;2025-01-24;1
-winter_116;1;DRX;BNK FearX;1;2025-01-24;1
-winter_116;2;DRX;BNK FearX;1;2025-01-24;1
-winter_116;3;DRX;BNK FearX;0;2025-01-24;1
-winter_117;1;Hanwha Life eSports;Nongshim RedForce;1;2025-01-23;1
-winter_117;2;Hanwha Life eSports;Nongshim RedForce;1;2025-01-23;1
-winter_118;1;OK BRION;Gen.G eSports;1;2025-01-23;1
-winter_118;2;OK BRION;Gen.G eSports;1;2025-01-23;1
-winter_119;1;DN Freecs;DRX;1;2025-01-22;1
-winter_119;2;DN Freecs;DRX;0;2025-01-22;1
-winter_119;3;DN Freecs;DRX;0;2025-01-22;1
-winter_120;1;Dplus KIA;BNK FearX;1;2025-01-22;1
-winter_120;2;Dplus KIA;BNK FearX;1;2025-01-22;1
-winter_120;3;Dplus KIA;BNK FearX;0;2025-01-22;1
-winter_121;1;BNK FearX;Gen.G eSports;0;2025-01-19;1
-winter_121;2;BNK FearX;Gen.G eSports;0;2025-01-19;1
-winter_122;1;KT Rolster;Hanwha Life eSports;0;2025-01-19;1
-winter_122;2;KT Rolster;Hanwha Life eSports;0;2025-01-19;1
-winter_123;1;DRX;T1;0;2025-01-18;1
-winter_123;2;DRX;T1;0;2025-01-18;1
-winter_124;1;Dplus KIA;DN Freecs;1;2025-01-18;1
-winter_124;2;Dplus KIA;DN Freecs;1;2025-01-18;1
-winter_125;1;Nongshim RedForce;OK BRION;1;2025-01-17;1
-winter_125;2;Nongshim RedForce;OK BRION;1;2025-01-17;1
-winter_126;1;Gen.G eSports;Hanwha Life eSports;1;2025-01-17;1
-winter_126;2;Gen.G eSports;Hanwha Life eSports;1;2025-01-17;1
-winter_127;1;Dplus KIA;T1;1;2025-01-16;1
-winter_127;2;Dplus KIA;T1;1;2025-01-16;1
-winter_127;3;Dplus KIA;T1;0;2025-01-16;1
-winter_128;1;BNK FearX;KT Rolster;1;2025-01-16;1
-winter_128;2;BNK FearX;KT Rolster;0;2025-01-16;1
-winter_128;3;BNK FearX;KT Rolster;0;2025-01-16;1
-winter_129;1;DN Freecs;Nongshim RedForce;1;2025-01-15;1
-winter_129;2;DN Freecs;Nongshim RedForce;1;2025-01-15;1
-winter_129;3;DN Freecs;Nongshim RedForce;0;2025-01-15;1
-winter_130;1;OK BRION;DRX;1;2025-01-15;1
-winter_130;2;OK BRION;DRX;0;2025-01-15;1
-winter_130;3;OK BRION;DRX;0;2025-01-15;1
-winter_131;1;Team Liquid;FlyQuest;0;2025-02-09;1
-winter_132;1;Dignitas;FlyQuest;0;2025-02-09;1
-winter_132;2;Dignitas;FlyQuest;0;2025-02-09;1
-winter_133;1;Team Liquid;Shopify Rebellion;1;2025-02-09;1
-winter_133;2;Team Liquid;Shopify Rebellion;1;2025-02-09;1
-winter_134;1;100 Thieves;Cloud9;1;2025-02-02;1
-winter_135;1;FlyQuest;Cloud9;1;2025-02-02;1
-winter_135;2;FlyQuest;Cloud9;0;2025-02-02;1
-winter_135;3;FlyQuest;Cloud9;0;2025-02-02;1
-winter_136;1;Team Liquid;100 Thieves;1;2025-02-02;1
-winter_136;2;Team Liquid;100 Thieves;0;2025-02-02;1
-winter_136;3;Team Liquid;100 Thieves;0;2025-02-02;1
-winter_137;1;LYON;Shopify Rebellion;1;2025-02-01;1
-winter_137;2;LYON;Shopify Rebellion;0;2025-02-01;1
-winter_137;3;LYON;Shopify Rebellion;0;2025-02-01;1
-winter_138;1;Disguised;Dignitas;1;2025-02-01;1
-winter_138;2;Disguised;Dignitas;0;2025-02-01;1
-winter_138;3;Disguised;Dignitas;0;2025-02-01;1
-winter_139;1;Dignitas;Team Liquid;0;2025-01-26;1
-winter_139;2;Dignitas;Team Liquid;0;2025-01-26;1
-winter_140;1;Disguised;100 Thieves;0;2025-01-26;1
-winter_140;2;Disguised;100 Thieves;0;2025-01-26;1
-winter_141;1;LYON;Cloud9;0;2025-01-25;1
-winter_141;2;LYON;Cloud9;0;2025-01-25;1
-winter_142;1;Shopify Rebellion;FlyQuest;0;2025-01-25;1
-winter_142;2;Shopify Rebellion;FlyQuest;0;2025-01-25;1
-winter_143;1;LOUD;paiN Gaming;1;2025-02-09;1
-winter_144;1;paiN Gaming;FURIA;1;2025-02-09;1
-winter_144;2;paiN Gaming;FURIA;1;2025-02-09;1
-winter_144;3;paiN Gaming;FURIA;0;2025-02-09;1
-winter_145;1;RED Canids;LOUD;1;2025-02-09;1
-winter_145;2;RED Canids;LOUD;0;2025-02-09;1
-winter_145;3;RED Canids;LOUD;0;2025-02-09;1
-winter_146;1;Leviatan;Isurus;0;2025-02-02;1
-winter_147;1;paiN Gaming;Leviatan;1;2025-02-02;1
-winter_147;2;paiN Gaming;Leviatan;0;2025-02-02;1
-winter_147;3;paiN Gaming;Leviatan;0;2025-02-02;1
-winter_148;1;Isurus;RED Canids;1;2025-02-02;1
-winter_148;2;Isurus;RED Canids;1;2025-02-02;1
-winter_148;3;Isurus;RED Canids;0;2025-02-02;1
-winter_149;1;Fluxo;FURIA;0;2025-02-01;1
-winter_149;2;Fluxo;FURIA;0;2025-02-01;1
-winter_150;1;LOUD;Vivo Keyd Stars;1;2025-02-01;1
-winter_150;2;LOUD;Vivo Keyd Stars;1;2025-02-01;1
-winter_150;3;LOUD;Vivo Keyd Stars;0;2025-02-01;1
-winter_151;1;RED Canids;Fluxo;1;2025-01-26;1
-winter_151;2;RED Canids;Fluxo;1;2025-01-26;1
-winter_152;1;Isurus;FURIA;1;2025-01-26;1
-winter_152;2;Isurus;FURIA;1;2025-01-26;1
-winter_152;3;Isurus;FURIA;0;2025-01-26;1
-winter_153;1;Vivo Keyd Stars;Leviatan;1;2025-01-25;1
-winter_153;2;Vivo Keyd Stars;Leviatan;0;2025-01-25;1
-winter_153;3;Vivo Keyd Stars;Leviatan;0;2025-01-25;1
-winter_154;1;LOUD;paiN Gaming;1;2025-01-25;1
-winter_154;2;LOUD;paiN Gaming;0;2025-01-25;1
-winter_154;3;LOUD;paiN Gaming;0;2025-01-25;1
-winter_155;1;PSG Talon;MGN Vikings Esports;1;2025-02-16;1
-winter_155;2;PSG Talon;MGN Vikings Esports;1;2025-02-16;1
-winter_155;3;PSG Talon;MGN Vikings Esports;0;2025-02-16;1
-winter_156;1;CTBC Flying Oyster;Chiefs Esports Club;1;2025-02-16;1
-winter_156;2;CTBC Flying Oyster;Chiefs Esports Club;1;2025-02-16;1
-winter_157;1;Team Secret Whales;GAM Esports;1;2025-02-15;1
-winter_157;2;Team Secret Whales;GAM Esports;1;2025-02-15;1
-winter_158;1;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0;2025-02-15;1
-winter_158;2;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0;2025-02-15;1
-winter_159;1;CTBC Flying Oyster;PSG Talon;1;2025-02-14;1
-winter_159;2;CTBC Flying Oyster;PSG Talon;1;2025-02-14;1
-winter_159;3;CTBC Flying Oyster;PSG Talon;0;2025-02-14;1
-winter_160;1;Chiefs Esports Club;MGN Vikings Esports;0;2025-02-14;1
-winter_160;2;Chiefs Esports Club;MGN Vikings Esports;0;2025-02-14;1
-winter_161;1;GAM Esports;DetonatioN FocusMe;1;2025-02-13;1
-winter_161;2;GAM Esports;DetonatioN FocusMe;1;2025-02-13;1
-winter_162;1;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0;2025-02-13;1
-winter_162;2;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0;2025-02-13;1
-winter_163;1;PSG Talon;GAM Esports;1;2025-02-09;1
-winter_163;2;PSG Talon;GAM Esports;1;2025-02-09;1
-winter_163;3;PSG Talon;GAM Esports;0;2025-02-09;1
-winter_164;1;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0;2025-02-09;1
-winter_164;2;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0;2025-02-09;1
-winter_165;1;MGN Vikings Esports;DetonatioN FocusMe;1;2025-02-08;1
-winter_165;2;MGN Vikings Esports;DetonatioN FocusMe;1;2025-02-08;1
-winter_165;3;MGN Vikings Esports;DetonatioN FocusMe;0;2025-02-08;1
-winter_166;1;CTBC Flying Oyster;Team Secret Whales;1;2025-02-08;1
-winter_166;2;CTBC Flying Oyster;Team Secret Whales;0;2025-02-08;1
-winter_166;3;CTBC Flying Oyster;Team Secret Whales;0;2025-02-08;1
-winter_167;1;Chiefs Esports Club;GAM Esports;0;2025-02-07;1
-winter_167;2;Chiefs Esports Club;GAM Esports;0;2025-02-07;1
-winter_168;1;Fukuoka SoftBank HAWKS gaming;PSG Talon;0;2025-02-07;1
-winter_168;2;Fukuoka SoftBank HAWKS gaming;PSG Talon;0;2025-02-07;1
-winter_169;1;MGN Vikings Esports;Team Secret Whales;1;2025-02-06;1
-winter_169;2;MGN Vikings Esports;Team Secret Whales;1;2025-02-06;1
-winter_170;1;CTBC Flying Oyster;DetonatioN FocusMe;1;2025-02-06;1
-winter_170;2;CTBC Flying Oyster;DetonatioN FocusMe;1;2025-02-06;1
-winter_171;1;PSG Talon;DetonatioN FocusMe;1;2025-01-26;1
-winter_171;2;PSG Talon;DetonatioN FocusMe;1;2025-01-26;1
-winter_172;1;Chiefs Esports Club;Team Secret Whales;0;2025-01-26;1
-winter_172;2;Chiefs Esports Club;Team Secret Whales;0;2025-01-26;1
-winter_173;1;GAM Esports;CTBC Flying Oyster;1;2025-01-25;1
-winter_173;2;GAM Esports;CTBC Flying Oyster;0;2025-01-25;1
-winter_173;3;GAM Esports;CTBC Flying Oyster;0;2025-01-25;1
-winter_174;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-01-25;1
-winter_174;2;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-01-25;1
-winter_175;1;PSG Talon;Team Secret Whales;1;2025-01-24;1
-winter_175;2;PSG Talon;Team Secret Whales;1;2025-01-24;1
-winter_176;1;Chiefs Esports Club;DetonatioN FocusMe;1;2025-01-24;1
-winter_176;2;Chiefs Esports Club;DetonatioN FocusMe;0;2025-01-24;1
-winter_176;3;Chiefs Esports Club;DetonatioN FocusMe;0;2025-01-24;1
-winter_177;1;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0;2025-01-19;1
-winter_177;2;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0;2025-01-19;1
-winter_178;1;GAM Esports;MGN Vikings Esports;0;2025-01-19;1
-winter_178;2;GAM Esports;MGN Vikings Esports;0;2025-01-19;1
-winter_179;1;PSG Talon;Chiefs Esports Club;1;2025-01-18;1
-winter_179;2;PSG Talon;Chiefs Esports Club;1;2025-01-18;1
-winter_180;1;Team Secret Whales;DetonatioN FocusMe;1;2025-01-18;1
-winter_180;2;Team Secret Whales;DetonatioN FocusMe;1;2025-01-18;1
-winter_181;1;Fukuoka SoftBank HAWKS gaming;GAM Esports;1;2025-01-17;1
-winter_181;2;Fukuoka SoftBank HAWKS gaming;GAM Esports;0;2025-01-17;1
-winter_181;3;Fukuoka SoftBank HAWKS gaming;GAM Esports;0;2025-01-17;1
-winter_182;1;CTBC Flying Oyster;MGN Vikings Esports;1;2025-01-17;1
-winter_182;2;CTBC Flying Oyster;MGN Vikings Esports;1;2025-01-17;1
-winter_182;3;CTBC Flying Oyster;MGN Vikings Esports;0;2025-01-17;1
-winter_183;1;CTBC Flying Oyster;PSG Talon;1;2025-02-23;1
-winter_183;2;CTBC Flying Oyster;PSG Talon;1;2025-02-23;1
-winter_183;3;CTBC Flying Oyster;PSG Talon;1;2025-02-23;1
-winter_183;4;CTBC Flying Oyster;PSG Talon;0;2025-02-23;1
-winter_184;1;PSG Talon;MGN Vikings Esports;1;2025-02-22;1
-winter_184;2;PSG Talon;MGN Vikings Esports;1;2025-02-22;1
-winter_184;3;PSG Talon;MGN Vikings Esports;1;2025-02-22;1
-winter_184;4;PSG Talon;MGN Vikings Esports;0;2025-02-22;1
-winter_184;5;PSG Talon;MGN Vikings Esports;0;2025-02-22;1
-winter_185;1;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21;1
-winter_185;2;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21;1
-winter_185;3;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21;1
-winter_185;4;CTBC Flying Oyster;MGN Vikings Esports;0;2025-02-21;1
-winter_186;1;GAM Esports;PSG Talon;1;2025-02-21;1
-winter_186;2;GAM Esports;PSG Talon;0;2025-02-21;1
-winter_186;3;GAM Esports;PSG Talon;0;2025-02-21;1
-winter_187;1;CTBC Flying Oyster;GAM Esports;1;2025-02-19;1
-winter_187;2;CTBC Flying Oyster;GAM Esports;1;2025-02-19;1
-winter_188;1;PSG Talon;MGN Vikings Esports;1;2025-02-19;1
-winter_188;2;PSG Talon;MGN Vikings Esports;0;2025-02-19;1
-winter_188;3;PSG Talon;MGN Vikings Esports;0;2025-02-19;1
-winter_189;1;Team Secret Whales;GAM Esports;0;2025-02-18;1
-winter_189;2;Team Secret Whales;GAM Esports;0;2025-02-18;1
-winter_190;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-02-18;1
-winter_190;2;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-02-18;1
-winter_191;1;Besiktas Esports;Papara SuperMassive;0;2025-02-27;1
-winter_192;1;BoostGate Esports;ULF Esports;1;2025-02-27;1
-winter_193;1;Misa Esports;Bushido Wildcats;0;2025-02-27;1
-winter_194;1;BBL Dark Passage;Eternal Fire;0;2025-02-27;1
-winter_195;1;Bushido Wildcats;Eternal Fire;1;2025-02-26;1
-winter_196;1;Besiktas Esports;BBL Dark Passage;0;2025-02-26;1
-winter_197;1;ULF Esports;Misa Esports;0;2025-02-26;1
-winter_198;1;Papara SuperMassive;BoostGate Esports;0;2025-02-26;1
-winter_199;1;Eternal Fire;ULF Esports;1;2025-02-25;1
-winter_200;1;Misa Esports;Papara SuperMassive;1;2025-02-25;1
-winter_201;1;BoostGate Esports;Besiktas Esports;1;2025-02-25;1
-winter_202;1;BBL Dark Passage;Bushido Wildcats;0;2025-02-25;1
-winter_203;1;BoostGate Esports;BBL Dark Passage;1;2025-02-14;1
-winter_204;1;Besiktas Esports;Misa Esports;0;2025-02-14;1
-winter_205;1;Papara SuperMassive;Eternal Fire;0;2025-02-14;1
-winter_206;1;ULF Esports;Bushido Wildcats;0;2025-02-14;1
-winter_207;1;Bushido Wildcats;Papara SuperMassive;0;2025-02-13;1
-winter_208;1;ULF Esports;BBL Dark Passage;1;2025-02-13;1
-winter_209;1;Misa Esports;BoostGate Esports;1;2025-02-13;1
-winter_210;1;Eternal Fire;Besiktas Esports;1;2025-02-13;1
-winter_211;1;BBL Dark Passage;Misa Esports;0;2025-02-12;1
-winter_212;1;Bushido Wildcats;Besiktas Esports;0;2025-02-12;1
-winter_213;1;Eternal Fire;BoostGate Esports;1;2025-02-12;1
-winter_214;1;Papara SuperMassive;ULF Esports;1;2025-02-12;1
-winter_215;1;Besiktas Esports;ULF Esports;1;2025-02-07;1
-winter_216;1;BBL Dark Passage;Papara SuperMassive;0;2025-02-07;1
-winter_217;1;Bushido Wildcats;BoostGate Esports;1;2025-02-07;1
-winter_218;1;Misa Esports;Eternal Fire;1;2025-02-07;1
-winter_219;1;Eternal Fire;BBL Dark Passage;1;2025-02-06;1
-winter_220;1;Bushido Wildcats;Misa Esports;1;2025-02-06;1
-winter_221;1;Papara SuperMassive;Besiktas Esports;1;2025-02-06;1
-winter_222;1;ULF Esports;BoostGate Esports;0;2025-02-06;1
-winter_223;1;Misa Esports;ULF Esports;1;2025-02-05;1
-winter_224;1;Papara SuperMassive;BoostGate Esports;0;2025-02-05;1
-winter_225;1;BBL Dark Passage;Besiktas Esports;0;2025-02-05;1
-winter_226;1;Eternal Fire;Bushido Wildcats;1;2025-02-05;1
-winter_227;1;ULF Esports;Eternal Fire;0;2025-01-31;1
-winter_228;1;Bushido Wildcats;BBL Dark Passage;0;2025-01-31;1
-winter_229;1;Besiktas Esports;BoostGate Esports;0;2025-01-31;1
-winter_230;1;Papara SuperMassive;Misa Esports;1;2025-01-31;1
-winter_231;1;BBL Dark Passage;BoostGate Esports;1;2025-01-30;1
-winter_232;1;Eternal Fire;Papara SuperMassive;0;2025-01-30;1
-winter_233;1;Misa Esports;Besiktas Esports;1;2025-01-30;1
-winter_234;1;Bushido Wildcats;ULF Esports;1;2025-01-30;1
-winter_235;1;Misa Esports;BoostGate Esports;0;2025-01-29;1
-winter_236;1;Papara SuperMassive;Bushido Wildcats;1;2025-01-29;1
-winter_237;1;Besiktas Esports;Eternal Fire;0;2025-01-29;1
-winter_238;1;BBL Dark Passage;ULF Esports;1;2025-01-29;1
-winter_239;1;ULF Esports;Papara SuperMassive;1;2025-01-24;1
-winter_240;1;Besiktas Esports;Bushido Wildcats;1;2025-01-24;1
-winter_241;1;BoostGate Esports;Eternal Fire;0;2025-01-24;1
-winter_242;1;Misa Esports;BBL Dark Passage;1;2025-01-24;1
-winter_243;1;Eternal Fire;Misa Esports;1;2025-01-23;1
-winter_244;1;Bushido Wildcats;BoostGate Esports;1;2025-01-23;1
-winter_245;1;ULF Esports;Besiktas Esports;0;2025-01-23;1
-winter_246;1;Papara SuperMassive;BBL Dark Passage;1;2025-01-23;1
-winter_247;1;Eternal Fire;Papara SuperMassive;1;2025-03-09;1
-winter_247;2;Eternal Fire;Papara SuperMassive;1;2025-03-09;1
-winter_247;3;Eternal Fire;Papara SuperMassive;0;2025-03-09;1
-winter_247;4;Eternal Fire;Papara SuperMassive;0;2025-03-09;1
-winter_247;5;Eternal Fire;Papara SuperMassive;0;2025-03-09;1
-winter_248;1;Papara SuperMassive;Misa Esports;1;2025-03-06;1
-winter_248;2;Papara SuperMassive;Misa Esports;1;2025-03-06;1
-winter_248;3;Papara SuperMassive;Misa Esports;1;2025-03-06;1
-winter_248;4;Papara SuperMassive;Misa Esports;0;2025-03-06;1
-winter_248;5;Papara SuperMassive;Misa Esports;0;2025-03-06;1
-winter_249;1;Misa Esports;BoostGate Esports;1;2025-03-05;1
-winter_249;2;Misa Esports;BoostGate Esports;1;2025-03-05;1
-winter_249;3;Misa Esports;BoostGate Esports;1;2025-03-05;1
-winter_249;4;Misa Esports;BoostGate Esports;0;2025-03-05;1
-winter_249;5;Misa Esports;BoostGate Esports;0;2025-03-05;1
-winter_250;1;Eternal Fire;Papara SuperMassive;1;2025-03-04;1
-winter_250;2;Eternal Fire;Papara SuperMassive;1;2025-03-04;1
-winter_250;3;Eternal Fire;Papara SuperMassive;1;2025-03-04;1
-winter_251;1;Bushido Wildcats;BoostGate Esports;0;2025-03-03;1
-winter_251;2;Bushido Wildcats;BoostGate Esports;0;2025-03-03;1
-winter_252;1;Misa Esports;Besiktas Esports;1;2025-03-03;1
-winter_252;2;Misa Esports;Besiktas Esports;1;2025-03-03;1
-winter_253;1;Joblife;Karmine Corp Blue;0;2025-01-31;1
-winter_254;1;GameWard;Joblife;0;2025-01-31;1
-winter_255;1;Karmine Corp Blue;GameWard;1;2025-01-31;1
-winter_256;1;Karmine Corp Blue;Gentle Mates;0;2025-01-30;1
-winter_257;1;Joblife;Vitality.Bee;0;2025-01-30;1
-winter_258;1;Solary;Ici Japon Corp. Esport;1;2025-01-30;1
-winter_259;1;BK ROG Esports;Galions;1;2025-01-30;1
-winter_260;1;Gentle Mates;Joblife;1;2025-01-29;1
-winter_261;1;GameWard;Vitality.Bee;0;2025-01-29;1
-winter_262;1;Solary;BK ROG Esports;0;2025-01-29;1
-winter_263;1;Galions;Team BDS Academy;1;2025-01-29;1
-winter_264;1;Gentle Mates;Vitality.Bee;0;2025-01-24;1
-winter_265;1;GameWard;Karmine Corp Blue;1;2025-01-24;1
-winter_266;1;Solary;Team BDS Academy;1;2025-01-24;1
-winter_267;1;Ici Japon Corp. Esport;BK ROG Esports;1;2025-01-24;1
-winter_268;1;Karmine Corp Blue;Vitality.Bee;0;2025-01-23;1
-winter_269;1;GameWard;Joblife;0;2025-01-23;1
-winter_270;1;Galions;Solary;1;2025-01-23;1
-winter_271;1;Ici Japon Corp. Esport;Team BDS Academy;1;2025-01-23;1
-winter_272;1;Karmine Corp Blue;Joblife;1;2025-01-22;1
-winter_273;1;Gentle Mates;GameWard;1;2025-01-22;1
-winter_274;1;Galions;Ici Japon Corp. Esport;1;2025-01-22;1
-winter_275;1;BK ROG Esports;Team BDS Academy;1;2025-01-22;1
-winter_276;1;Galions;Gentle Mates;1;2025-02-14;1
-winter_276;2;Galions;Gentle Mates;1;2025-02-14;1
-winter_277;1;BK ROG Esports;Solary;1;2025-02-14;1
-winter_277;2;BK ROG Esports;Solary;0;2025-02-14;1
-winter_277;3;BK ROG Esports;Solary;0;2025-02-14;1
-winter_278;1;Karmine Corp Blue;Solary;1;2025-02-13;1
-winter_278;2;Karmine Corp Blue;Solary;1;2025-02-13;1
-winter_279;1;BK ROG Esports;Ici Japon Corp. Esport;1;2025-02-13;1
-winter_279;2;BK ROG Esports;Ici Japon Corp. Esport;0;2025-02-13;1
-winter_279;3;BK ROG Esports;Ici Japon Corp. Esport;0;2025-02-13;1
-winter_280;1;Gentle Mates;Joblife;1;2025-02-12;1
-winter_280;2;Gentle Mates;Joblife;1;2025-02-12;1
-winter_281;1;Vitality.Bee;Galions;0;2025-02-12;1
-winter_281;2;Vitality.Bee;Galions;0;2025-02-12;1
-winter_282;1;Galions;Karmine Corp Blue;1;2025-02-06;1
-winter_282;2;Galions;Karmine Corp Blue;0;2025-02-06;1
-winter_282;3;Galions;Karmine Corp Blue;0;2025-02-06;1
-winter_283;1;Gentle Mates;Solary;1;2025-02-06;1
-winter_283;2;Gentle Mates;Solary;0;2025-02-06;1
-winter_283;3;Gentle Mates;Solary;0;2025-02-06;1
-winter_284;1;BK ROG Esports;Joblife;1;2025-02-05;1
-winter_284;2;BK ROG Esports;Joblife;1;2025-02-05;1
-winter_285;1;Vitality.Bee;Ici Japon Corp. Esport;0;2025-02-05;1
-winter_285;2;Vitality.Bee;Ici Japon Corp. Esport;0;2025-02-05;1
-winter_286;1;Karmine Corp Blue;Ici Japon Corp. Esport;1;2025-02-27;1
-winter_286;2;Karmine Corp Blue;Ici Japon Corp. Esport;1;2025-02-27;1
-winter_286;3;Karmine Corp Blue;Ici Japon Corp. Esport;1;2025-02-27;1
-winter_286;4;Karmine Corp Blue;Ici Japon Corp. Esport;0;2025-02-27;1
-winter_287;1;Ici Japon Corp. Esport;Solary;1;2025-02-26;1
-winter_287;2;Ici Japon Corp. Esport;Solary;1;2025-02-26;1
-winter_287;3;Ici Japon Corp. Esport;Solary;1;2025-02-26;1
-winter_287;4;Ici Japon Corp. Esport;Solary;0;2025-02-26;1
-winter_288;1;Galions;Solary;1;2025-02-20;1
-winter_288;2;Galions;Solary;1;2025-02-20;1
-winter_288;3;Galions;Solary;0;2025-02-20;1
-winter_288;4;Galions;Solary;0;2025-02-20;1
-winter_288;5;Galions;Solary;0;2025-02-20;1
-winter_289;1;Ici Japon Corp. Esport;Karmine Corp Blue;0;2025-02-19;1
-winter_289;2;Ici Japon Corp. Esport;Karmine Corp Blue;0;2025-02-19;1
-winter_289;3;Ici Japon Corp. Esport;Karmine Corp Blue;0;2025-02-19;1
-winter_290;1;ZETA;UCAM Esports;0;2025-01-30;1
-winter_291;1;Veni Vidi Vici;Guasones;1;2025-01-30;1
-winter_292;1;Barça eSports;GIANTX Pride;0;2025-01-30;1
-winter_293;1;Movistar KOI Fénix;LUA Gaming;1;2025-01-30;1
-winter_294;1;Ramboot Club;Los Heretics;0;2025-01-30;1
-winter_295;1;Los Heretics;ZETA;1;2025-01-29;1
-winter_296;1;GIANTX Pride;Ramboot Club;1;2025-01-29;1
-winter_297;1;Guasones;Barça eSports;0;2025-01-29;1
-winter_298;1;Movistar KOI Fénix;Veni Vidi Vici;0;2025-01-29;1
-winter_299;1;UCAM Esports;LUA Gaming;0;2025-01-29;1
-winter_300;1;Barça eSports;Movistar KOI Fénix;0;2025-01-28;1
-winter_301;1;ZETA;GIANTX Pride;0;2025-01-28;1
-winter_302;1;LUA Gaming;Veni Vidi Vici;0;2025-01-28;1
-winter_303;1;Ramboot Club;Guasones;1;2025-01-28;1
-winter_304;1;Los Heretics;UCAM Esports;1;2025-01-28;1
-winter_305;1;ZETA;Guasones;0;2025-01-23;1
-winter_306;1;UCAM Esports;Veni Vidi Vici;0;2025-01-23;1
-winter_307;1;LUA Gaming;Barça eSports;1;2025-01-23;1
-winter_308;1;GIANTX Pride;Los Heretics;0;2025-01-23;1
-winter_309;1;Movistar KOI Fénix;Ramboot Club;0;2025-01-23;1
-winter_310;1;GIANTX Pride;UCAM Esports;1;2025-01-22;1
-winter_311;1;Barça eSports;Veni Vidi Vici;1;2025-01-22;1
-winter_312;1;Los Heretics;Guasones;1;2025-01-22;1
-winter_313;1;Ramboot Club;LUA Gaming;1;2025-01-22;1
-winter_314;1;Movistar KOI Fénix;ZETA;1;2025-01-22;1
-winter_315;1;ZETA;LUA Gaming;0;2025-01-21;1
-winter_316;1;UCAM Esports;Barça eSports;1;2025-01-21;1
-winter_317;1;GIANTX Pride;Guasones;1;2025-01-21;1
-winter_318;1;Movistar KOI Fénix;Los Heretics;1;2025-01-21;1
-winter_319;1;Veni Vidi Vici;Ramboot Club;0;2025-01-21;1
-winter_320;1;ZETA;Veni Vidi Vici;0;2025-01-16;1
-winter_321;1;GIANTX Pride;Movistar KOI Fénix;1;2025-01-16;1
-winter_322;1;Ramboot Club;Barça eSports;0;2025-01-16;1
-winter_323;1;Los Heretics;LUA Gaming;0;2025-01-16;1
-winter_324;1;Guasones;UCAM Esports;0;2025-01-16;1
-winter_325;1;Barça eSports;ZETA;1;2025-01-15;1
-winter_326;1;Veni Vidi Vici;Los Heretics;0;2025-01-15;1
-winter_327;1;Movistar KOI Fénix;Guasones;1;2025-01-15;1
-winter_328;1;UCAM Esports;Ramboot Club;0;2025-01-15;1
-winter_329;1;GIANTX Pride;LUA Gaming;0;2025-01-15;1
-winter_330;1;Los Heretics;Barça eSports;1;2025-01-14;1
-winter_331;1;Movistar KOI Fénix;UCAM Esports;0;2025-01-14;1
-winter_332;1;GIANTX Pride;Veni Vidi Vici;0;2025-01-14;1
-winter_333;1;LUA Gaming;Guasones;1;2025-01-14;1
-winter_334;1;Ramboot Club;ZETA;1;2025-01-14;1
-winter_335;1;Barça eSports;Movistar KOI Fénix;1;2025-02-18;1
-winter_335;2;Barça eSports;Movistar KOI Fénix;1;2025-02-18;1
-winter_335;3;Barça eSports;Movistar KOI Fénix;0;2025-02-18;1
-winter_336;1;Ramboot Club;GIANTX Pride;1;2025-02-18;1
-winter_336;2;Ramboot Club;GIANTX Pride;0;2025-02-18;1
-winter_336;3;Ramboot Club;GIANTX Pride;0;2025-02-18;1
-winter_337;1;Movistar KOI Fénix;LUA Gaming;1;2025-02-13;1
-winter_337;2;Movistar KOI Fénix;LUA Gaming;1;2025-02-13;1
-winter_338;1;UCAM Esports;Barça eSports;1;2025-02-13;1
-winter_338;2;UCAM Esports;Barça eSports;0;2025-02-13;1
-winter_338;3;UCAM Esports;Barça eSports;0;2025-02-13;1
-winter_339;1;Los Heretics;GIANTX Pride;1;2025-02-11;1
-winter_339;2;Los Heretics;GIANTX Pride;1;2025-02-11;1
-winter_340;1;Ramboot Club;Veni Vidi Vici;0;2025-02-11;1
-winter_340;2;Ramboot Club;Veni Vidi Vici;0;2025-02-11;1
-winter_341;1;Los Heretics;Barça eSports;1;2025-02-06;1
-winter_342;1;Movistar KOI Fénix;Veni Vidi Vici;0;2025-02-06;1
-winter_343;1;LUA Gaming;GIANTX Pride;0;2025-02-06;1
-winter_344;1;Ramboot Club;UCAM Esports;1;2025-02-06;1
-winter_345;1;Los Heretics;Barça eSports;1;2025-03-06;1
-winter_345;2;Los Heretics;Barça eSports;1;2025-03-06;1
-winter_345;3;Los Heretics;Barça eSports;1;2025-03-06;1
-winter_345;4;Los Heretics;Barça eSports;0;2025-03-06;1
-winter_346;1;Barça eSports;Veni Vidi Vici;1;2025-02-27;1
-winter_346;2;Barça eSports;Veni Vidi Vici;1;2025-02-27;1
-winter_346;3;Barça eSports;Veni Vidi Vici;1;2025-02-27;1
-winter_346;4;Barça eSports;Veni Vidi Vici;0;2025-02-27;1
-winter_347;1;GIANTX Pride;Barça eSports;1;2025-02-25;1
-winter_347;2;GIANTX Pride;Barça eSports;1;2025-02-25;1
-winter_347;3;GIANTX Pride;Barça eSports;0;2025-02-25;1
-winter_347;4;GIANTX Pride;Barça eSports;0;2025-02-25;1
-winter_347;5;GIANTX Pride;Barça eSports;0;2025-02-25;1
-winter_348;1;Los Heretics;Veni Vidi Vici;1;2025-02-20;1
-winter_348;2;Los Heretics;Veni Vidi Vici;1;2025-02-20;1
-winter_348;3;Los Heretics;Veni Vidi Vici;1;2025-02-20;1
-winter_348;4;Los Heretics;Veni Vidi Vici;0;2025-02-20;1
-winter_349;1;Eintracht Spandau;Kaufland Hangry Knights;0;2025-02-19;1
-winter_349;2;Eintracht Spandau;Kaufland Hangry Knights;0;2025-02-19;1
-winter_350;1;ROSSMANN Centaurs;Unicorns of Love Sexy Edition;1;2025-02-19;1
-winter_350;2;ROSSMANN Centaurs;Unicorns of Love Sexy Edition;0;2025-02-19;1
-winter_350;3;ROSSMANN Centaurs;Unicorns of Love Sexy Edition;0;2025-02-19;1
-winter_351;1;Austrian Force Willhaben;CGN Esports;0;2025-02-18;1
-winter_351;2;Austrian Force Willhaben;CGN Esports;0;2025-02-18;1
-winter_352;1;TeamOrangeGaming;Berlin International Gaming;1;2025-02-18;1
-winter_352;2;TeamOrangeGaming;Berlin International Gaming;0;2025-02-18;1
-winter_352;3;TeamOrangeGaming;Berlin International Gaming;0;2025-02-18;1
-winter_353;1;Kaufland Hangry Knights;Austrian Force Willhaben;0;2025-02-12;1
-winter_353;2;Kaufland Hangry Knights;Austrian Force Willhaben;0;2025-02-12;1
-winter_354;1;Berlin International Gaming;ROSSMANN Centaurs;1;2025-02-12;1
-winter_354;2;Berlin International Gaming;ROSSMANN Centaurs;1;2025-02-12;1
-winter_355;1;Eintracht Frankfurt;Eintracht Spandau;1;2025-02-11;1
-winter_355;2;Eintracht Frankfurt;Eintracht Spandau;1;2025-02-11;1
-winter_356;1;Unicorns of Love Sexy Edition;E WIE EINFACH E-SPORTS;0;2025-02-11;1
-winter_356;2;Unicorns of Love Sexy Edition;E WIE EINFACH E-SPORTS;0;2025-02-11;1
-winter_357;1;CGN Esports;Kaufland Hangry Knights;1;2025-02-05;1
-winter_357;2;CGN Esports;Kaufland Hangry Knights;1;2025-02-05;1
-winter_357;3;CGN Esports;Kaufland Hangry Knights;0;2025-02-05;1
-winter_358;1;E WIE EINFACH E-SPORTS;ROSSMANN Centaurs;1;2025-02-05;1
-winter_358;2;E WIE EINFACH E-SPORTS;ROSSMANN Centaurs;1;2025-02-05;1
-winter_358;3;E WIE EINFACH E-SPORTS;ROSSMANN Centaurs;0;2025-02-05;1
-winter_359;1;Eintracht Frankfurt;Austrian Force Willhaben;0;2025-02-04;1
-winter_359;2;Eintracht Frankfurt;Austrian Force Willhaben;0;2025-02-04;1
-winter_360;1;Unicorns of Love Sexy Edition;TeamOrangeGaming;0;2025-02-04;1
-winter_360;2;Unicorns of Love Sexy Edition;TeamOrangeGaming;0;2025-02-04;1
-winter_361;1;CGN Esports;Eintracht Spandau;1;2025-01-29;1
-winter_361;2;CGN Esports;Eintracht Spandau;0;2025-01-29;1
-winter_361;3;CGN Esports;Eintracht Spandau;0;2025-01-29;1
-winter_362;1;ROSSMANN Centaurs;TeamOrangeGaming;1;2025-01-29;1
-winter_362;2;ROSSMANN Centaurs;TeamOrangeGaming;0;2025-01-29;1
-winter_362;3;ROSSMANN Centaurs;TeamOrangeGaming;0;2025-01-29;1
-winter_363;1;Kaufland Hangry Knights;Eintracht Frankfurt;1;2025-01-28;1
-winter_363;2;Kaufland Hangry Knights;Eintracht Frankfurt;0;2025-01-28;1
-winter_363;3;Kaufland Hangry Knights;Eintracht Frankfurt;0;2025-01-28;1
-winter_364;1;E WIE EINFACH E-SPORTS;Berlin International Gaming;1;2025-01-28;1
-winter_364;2;E WIE EINFACH E-SPORTS;Berlin International Gaming;0;2025-01-28;1
-winter_364;3;E WIE EINFACH E-SPORTS;Berlin International Gaming;0;2025-01-28;1
-winter_365;1;Austrian Force Willhaben;Eintracht Spandau;1;2025-01-22;1
-winter_365;2;Austrian Force Willhaben;Eintracht Spandau;0;2025-01-22;1
-winter_365;3;Austrian Force Willhaben;Eintracht Spandau;0;2025-01-22;1
-winter_366;1;TeamOrangeGaming;E WIE EINFACH E-SPORTS;1;2025-01-22;1
-winter_366;2;TeamOrangeGaming;E WIE EINFACH E-SPORTS;0;2025-01-22;1
-winter_366;3;TeamOrangeGaming;E WIE EINFACH E-SPORTS;0;2025-01-22;1
-winter_367;1;Eintracht Frankfurt;CGN Esports;1;2025-01-21;1
-winter_367;2;Eintracht Frankfurt;CGN Esports;0;2025-01-21;1
-winter_367;3;Eintracht Frankfurt;CGN Esports;0;2025-01-21;1
-winter_368;1;Berlin International Gaming;Unicorns of Love Sexy Edition;1;2025-01-21;1
-winter_368;2;Berlin International Gaming;Unicorns of Love Sexy Edition;1;2025-01-21;1
-winter_369;1;Berlin International Gaming;E WIE EINFACH E-SPORTS;1;2025-03-08;1
-winter_369;2;Berlin International Gaming;E WIE EINFACH E-SPORTS;1;2025-03-08;1
-winter_369;3;Berlin International Gaming;E WIE EINFACH E-SPORTS;1;2025-03-08;1
-winter_370;1;CGN Esports;E WIE EINFACH E-SPORTS;0;2025-03-04;1
-winter_370;2;CGN Esports;E WIE EINFACH E-SPORTS;0;2025-03-04;1
-winter_370;3;CGN Esports;E WIE EINFACH E-SPORTS;0;2025-03-04;1
-winter_371;1;Berlin International Gaming;Austrian Force Willhaben;1;2025-03-03;1
-winter_371;2;Berlin International Gaming;Austrian Force Willhaben;1;2025-03-03;1
-winter_371;3;Berlin International Gaming;Austrian Force Willhaben;1;2025-03-03;1
-winter_372;1;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;1;2025-02-26;1
-winter_372;2;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;1;2025-02-26;1
-winter_372;3;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;1;2025-02-26;1
-winter_372;4;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;0;2025-02-26;1
-winter_372;5;E WIE EINFACH E-SPORTS;Eintracht Frankfurt;0;2025-02-26;1
-winter_373;1;Austrian Force Willhaben;TeamOrangeGaming;1;2025-02-25;1
-winter_373;2;Austrian Force Willhaben;TeamOrangeGaming;1;2025-02-25;1
-winter_373;3;Austrian Force Willhaben;TeamOrangeGaming;1;2025-02-25;1
-winter_373;4;Austrian Force Willhaben;TeamOrangeGaming;0;2025-02-25;1
+tournament;match_id;game_in_series;teamA;teamB;teamA_win;date
+LPL 2025 Split 1;winter_0;1;Top Esports;LGD Gaming;1;2025-02-16
+LPL 2025 Split 1;winter_0;2;Top Esports;LGD Gaming;1;2025-02-16
+LPL 2025 Split 1;winter_0;3;Top Esports;LGD Gaming;1;2025-02-16
+LPL 2025 Split 1;winter_1;1;Funplus Phoenix;Invictus Gaming;0;2025-02-15
+LPL 2025 Split 1;winter_1;2;Funplus Phoenix;Invictus Gaming;0;2025-02-15
+LPL 2025 Split 1;winter_1;3;Funplus Phoenix;Invictus Gaming;0;2025-02-15
+LPL 2025 Split 1;winter_2;1;Bilibili Gaming;TT;1;2025-02-14
+LPL 2025 Split 1;winter_2;2;Bilibili Gaming;TT;1;2025-02-14
+LPL 2025 Split 1;winter_2;3;Bilibili Gaming;TT;0;2025-02-14
+LPL 2025 Split 1;winter_2;4;Bilibili Gaming;TT;0;2025-02-14
+LPL 2025 Split 1;winter_2;5;Bilibili Gaming;TT;0;2025-02-14
+LPL 2025 Split 1;winter_3;1;Royal Never Give Up;Ninjas in Pyjamas;0;2025-02-13
+LPL 2025 Split 1;winter_3;2;Royal Never Give Up;Ninjas in Pyjamas;0;2025-02-13
+LPL 2025 Split 1;winter_3;3;Royal Never Give Up;Ninjas in Pyjamas;0;2025-02-13
+LPL 2025 Split 1;winter_4;1;Ultra Prime;OMG;1;2025-02-12
+LPL 2025 Split 1;winter_4;2;Ultra Prime;OMG;1;2025-02-12
+LPL 2025 Split 1;winter_4;3;Ultra Prime;OMG;0;2025-02-12
+LPL 2025 Split 1;winter_4;4;Ultra Prime;OMG;0;2025-02-12
+LPL 2025 Split 1;winter_4;5;Ultra Prime;OMG;0;2025-02-12
+LPL 2025 Split 1;winter_5;1;Edward Gaming;LNG Esports;1;2025-02-11
+LPL 2025 Split 1;winter_5;2;Edward Gaming;LNG Esports;1;2025-02-11
+LPL 2025 Split 1;winter_5;3;Edward Gaming;LNG Esports;1;2025-02-11
+LPL 2025 Split 1;winter_6;1;Team WE;Anyone s Legend;1;2025-02-10
+LPL 2025 Split 1;winter_6;2;Team WE;Anyone s Legend;0;2025-02-10
+LPL 2025 Split 1;winter_6;3;Team WE;Anyone s Legend;0;2025-02-10
+LPL 2025 Split 1;winter_6;4;Team WE;Anyone s Legend;0;2025-02-10
+LPL 2025 Split 1;winter_7;1;JD Gaming;Weibo Gaming;1;2025-02-09
+LPL 2025 Split 1;winter_7;2;JD Gaming;Weibo Gaming;1;2025-02-09
+LPL 2025 Split 1;winter_7;3;JD Gaming;Weibo Gaming;1;2025-02-09
+LPL 2025 Split 1;winter_7;4;JD Gaming;Weibo Gaming;0;2025-02-09
+LPL 2025 Split 1;winter_7;5;JD Gaming;Weibo Gaming;0;2025-02-09
+LPL 2025 Split 1;winter_8;1;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08
+LPL 2025 Split 1;winter_8;2;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08
+LPL 2025 Split 1;winter_8;3;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08
+LPL 2025 Split 1;winter_9;1;Invictus Gaming;Royal Never Give Up;1;2025-01-25
+LPL 2025 Split 1;winter_9;2;Invictus Gaming;Royal Never Give Up;1;2025-01-25
+LPL 2025 Split 1;winter_9;3;Invictus Gaming;Royal Never Give Up;1;2025-01-25
+LPL 2025 Split 1;winter_9;4;Invictus Gaming;Royal Never Give Up;0;2025-01-25
+LPL 2025 Split 1;winter_10;1;Bilibili Gaming;LNG Esports;1;2025-01-25
+LPL 2025 Split 1;winter_10;2;Bilibili Gaming;LNG Esports;1;2025-01-25
+LPL 2025 Split 1;winter_10;3;Bilibili Gaming;LNG Esports;1;2025-01-25
+LPL 2025 Split 1;winter_11;1;Top Esports;Anyone s Legend;1;2025-01-24
+LPL 2025 Split 1;winter_11;2;Top Esports;Anyone s Legend;0;2025-01-24
+LPL 2025 Split 1;winter_11;3;Top Esports;Anyone s Legend;0;2025-01-24
+LPL 2025 Split 1;winter_11;4;Top Esports;Anyone s Legend;0;2025-01-24
+LPL 2025 Split 1;winter_12;1;OMG;JD Gaming;1;2025-01-23
+LPL 2025 Split 1;winter_12;2;OMG;JD Gaming;1;2025-01-23
+LPL 2025 Split 1;winter_12;3;OMG;JD Gaming;0;2025-01-23
+LPL 2025 Split 1;winter_12;4;OMG;JD Gaming;0;2025-01-23
+LPL 2025 Split 1;winter_12;5;OMG;JD Gaming;0;2025-01-23
+LPL 2025 Split 1;winter_13;1;LGD Gaming;Team WE;1;2025-01-22
+LPL 2025 Split 1;winter_13;2;LGD Gaming;Team WE;1;2025-01-22
+LPL 2025 Split 1;winter_13;3;LGD Gaming;Team WE;1;2025-01-22
+LPL 2025 Split 1;winter_14;1;Edward Gaming;TT;1;2025-01-21
+LPL 2025 Split 1;winter_14;2;Edward Gaming;TT;0;2025-01-21
+LPL 2025 Split 1;winter_14;3;Edward Gaming;TT;0;2025-01-21
+LPL 2025 Split 1;winter_14;4;Edward Gaming;TT;0;2025-01-21
+LPL 2025 Split 1;winter_15;1;JD Gaming;Ultra Prime;1;2025-01-20
+LPL 2025 Split 1;winter_15;2;JD Gaming;Ultra Prime;1;2025-01-20
+LPL 2025 Split 1;winter_15;3;JD Gaming;Ultra Prime;1;2025-01-20
+LPL 2025 Split 1;winter_16;1;Invictus Gaming;Ninjas in Pyjamas;1;2025-01-19
+LPL 2025 Split 1;winter_16;2;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19
+LPL 2025 Split 1;winter_16;3;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19
+LPL 2025 Split 1;winter_16;4;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19
+LPL 2025 Split 1;winter_17;1;Top Esports;Team WE;1;2025-01-18
+LPL 2025 Split 1;winter_17;2;Top Esports;Team WE;1;2025-01-18
+LPL 2025 Split 1;winter_17;3;Top Esports;Team WE;1;2025-01-18
+LPL 2025 Split 1;winter_18;1;Edward Gaming;Bilibili Gaming;0;2025-01-17
+LPL 2025 Split 1;winter_18;2;Edward Gaming;Bilibili Gaming;0;2025-01-17
+LPL 2025 Split 1;winter_18;3;Edward Gaming;Bilibili Gaming;0;2025-01-17
+LPL 2025 Split 1;winter_19;1;LGD Gaming;Anyone s Legend;0;2025-01-16
+LPL 2025 Split 1;winter_19;2;LGD Gaming;Anyone s Legend;0;2025-01-16
+LPL 2025 Split 1;winter_19;3;LGD Gaming;Anyone s Legend;0;2025-01-16
+LPL 2025 Split 1;winter_20;1;Ultra Prime;Weibo Gaming;1;2025-01-15
+LPL 2025 Split 1;winter_20;2;Ultra Prime;Weibo Gaming;0;2025-01-15
+LPL 2025 Split 1;winter_20;3;Ultra Prime;Weibo Gaming;0;2025-01-15
+LPL 2025 Split 1;winter_20;4;Ultra Prime;Weibo Gaming;0;2025-01-15
+LPL 2025 Split 1;winter_21;1;Royal Never Give Up;Funplus Phoenix;1;2025-01-14
+LPL 2025 Split 1;winter_21;2;Royal Never Give Up;Funplus Phoenix;1;2025-01-14
+LPL 2025 Split 1;winter_21;3;Royal Never Give Up;Funplus Phoenix;1;2025-01-14
+LPL 2025 Split 1;winter_21;4;Royal Never Give Up;Funplus Phoenix;0;2025-01-14
+LPL 2025 Split 1;winter_22;1;LNG Esports;TT;1;2025-01-13
+LPL 2025 Split 1;winter_22;2;LNG Esports;TT;0;2025-01-13
+LPL 2025 Split 1;winter_22;3;LNG Esports;TT;0;2025-01-13
+LPL 2025 Split 1;winter_22;4;LNG Esports;TT;0;2025-01-13
+LPL 2025 Split 1;winter_23;1;Weibo Gaming;OMG;1;2025-01-12
+LPL 2025 Split 1;winter_23;2;Weibo Gaming;OMG;1;2025-01-12
+LPL 2025 Split 1;winter_23;3;Weibo Gaming;OMG;1;2025-01-12
+LPL 2025 Split 1 Playoffs;winter_24;1;Top Esports;Anyone s Legend;1;2025-03-01
+LPL 2025 Split 1 Playoffs;winter_24;2;Top Esports;Anyone s Legend;1;2025-03-01
+LPL 2025 Split 1 Playoffs;winter_24;3;Top Esports;Anyone s Legend;1;2025-03-01
+LPL 2025 Split 1 Playoffs;winter_24;4;Top Esports;Anyone s Legend;0;2025-03-01
+LPL 2025 Split 1 Playoffs;winter_25;1;JD Gaming;Top Esports;1;2025-02-27
+LPL 2025 Split 1 Playoffs;winter_25;2;JD Gaming;Top Esports;0;2025-02-27
+LPL 2025 Split 1 Playoffs;winter_25;3;JD Gaming;Top Esports;0;2025-02-27
+LPL 2025 Split 1 Playoffs;winter_25;4;JD Gaming;Top Esports;0;2025-02-27
+LPL 2025 Split 1 Playoffs;winter_26;1;Bilibili Gaming;Top Esports;1;2025-02-26
+LPL 2025 Split 1 Playoffs;winter_26;2;Bilibili Gaming;Top Esports;0;2025-02-26
+LPL 2025 Split 1 Playoffs;winter_26;3;Bilibili Gaming;Top Esports;0;2025-02-26
+LPL 2025 Split 1 Playoffs;winter_26;4;Bilibili Gaming;Top Esports;0;2025-02-26
+LPL 2025 Split 1 Playoffs;winter_27;1;JD Gaming;Anyone s Legend;1;2025-02-25
+LPL 2025 Split 1 Playoffs;winter_27;2;JD Gaming;Anyone s Legend;1;2025-02-25
+LPL 2025 Split 1 Playoffs;winter_27;3;JD Gaming;Anyone s Legend;0;2025-02-25
+LPL 2025 Split 1 Playoffs;winter_27;4;JD Gaming;Anyone s Legend;0;2025-02-25
+LPL 2025 Split 1 Playoffs;winter_27;5;JD Gaming;Anyone s Legend;0;2025-02-25
+LPL 2025 Split 1 Playoffs;winter_28;1;Ninjas in Pyjamas;Top Esports;1;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_28;2;Ninjas in Pyjamas;Top Esports;0;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_28;3;Ninjas in Pyjamas;Top Esports;0;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_28;4;Ninjas in Pyjamas;Top Esports;0;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_29;1;Bilibili Gaming;TT;1;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_29;2;Bilibili Gaming;TT;1;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_29;3;Bilibili Gaming;TT;1;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_29;4;Bilibili Gaming;TT;0;2025-02-24
+LPL 2025 Split 1 Playoffs;winter_30;1;Invictus Gaming;Top Esports;1;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_30;2;Invictus Gaming;Top Esports;0;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_30;3;Invictus Gaming;Top Esports;0;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_30;4;Invictus Gaming;Top Esports;0;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_31;1;Weibo Gaming;Bilibili Gaming;1;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_31;2;Weibo Gaming;Bilibili Gaming;0;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_31;3;Weibo Gaming;Bilibili Gaming;0;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_31;4;Weibo Gaming;Bilibili Gaming;0;2025-02-23
+LPL 2025 Split 1 Playoffs;winter_32;1;Ninjas in Pyjamas;Anyone s Legend;1;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_32;2;Ninjas in Pyjamas;Anyone s Legend;1;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_32;3;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_32;4;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_32;5;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_33;1;JD Gaming;TT;1;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_33;2;JD Gaming;TT;1;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_33;3;JD Gaming;TT;1;2025-02-22
+LPL 2025 Split 1 Playoffs;winter_33;4;JD Gaming;TT;0;2025-02-22
+LEC Winter 2025;winter_34;1;SK Gaming;Fnatic;0;2025-02-03
+LEC Winter 2025;winter_35;1;G2 Esports;Team Heretics;1;2025-02-03
+LEC Winter 2025;winter_36;1;Karmine Corp;Team BDS;0;2025-02-03
+LEC Winter 2025;winter_37;1;Movistar KOI;Rogue;1;2025-02-03
+LEC Winter 2025;winter_38;1;Team Vitality;GIANTX;1;2025-02-03
+LEC Winter 2025;winter_39;1;G2 Esports;Movistar KOI;1;2025-02-02
+LEC Winter 2025;winter_40;1;Team Heretics;Team Vitality;0;2025-02-02
+LEC Winter 2025;winter_41;1;Fnatic;Karmine Corp;1;2025-02-02
+LEC Winter 2025;winter_42;1;Team BDS;GIANTX;0;2025-02-02
+LEC Winter 2025;winter_43;1;Rogue;SK Gaming;0;2025-02-02
+LEC Winter 2025;winter_44;1;Team Vitality;Karmine Corp;0;2025-02-01
+LEC Winter 2025;winter_45;1;Team Heretics;Movistar KOI;1;2025-02-01
+LEC Winter 2025;winter_46;1;Rogue;G2 Esports;0;2025-02-01
+LEC Winter 2025;winter_47;1;GIANTX;Fnatic;0;2025-02-01
+LEC Winter 2025;winter_48;1;SK Gaming;Team BDS;0;2025-02-01
+LEC Winter 2025;winter_49;1;SK Gaming;Movistar KOI;0;2025-01-27
+LEC Winter 2025;winter_50;1;Karmine Corp;Team Heretics;1;2025-01-27
+LEC Winter 2025;winter_51;1;G2 Esports;GIANTX;1;2025-01-27
+LEC Winter 2025;winter_52;1;Fnatic;Team BDS;1;2025-01-27
+LEC Winter 2025;winter_53;1;Team Vitality;Rogue;1;2025-01-27
+LEC Winter 2025;winter_54;1;Team BDS;Movistar KOI;0;2025-01-26
+LEC Winter 2025;winter_55;1;Karmine Corp;Rogue;1;2025-01-26
+LEC Winter 2025;winter_56;1;Fnatic;G2 Esports;1;2025-01-26
+LEC Winter 2025;winter_57;1;SK Gaming;Team Vitality;0;2025-01-26
+LEC Winter 2025;winter_58;1;GIANTX;Team Heretics;1;2025-01-26
+LEC Winter 2025;winter_59;1;Karmine Corp;SK Gaming;1;2025-01-25
+LEC Winter 2025;winter_60;1;Team Vitality;G2 Esports;0;2025-01-25
+LEC Winter 2025;winter_61;1;GIANTX;Movistar KOI;0;2025-01-25
+LEC Winter 2025;winter_62;1;Team BDS;Team Heretics;0;2025-01-25
+LEC Winter 2025;winter_63;1;Rogue;Fnatic;0;2025-01-25
+LEC Winter 2025;winter_64;1;GIANTX;Karmine Corp;1;2025-01-20
+LEC Winter 2025;winter_65;1;G2 Esports;SK Gaming;1;2025-01-20
+LEC Winter 2025;winter_66;1;Movistar KOI;Team Vitality;1;2025-01-20
+LEC Winter 2025;winter_67;1;Team Heretics;Fnatic;0;2025-01-20
+LEC Winter 2025;winter_68;1;Team BDS;Rogue;1;2025-01-20
+LEC Winter 2025;winter_69;1;Fnatic;Team Vitality;1;2025-01-19
+LEC Winter 2025;winter_70;1;G2 Esports;Team BDS;0;2025-01-19
+LEC Winter 2025;winter_71;1;Movistar KOI;Karmine Corp;0;2025-01-19
+LEC Winter 2025;winter_72;1;Rogue;GIANTX;0;2025-01-19
+LEC Winter 2025;winter_73;1;Team Heretics;SK Gaming;1;2025-01-19
+LEC Winter 2025;winter_74;1;Karmine Corp;G2 Esports;1;2025-01-18
+LEC Winter 2025;winter_75;1;Movistar KOI;Fnatic;1;2025-01-18
+LEC Winter 2025;winter_76;1;GIANTX;SK Gaming;1;2025-01-18
+LEC Winter 2025;winter_77;1;Team Vitality;Team BDS;1;2025-01-18
+LEC Winter 2025;winter_78;1;Team Heretics;Rogue;0;2025-01-18
+LEC 2025 Winter Playoffs;winter_79;1;G2 Esports;Karmine Corp;0;2025-03-02
+LEC 2025 Winter Playoffs;winter_79;2;G2 Esports;Karmine Corp;0;2025-03-02
+LEC 2025 Winter Playoffs;winter_79;3;G2 Esports;Karmine Corp;0;2025-03-02
+LEC 2025 Winter Playoffs;winter_80;1;Karmine Corp;Fnatic;1;2025-03-01
+LEC 2025 Winter Playoffs;winter_80;2;Karmine Corp;Fnatic;1;2025-03-01
+LEC 2025 Winter Playoffs;winter_80;3;Karmine Corp;Fnatic;1;2025-03-01
+LEC 2025 Winter Playoffs;winter_80;4;Karmine Corp;Fnatic;0;2025-03-01
+LEC 2025 Winter Playoffs;winter_80;5;Karmine Corp;Fnatic;0;2025-03-01
+LEC 2025 Winter Playoffs;winter_81;1;Fnatic;Movistar KOI;1;2025-02-28
+LEC 2025 Winter Playoffs;winter_81;2;Fnatic;Movistar KOI;1;2025-02-28
+LEC 2025 Winter Playoffs;winter_81;3;Fnatic;Movistar KOI;1;2025-02-28
+LEC 2025 Winter Playoffs;winter_81;4;Fnatic;Movistar KOI;0;2025-02-28
+LEC 2025 Winter Playoffs;winter_82;1;Karmine Corp;G2 Esports;1;2025-02-24
+LEC 2025 Winter Playoffs;winter_82;2;Karmine Corp;G2 Esports;0;2025-02-24
+LEC 2025 Winter Playoffs;winter_82;3;Karmine Corp;G2 Esports;0;2025-02-24
+LEC 2025 Winter Playoffs;winter_82;4;Karmine Corp;G2 Esports;0;2025-02-24
+LEC 2025 Winter Playoffs;winter_83;1;Movistar KOI;GIANTX;1;2025-02-23
+LEC 2025 Winter Playoffs;winter_83;2;Movistar KOI;GIANTX;1;2025-02-23
+LEC 2025 Winter Playoffs;winter_84;1;Fnatic;Team BDS;1;2025-02-23
+LEC 2025 Winter Playoffs;winter_84;2;Fnatic;Team BDS;1;2025-02-23
+LEC 2025 Winter Playoffs;winter_84;3;Fnatic;Team BDS;0;2025-02-23
+LEC 2025 Winter Playoffs;winter_85;1;Team Vitality;Team BDS;1;2025-02-22
+LEC 2025 Winter Playoffs;winter_85;2;Team Vitality;Team BDS;0;2025-02-22
+LEC 2025 Winter Playoffs;winter_85;3;Team Vitality;Team BDS;0;2025-02-22
+LEC 2025 Winter Playoffs;winter_86;1;GIANTX;Team Heretics;1;2025-02-22
+LEC 2025 Winter Playoffs;winter_86;2;GIANTX;Team Heretics;1;2025-02-22
+LEC 2025 Winter Playoffs;winter_86;3;GIANTX;Team Heretics;0;2025-02-22
+LEC 2025 Winter Playoffs;winter_87;1;Karmine Corp;Movistar KOI;1;2025-02-17
+LEC 2025 Winter Playoffs;winter_87;2;Karmine Corp;Movistar KOI;1;2025-02-17
+LEC 2025 Winter Playoffs;winter_88;1;Fnatic;G2 Esports;0;2025-02-17
+LEC 2025 Winter Playoffs;winter_88;2;Fnatic;G2 Esports;0;2025-02-17
+LEC 2025 Winter Playoffs;winter_89;1;Karmine Corp;Team Vitality;1;2025-02-16
+LEC 2025 Winter Playoffs;winter_89;2;Karmine Corp;Team Vitality;1;2025-02-16
+LEC 2025 Winter Playoffs;winter_90;1;Movistar KOI;Team BDS;1;2025-02-16
+LEC 2025 Winter Playoffs;winter_90;2;Movistar KOI;Team BDS;1;2025-02-16
+LEC 2025 Winter Playoffs;winter_91;1;G2 Esports;GIANTX;1;2025-02-15
+LEC 2025 Winter Playoffs;winter_91;2;G2 Esports;GIANTX;1;2025-02-15
+LEC 2025 Winter Playoffs;winter_92;1;Fnatic;Team Heretics;1;2025-02-15
+LEC 2025 Winter Playoffs;winter_92;2;Fnatic;Team Heretics;1;2025-02-15
+LCK Cup 2025;winter_93;1;Hanwha Life eSports;Gen.G eSports;1;2025-02-23
+LCK Cup 2025;winter_93;2;Hanwha Life eSports;Gen.G eSports;1;2025-02-23
+LCK Cup 2025;winter_93;3;Hanwha Life eSports;Gen.G eSports;1;2025-02-23
+LCK Cup 2025;winter_93;4;Hanwha Life eSports;Gen.G eSports;0;2025-02-23
+LCK Cup 2025;winter_93;5;Hanwha Life eSports;Gen.G eSports;0;2025-02-23
+LCK Cup 2025;winter_94;1;Dplus KIA;Gen.G eSports;0;2025-02-22
+LCK Cup 2025;winter_94;2;Dplus KIA;Gen.G eSports;0;2025-02-22
+LCK Cup 2025;winter_94;3;Dplus KIA;Gen.G eSports;0;2025-02-22
+LCK Cup 2025;winter_95;1;Nongshim RedForce;Gen.G eSports;1;2025-02-20
+LCK Cup 2025;winter_95;2;Nongshim RedForce;Gen.G eSports;1;2025-02-20
+LCK Cup 2025;winter_95;3;Nongshim RedForce;Gen.G eSports;0;2025-02-20
+LCK Cup 2025;winter_95;4;Nongshim RedForce;Gen.G eSports;0;2025-02-20
+LCK Cup 2025;winter_95;5;Nongshim RedForce;Gen.G eSports;0;2025-02-20
+LCK Cup 2025;winter_96;1;Hanwha Life eSports;Dplus KIA;1;2025-02-19
+LCK Cup 2025;winter_96;2;Hanwha Life eSports;Dplus KIA;1;2025-02-19
+LCK Cup 2025;winter_96;3;Hanwha Life eSports;Dplus KIA;1;2025-02-19
+LCK Cup 2025;winter_96;4;Hanwha Life eSports;Dplus KIA;0;2025-02-19
+LCK Cup 2025;winter_96;5;Hanwha Life eSports;Dplus KIA;0;2025-02-19
+LCK Cup 2025;winter_97;1;Gen.G eSports;Hanwha Life eSports;1;2025-02-16
+LCK Cup 2025;winter_97;2;Gen.G eSports;Hanwha Life eSports;1;2025-02-16
+LCK Cup 2025;winter_97;3;Gen.G eSports;Hanwha Life eSports;0;2025-02-16
+LCK Cup 2025;winter_97;4;Gen.G eSports;Hanwha Life eSports;0;2025-02-16
+LCK Cup 2025;winter_97;5;Gen.G eSports;Hanwha Life eSports;0;2025-02-16
+LCK Cup 2025;winter_98;1;Dplus KIA;Nongshim RedForce;1;2025-02-15
+LCK Cup 2025;winter_98;2;Dplus KIA;Nongshim RedForce;1;2025-02-15
+LCK Cup 2025;winter_98;3;Dplus KIA;Nongshim RedForce;1;2025-02-15
+LCK Cup 2025;winter_98;4;Dplus KIA;Nongshim RedForce;0;2025-02-15
+LCK Cup 2025;winter_99;1;Hanwha Life eSports;T1;1;2025-02-13
+LCK Cup 2025;winter_99;2;Hanwha Life eSports;T1;1;2025-02-13
+LCK Cup 2025;winter_99;3;Hanwha Life eSports;T1;1;2025-02-13
+LCK Cup 2025;winter_99;4;Hanwha Life eSports;T1;0;2025-02-13
+LCK Cup 2025;winter_99;5;Hanwha Life eSports;T1;0;2025-02-13
+LCK Cup 2025;winter_100;1;KT Rolster;Nongshim RedForce;0;2025-02-12
+LCK Cup 2025;winter_100;2;KT Rolster;Nongshim RedForce;0;2025-02-12
+LCK Cup 2025;winter_100;3;KT Rolster;Nongshim RedForce;0;2025-02-12
+LCK Cup 2025;winter_101;1;DRX;Nongshim RedForce;1;2025-02-09
+LCK Cup 2025;winter_101;2;DRX;Nongshim RedForce;0;2025-02-09
+LCK Cup 2025;winter_101;3;DRX;Nongshim RedForce;0;2025-02-09
+LCK Cup 2025;winter_101;4;DRX;Nongshim RedForce;0;2025-02-09
+LCK Cup 2025;winter_102;1;Hanwha Life eSports;DRX;1;2025-02-08
+LCK Cup 2025;winter_102;2;Hanwha Life eSports;DRX;1;2025-02-08
+LCK Cup 2025;winter_103;1;T1;Nongshim RedForce;1;2025-02-08
+LCK Cup 2025;winter_103;2;T1;Nongshim RedForce;1;2025-02-08
+LCK Cup 2025;winter_104;1;Nongshim RedForce;OK BRION;1;2025-02-07
+LCK Cup 2025;winter_104;2;Nongshim RedForce;OK BRION;1;2025-02-07
+LCK Cup 2025;winter_105;1;DRX;DN Freecs;1;2025-02-07
+LCK Cup 2025;winter_105;2;DRX;DN Freecs;1;2025-02-07
+LCK Cup 2025;winter_106;1;Nongshim RedForce;BNK FearX;1;2025-02-02
+LCK Cup 2025;winter_106;2;Nongshim RedForce;BNK FearX;1;2025-02-02
+LCK Cup 2025;winter_107;1;OK BRION;Dplus KIA;1;2025-02-01
+LCK Cup 2025;winter_107;2;OK BRION;Dplus KIA;0;2025-02-01
+LCK Cup 2025;winter_107;3;OK BRION;Dplus KIA;0;2025-02-01
+LCK Cup 2025;winter_108;1;T1;Gen.G eSports;1;2025-02-01
+LCK Cup 2025;winter_108;2;T1;Gen.G eSports;1;2025-02-01
+LCK Cup 2025;winter_108;3;T1;Gen.G eSports;0;2025-02-01
+LCK Cup 2025;winter_109;1;DRX;Hanwha Life eSports;0;2025-01-31
+LCK Cup 2025;winter_109;2;DRX;Hanwha Life eSports;0;2025-01-31
+LCK Cup 2025;winter_110;1;DN Freecs;KT Rolster;1;2025-01-31
+LCK Cup 2025;winter_110;2;DN Freecs;KT Rolster;0;2025-01-31
+LCK Cup 2025;winter_110;3;DN Freecs;KT Rolster;0;2025-01-31
+LCK Cup 2025;winter_111;1;KT Rolster;OK BRION;1;2025-01-26
+LCK Cup 2025;winter_111;2;KT Rolster;OK BRION;1;2025-01-26
+LCK Cup 2025;winter_112;1;T1;Nongshim RedForce;1;2025-01-26
+LCK Cup 2025;winter_112;2;T1;Nongshim RedForce;1;2025-01-26
+LCK Cup 2025;winter_113;1;Gen.G eSports;DN Freecs;1;2025-01-25
+LCK Cup 2025;winter_113;2;Gen.G eSports;DN Freecs;1;2025-01-25
+LCK Cup 2025;winter_114;1;Hanwha Life eSports;Dplus KIA;1;2025-01-25
+LCK Cup 2025;winter_114;2;Hanwha Life eSports;Dplus KIA;0;2025-01-25
+LCK Cup 2025;winter_114;3;Hanwha Life eSports;Dplus KIA;0;2025-01-25
+LCK Cup 2025;winter_115;1;T1;KT Rolster;1;2025-01-24
+LCK Cup 2025;winter_115;2;T1;KT Rolster;1;2025-01-24
+LCK Cup 2025;winter_115;3;T1;KT Rolster;0;2025-01-24
+LCK Cup 2025;winter_116;1;DRX;BNK FearX;1;2025-01-24
+LCK Cup 2025;winter_116;2;DRX;BNK FearX;1;2025-01-24
+LCK Cup 2025;winter_116;3;DRX;BNK FearX;0;2025-01-24
+LCK Cup 2025;winter_117;1;Hanwha Life eSports;Nongshim RedForce;1;2025-01-23
+LCK Cup 2025;winter_117;2;Hanwha Life eSports;Nongshim RedForce;1;2025-01-23
+LCK Cup 2025;winter_118;1;OK BRION;Gen.G eSports;1;2025-01-23
+LCK Cup 2025;winter_118;2;OK BRION;Gen.G eSports;1;2025-01-23
+LCK Cup 2025;winter_119;1;DN Freecs;DRX;1;2025-01-22
+LCK Cup 2025;winter_119;2;DN Freecs;DRX;0;2025-01-22
+LCK Cup 2025;winter_119;3;DN Freecs;DRX;0;2025-01-22
+LCK Cup 2025;winter_120;1;Dplus KIA;BNK FearX;1;2025-01-22
+LCK Cup 2025;winter_120;2;Dplus KIA;BNK FearX;1;2025-01-22
+LCK Cup 2025;winter_120;3;Dplus KIA;BNK FearX;0;2025-01-22
+LCK Cup 2025;winter_121;1;BNK FearX;Gen.G eSports;0;2025-01-19
+LCK Cup 2025;winter_121;2;BNK FearX;Gen.G eSports;0;2025-01-19
+LCK Cup 2025;winter_122;1;KT Rolster;Hanwha Life eSports;0;2025-01-19
+LCK Cup 2025;winter_122;2;KT Rolster;Hanwha Life eSports;0;2025-01-19
+LCK Cup 2025;winter_123;1;DRX;T1;0;2025-01-18
+LCK Cup 2025;winter_123;2;DRX;T1;0;2025-01-18
+LCK Cup 2025;winter_124;1;Dplus KIA;DN Freecs;1;2025-01-18
+LCK Cup 2025;winter_124;2;Dplus KIA;DN Freecs;1;2025-01-18
+LCK Cup 2025;winter_125;1;Nongshim RedForce;OK BRION;1;2025-01-17
+LCK Cup 2025;winter_125;2;Nongshim RedForce;OK BRION;1;2025-01-17
+LCK Cup 2025;winter_126;1;Gen.G eSports;Hanwha Life eSports;1;2025-01-17
+LCK Cup 2025;winter_126;2;Gen.G eSports;Hanwha Life eSports;1;2025-01-17
+LCK Cup 2025;winter_127;1;Dplus KIA;T1;1;2025-01-16
+LCK Cup 2025;winter_127;2;Dplus KIA;T1;1;2025-01-16
+LCK Cup 2025;winter_127;3;Dplus KIA;T1;0;2025-01-16
+LCK Cup 2025;winter_128;1;BNK FearX;KT Rolster;1;2025-01-16
+LCK Cup 2025;winter_128;2;BNK FearX;KT Rolster;0;2025-01-16
+LCK Cup 2025;winter_128;3;BNK FearX;KT Rolster;0;2025-01-16
+LCK Cup 2025;winter_129;1;DN Freecs;Nongshim RedForce;1;2025-01-15
+LCK Cup 2025;winter_129;2;DN Freecs;Nongshim RedForce;1;2025-01-15
+LCK Cup 2025;winter_129;3;DN Freecs;Nongshim RedForce;0;2025-01-15
+LCK Cup 2025;winter_130;1;OK BRION;DRX;1;2025-01-15
+LCK Cup 2025;winter_130;2;OK BRION;DRX;0;2025-01-15
+LCK Cup 2025;winter_130;3;OK BRION;DRX;0;2025-01-15
+LTA North 2025 Split 1;winter_131;1;Team Liquid;FlyQuest;0;2025-02-09
+LTA North 2025 Split 1;winter_132;1;Dignitas;FlyQuest;0;2025-02-09
+LTA North 2025 Split 1;winter_132;2;Dignitas;FlyQuest;0;2025-02-09
+LTA North 2025 Split 1;winter_133;1;Team Liquid;Shopify Rebellion;1;2025-02-09
+LTA North 2025 Split 1;winter_133;2;Team Liquid;Shopify Rebellion;1;2025-02-09
+LTA North 2025 Split 1;winter_134;1;100 Thieves;Cloud9;1;2025-02-02
+LTA North 2025 Split 1;winter_135;1;FlyQuest;Cloud9;1;2025-02-02
+LTA North 2025 Split 1;winter_135;2;FlyQuest;Cloud9;0;2025-02-02
+LTA North 2025 Split 1;winter_135;3;FlyQuest;Cloud9;0;2025-02-02
+LTA North 2025 Split 1;winter_136;1;Team Liquid;100 Thieves;1;2025-02-02
+LTA North 2025 Split 1;winter_136;2;Team Liquid;100 Thieves;0;2025-02-02
+LTA North 2025 Split 1;winter_136;3;Team Liquid;100 Thieves;0;2025-02-02
+LTA North 2025 Split 1;winter_137;1;LYON;Shopify Rebellion;1;2025-02-01
+LTA North 2025 Split 1;winter_137;2;LYON;Shopify Rebellion;0;2025-02-01
+LTA North 2025 Split 1;winter_137;3;LYON;Shopify Rebellion;0;2025-02-01
+LTA North 2025 Split 1;winter_138;1;Disguised;Dignitas;1;2025-02-01
+LTA North 2025 Split 1;winter_138;2;Disguised;Dignitas;0;2025-02-01
+LTA North 2025 Split 1;winter_138;3;Disguised;Dignitas;0;2025-02-01
+LTA North 2025 Split 1;winter_139;1;Dignitas;Team Liquid;0;2025-01-26
+LTA North 2025 Split 1;winter_139;2;Dignitas;Team Liquid;0;2025-01-26
+LTA North 2025 Split 1;winter_140;1;Disguised;100 Thieves;0;2025-01-26
+LTA North 2025 Split 1;winter_140;2;Disguised;100 Thieves;0;2025-01-26
+LTA North 2025 Split 1;winter_141;1;LYON;Cloud9;0;2025-01-25
+LTA North 2025 Split 1;winter_141;2;LYON;Cloud9;0;2025-01-25
+LTA North 2025 Split 1;winter_142;1;Shopify Rebellion;FlyQuest;0;2025-01-25
+LTA North 2025 Split 1;winter_142;2;Shopify Rebellion;FlyQuest;0;2025-01-25
+LTA North 2025 Split 1;winter_143;1;LOUD;paiN Gaming;1;2025-02-09
+LTA North 2025 Split 1;winter_144;1;paiN Gaming;FURIA;1;2025-02-09
+LTA North 2025 Split 1;winter_144;2;paiN Gaming;FURIA;1;2025-02-09
+LTA North 2025 Split 1;winter_144;3;paiN Gaming;FURIA;0;2025-02-09
+LTA North 2025 Split 1;winter_145;1;RED Canids;LOUD;1;2025-02-09
+LTA North 2025 Split 1;winter_145;2;RED Canids;LOUD;0;2025-02-09
+LTA North 2025 Split 1;winter_145;3;RED Canids;LOUD;0;2025-02-09
+LTA North 2025 Split 1;winter_146;1;Leviatan;Isurus;0;2025-02-02
+LTA North 2025 Split 1;winter_147;1;paiN Gaming;Leviatan;1;2025-02-02
+LTA North 2025 Split 1;winter_147;2;paiN Gaming;Leviatan;0;2025-02-02
+LTA North 2025 Split 1;winter_147;3;paiN Gaming;Leviatan;0;2025-02-02
+LTA North 2025 Split 1;winter_148;1;Isurus;RED Canids;1;2025-02-02
+LTA North 2025 Split 1;winter_148;2;Isurus;RED Canids;1;2025-02-02
+LTA North 2025 Split 1;winter_148;3;Isurus;RED Canids;0;2025-02-02
+LTA North 2025 Split 1;winter_149;1;Fluxo;FURIA;0;2025-02-01
+LTA North 2025 Split 1;winter_149;2;Fluxo;FURIA;0;2025-02-01
+LTA North 2025 Split 1;winter_150;1;LOUD;Vivo Keyd Stars;1;2025-02-01
+LTA North 2025 Split 1;winter_150;2;LOUD;Vivo Keyd Stars;1;2025-02-01
+LTA North 2025 Split 1;winter_150;3;LOUD;Vivo Keyd Stars;0;2025-02-01
+LTA North 2025 Split 1;winter_151;1;RED Canids;Fluxo;1;2025-01-26
+LTA North 2025 Split 1;winter_151;2;RED Canids;Fluxo;1;2025-01-26
+LTA North 2025 Split 1;winter_152;1;Isurus;FURIA;1;2025-01-26
+LTA North 2025 Split 1;winter_152;2;Isurus;FURIA;1;2025-01-26
+LTA North 2025 Split 1;winter_152;3;Isurus;FURIA;0;2025-01-26
+LTA North 2025 Split 1;winter_153;1;Vivo Keyd Stars;Leviatan;1;2025-01-25
+LTA North 2025 Split 1;winter_153;2;Vivo Keyd Stars;Leviatan;0;2025-01-25
+LTA North 2025 Split 1;winter_153;3;Vivo Keyd Stars;Leviatan;0;2025-01-25
+LTA North 2025 Split 1;winter_154;1;LOUD;paiN Gaming;1;2025-01-25
+LTA North 2025 Split 1;winter_154;2;LOUD;paiN Gaming;0;2025-01-25
+LTA North 2025 Split 1;winter_154;3;LOUD;paiN Gaming;0;2025-01-25
+LCP 2025 Season Kickoff;winter_155;1;PSG Talon;MGN Vikings Esports;1;2025-02-16
+LCP 2025 Season Kickoff;winter_155;2;PSG Talon;MGN Vikings Esports;1;2025-02-16
+LCP 2025 Season Kickoff;winter_155;3;PSG Talon;MGN Vikings Esports;0;2025-02-16
+LCP 2025 Season Kickoff;winter_156;1;CTBC Flying Oyster;Chiefs Esports Club;1;2025-02-16
+LCP 2025 Season Kickoff;winter_156;2;CTBC Flying Oyster;Chiefs Esports Club;1;2025-02-16
+LCP 2025 Season Kickoff;winter_157;1;Team Secret Whales;GAM Esports;1;2025-02-15
+LCP 2025 Season Kickoff;winter_157;2;Team Secret Whales;GAM Esports;1;2025-02-15
+LCP 2025 Season Kickoff;winter_158;1;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0;2025-02-15
+LCP 2025 Season Kickoff;winter_158;2;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0;2025-02-15
+LCP 2025 Season Kickoff;winter_159;1;CTBC Flying Oyster;PSG Talon;1;2025-02-14
+LCP 2025 Season Kickoff;winter_159;2;CTBC Flying Oyster;PSG Talon;1;2025-02-14
+LCP 2025 Season Kickoff;winter_159;3;CTBC Flying Oyster;PSG Talon;0;2025-02-14
+LCP 2025 Season Kickoff;winter_160;1;Chiefs Esports Club;MGN Vikings Esports;0;2025-02-14
+LCP 2025 Season Kickoff;winter_160;2;Chiefs Esports Club;MGN Vikings Esports;0;2025-02-14
+LCP 2025 Season Kickoff;winter_161;1;GAM Esports;DetonatioN FocusMe;1;2025-02-13
+LCP 2025 Season Kickoff;winter_161;2;GAM Esports;DetonatioN FocusMe;1;2025-02-13
+LCP 2025 Season Kickoff;winter_162;1;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0;2025-02-13
+LCP 2025 Season Kickoff;winter_162;2;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0;2025-02-13
+LCP 2025 Season Kickoff;winter_163;1;PSG Talon;GAM Esports;1;2025-02-09
+LCP 2025 Season Kickoff;winter_163;2;PSG Talon;GAM Esports;1;2025-02-09
+LCP 2025 Season Kickoff;winter_163;3;PSG Talon;GAM Esports;0;2025-02-09
+LCP 2025 Season Kickoff;winter_164;1;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0;2025-02-09
+LCP 2025 Season Kickoff;winter_164;2;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0;2025-02-09
+LCP 2025 Season Kickoff;winter_165;1;MGN Vikings Esports;DetonatioN FocusMe;1;2025-02-08
+LCP 2025 Season Kickoff;winter_165;2;MGN Vikings Esports;DetonatioN FocusMe;1;2025-02-08
+LCP 2025 Season Kickoff;winter_165;3;MGN Vikings Esports;DetonatioN FocusMe;0;2025-02-08
+LCP 2025 Season Kickoff;winter_166;1;CTBC Flying Oyster;Team Secret Whales;1;2025-02-08
+LCP 2025 Season Kickoff;winter_166;2;CTBC Flying Oyster;Team Secret Whales;0;2025-02-08
+LCP 2025 Season Kickoff;winter_166;3;CTBC Flying Oyster;Team Secret Whales;0;2025-02-08
+LCP 2025 Season Kickoff;winter_167;1;Chiefs Esports Club;GAM Esports;0;2025-02-07
+LCP 2025 Season Kickoff;winter_167;2;Chiefs Esports Club;GAM Esports;0;2025-02-07
+LCP 2025 Season Kickoff;winter_168;1;Fukuoka SoftBank HAWKS gaming;PSG Talon;0;2025-02-07
+LCP 2025 Season Kickoff;winter_168;2;Fukuoka SoftBank HAWKS gaming;PSG Talon;0;2025-02-07
+LCP 2025 Season Kickoff;winter_169;1;MGN Vikings Esports;Team Secret Whales;1;2025-02-06
+LCP 2025 Season Kickoff;winter_169;2;MGN Vikings Esports;Team Secret Whales;1;2025-02-06
+LCP 2025 Season Kickoff;winter_170;1;CTBC Flying Oyster;DetonatioN FocusMe;1;2025-02-06
+LCP 2025 Season Kickoff;winter_170;2;CTBC Flying Oyster;DetonatioN FocusMe;1;2025-02-06
+LCP 2025 Season Kickoff;winter_171;1;PSG Talon;DetonatioN FocusMe;1;2025-01-26
+LCP 2025 Season Kickoff;winter_171;2;PSG Talon;DetonatioN FocusMe;1;2025-01-26
+LCP 2025 Season Kickoff;winter_172;1;Chiefs Esports Club;Team Secret Whales;0;2025-01-26
+LCP 2025 Season Kickoff;winter_172;2;Chiefs Esports Club;Team Secret Whales;0;2025-01-26
+LCP 2025 Season Kickoff;winter_173;1;GAM Esports;CTBC Flying Oyster;1;2025-01-25
+LCP 2025 Season Kickoff;winter_173;2;GAM Esports;CTBC Flying Oyster;0;2025-01-25
+LCP 2025 Season Kickoff;winter_173;3;GAM Esports;CTBC Flying Oyster;0;2025-01-25
+LCP 2025 Season Kickoff;winter_174;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-01-25
+LCP 2025 Season Kickoff;winter_174;2;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-01-25
+LCP 2025 Season Kickoff;winter_175;1;PSG Talon;Team Secret Whales;1;2025-01-24
+LCP 2025 Season Kickoff;winter_175;2;PSG Talon;Team Secret Whales;1;2025-01-24
+LCP 2025 Season Kickoff;winter_176;1;Chiefs Esports Club;DetonatioN FocusMe;1;2025-01-24
+LCP 2025 Season Kickoff;winter_176;2;Chiefs Esports Club;DetonatioN FocusMe;0;2025-01-24
+LCP 2025 Season Kickoff;winter_176;3;Chiefs Esports Club;DetonatioN FocusMe;0;2025-01-24
+LCP 2025 Season Kickoff;winter_177;1;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0;2025-01-19
+LCP 2025 Season Kickoff;winter_177;2;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0;2025-01-19
+LCP 2025 Season Kickoff;winter_178;1;GAM Esports;MGN Vikings Esports;0;2025-01-19
+LCP 2025 Season Kickoff;winter_178;2;GAM Esports;MGN Vikings Esports;0;2025-01-19
+LCP 2025 Season Kickoff;winter_179;1;PSG Talon;Chiefs Esports Club;1;2025-01-18
+LCP 2025 Season Kickoff;winter_179;2;PSG Talon;Chiefs Esports Club;1;2025-01-18
+LCP 2025 Season Kickoff;winter_180;1;Team Secret Whales;DetonatioN FocusMe;1;2025-01-18
+LCP 2025 Season Kickoff;winter_180;2;Team Secret Whales;DetonatioN FocusMe;1;2025-01-18
+LCP 2025 Season Kickoff;winter_181;1;Fukuoka SoftBank HAWKS gaming;GAM Esports;1;2025-01-17
+LCP 2025 Season Kickoff;winter_181;2;Fukuoka SoftBank HAWKS gaming;GAM Esports;0;2025-01-17
+LCP 2025 Season Kickoff;winter_181;3;Fukuoka SoftBank HAWKS gaming;GAM Esports;0;2025-01-17
+LCP 2025 Season Kickoff;winter_182;1;CTBC Flying Oyster;MGN Vikings Esports;1;2025-01-17
+LCP 2025 Season Kickoff;winter_182;2;CTBC Flying Oyster;MGN Vikings Esports;1;2025-01-17
+LCP 2025 Season Kickoff;winter_182;3;CTBC Flying Oyster;MGN Vikings Esports;0;2025-01-17
+LCP 2025 Season Kickoff Qualifying Series;winter_183;1;CTBC Flying Oyster;PSG Talon;1;2025-02-23
+LCP 2025 Season Kickoff Qualifying Series;winter_183;2;CTBC Flying Oyster;PSG Talon;1;2025-02-23
+LCP 2025 Season Kickoff Qualifying Series;winter_183;3;CTBC Flying Oyster;PSG Talon;1;2025-02-23
+LCP 2025 Season Kickoff Qualifying Series;winter_183;4;CTBC Flying Oyster;PSG Talon;0;2025-02-23
+LCP 2025 Season Kickoff Qualifying Series;winter_184;1;PSG Talon;MGN Vikings Esports;1;2025-02-22
+LCP 2025 Season Kickoff Qualifying Series;winter_184;2;PSG Talon;MGN Vikings Esports;1;2025-02-22
+LCP 2025 Season Kickoff Qualifying Series;winter_184;3;PSG Talon;MGN Vikings Esports;1;2025-02-22
+LCP 2025 Season Kickoff Qualifying Series;winter_184;4;PSG Talon;MGN Vikings Esports;0;2025-02-22
+LCP 2025 Season Kickoff Qualifying Series;winter_184;5;PSG Talon;MGN Vikings Esports;0;2025-02-22
+LCP 2025 Season Kickoff Qualifying Series;winter_185;1;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21
+LCP 2025 Season Kickoff Qualifying Series;winter_185;2;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21
+LCP 2025 Season Kickoff Qualifying Series;winter_185;3;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21
+LCP 2025 Season Kickoff Qualifying Series;winter_185;4;CTBC Flying Oyster;MGN Vikings Esports;0;2025-02-21
+LCP 2025 Season Kickoff Qualifying Series;winter_186;1;GAM Esports;PSG Talon;1;2025-02-21
+LCP 2025 Season Kickoff Qualifying Series;winter_186;2;GAM Esports;PSG Talon;0;2025-02-21
+LCP 2025 Season Kickoff Qualifying Series;winter_186;3;GAM Esports;PSG Talon;0;2025-02-21
+LCP 2025 Season Kickoff Qualifying Series;winter_187;1;CTBC Flying Oyster;GAM Esports;1;2025-02-19
+LCP 2025 Season Kickoff Qualifying Series;winter_187;2;CTBC Flying Oyster;GAM Esports;1;2025-02-19
+LCP 2025 Season Kickoff Qualifying Series;winter_188;1;PSG Talon;MGN Vikings Esports;1;2025-02-19
+LCP 2025 Season Kickoff Qualifying Series;winter_188;2;PSG Talon;MGN Vikings Esports;0;2025-02-19
+LCP 2025 Season Kickoff Qualifying Series;winter_188;3;PSG Talon;MGN Vikings Esports;0;2025-02-19
+LCP 2025 Season Kickoff Qualifying Series;winter_189;1;Team Secret Whales;GAM Esports;0;2025-02-18
+LCP 2025 Season Kickoff Qualifying Series;winter_189;2;Team Secret Whales;GAM Esports;0;2025-02-18
+LCP 2025 Season Kickoff Qualifying Series;winter_190;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-02-18
+LCP 2025 Season Kickoff Qualifying Series;winter_190;2;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-02-18

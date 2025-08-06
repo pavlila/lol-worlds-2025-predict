@@ -1,375 +1,192 @@
-vs  teamA   scoreA  scoreB  teamB   round   patch   date
-LGD Gaming vs Top Esports	Top Esports	3   0	LGD Gaming	WEEK5	15.2	2025-02-16
-IG vs FPX	Funplus Phoenix	0   3	Invictus Gaming	WEEK5	15.2	2025-02-15
-TT vs BLG	Bilibili Gaming	2   3	TT	WEEK5	15.2	2025-02-14
-NIP vs RNG	Royal Never Give Up	0   3	Ninjas in Pyjamas	WEEK5	15.2	2025-02-13
-Ultra Prime vs OMG	Ultra Prime	2   3	OMG	WEEK5	15.2	2025-02-12
-EDG vs LNG Esports	Edward Gaming	3   0	LNG Esports	WEEK5	15.2	2025-02-11
-AL vs Team WE	Team WE	1   3	Anyone s Legend	WEEK5	15.2	2025-02-10
-WBG vs JD Gaming	JD Gaming	3   2	Weibo Gaming	WEEK4	15.2	2025-02-09
-FPX vs NIP	Ninjas in Pyjamas	3   0	Funplus Phoenix	WEEK4	15.2	2025-02-08
-RNG vs IG	Invictus Gaming	3   1	Royal Never Give Up	WEEK3	15.2	2025-01-25
-LNG Esports vs BLG	Bilibili Gaming	3   0	LNG Esports	WEEK3	15.2	2025-01-25
-AL vs Top Esports	Top Esports	1   3	Anyone s Legend	WEEK3	15.2	2025-01-24
-JD Gaming vs OMG	OMG	2   3	JD Gaming	WEEK3	15.1	2025-01-23
-Team WE vs LGD Gaming	LGD Gaming	3   0	Team WE	WEEK3	15.1	2025-01-22
-EDG vs TT	Edward Gaming	1   3	TT	WEEK3	15.1	2025-01-21
-Ultra Prime vs JD Gaming	JD Gaming	3   0	Ultra Prime	WEEK3	15.1	2025-01-20
-IG vs NIP	Invictus Gaming	1   3	Ninjas in Pyjamas	WEEK2	15.1	2025-01-19
-Top Esports vs Team WE	Top Esports	3   0	Team WE	WEEK1	15.1	2025-01-18
-BLG vs EDG	Edward Gaming	0   3	Bilibili Gaming	WEEK1	15.1	2025-01-17
-LGD Gaming vs AL	LGD Gaming	0   3	Anyone s Legend	WEEK1	15.1	2025-01-16
-WBG vs Ultra Prime	Ultra Prime	1   3	Weibo Gaming	WEEK1	15.1	2025-01-15
-RNG vs FPX	Royal Never Give Up	3   1	Funplus Phoenix	WEEK1	15.1	2025-01-14
-TT vs LNG Esports	LNG Esports	1   3	TT	WEEK1	15.1	2025-01-13
-OMG vs WBG	Weibo Gaming	3   0	OMG	WEEK1	15.1	2025-01-12
-AL vs Top Esports	Top Esports	3   1	Anyone s Legend	FINALS	15.4	2025-03-01
-JD Gaming vs Top Esports	JD Gaming	1   3	Top Esports	ROUND4	15.4	2025-02-27
-BLG vs Top Esports	Bilibili Gaming	1   3	Top Esports	ROUND3	15.4	2025-02-26
-JD Gaming vs AL	JD Gaming	2   3	Anyone s Legend	ROUND4	15.4	2025-02-25
-NIP vs Top Esports	Ninjas in Pyjamas	1   3	Top Esports	ROUND2	15.4	2025-02-24
-TT vs BLG	Bilibili Gaming	3   1	TT	ROUND2	15.4	2025-02-24
-Top Esports vs IG	Invictus Gaming	1   3	Top Esports	ROUND1	15.4	2025-02-23
-BLG vs WBG	Weibo Gaming	1   3	Bilibili Gaming	ROUND1	15.4	2025-02-23
-NIP vs AL	Ninjas in Pyjamas	2   3	Anyone s Legend	ROUND2	15.4	2025-02-22
-TT vs JD Gaming	JD Gaming	3   1	TT	ROUND2	15.4	2025-02-22
-SK Gaming vs Fnatic	SK Gaming	0   1	Fnatic	WEEK3	15.2	2025-02-03
-G2 Esports vs TH	G2 Esports	1   0	Team Heretics	WEEK3	15.2	2025-02-03
-KC vs Team BDS	Karmine Corp	0   1	Team BDS	WEEK3	15.2	2025-02-03
-MKOI vs Rogue	Movistar KOI	1   0	Rogue	WEEK3	15.2	2025-02-03
-VIT vs GIANTX	Team Vitality	1   0	GIANTX	WEEK3	15.2	2025-02-03
-G2 Esports vs MKOI	G2 Esports	1   0	Movistar KOI	WEEK3	15.2	2025-02-02
-TH vs VIT	Team Heretics	0   1	Team Vitality	WEEK3	15.2	2025-02-02
-Fnatic vs KC	Fnatic	1   0	Karmine Corp	WEEK3	15.2	2025-02-02
-Team BDS vs GIANTX	Team BDS	0   1	GIANTX	WEEK3	15.2	2025-02-02
-Rogue vs SK Gaming	Rogue	0   1	SK Gaming	WEEK3	15.2	2025-02-02
-VIT vs KC	Team Vitality	0   1	Karmine Corp	WEEK3	15.2	2025-02-01
-TH vs MKOI	Team Heretics	1   0	Movistar KOI	WEEK3	15.2	2025-02-01
-Rogue vs G2 Esports	Rogue	0   1	G2 Esports	WEEK3	15.2	2025-02-01
-GIANTX vs Fnatic	GIANTX	0   1	Fnatic	WEEK3	15.2	2025-02-01
-SK Gaming vs Team BDS	SK Gaming	0   1	Team BDS	WEEK3	15.2	2025-02-01
-SK Gaming vs MKOI	SK Gaming	0   1	Movistar KOI	WEEK2	15.2	2025-01-27
-KC vs TH	Karmine Corp	1   0	Team Heretics	WEEK2	15.2	2025-01-27
-G2 Esports vs GIANTX	G2 Esports	1   0	GIANTX	WEEK2	15.2	2025-01-27
-Fnatic vs Team BDS	Fnatic	1   0	Team BDS	WEEK2	15.2	2025-01-27
-VIT vs Rogue	Team Vitality	1   0	Rogue	WEEK2	15.2	2025-01-27
-Team BDS vs MKOI	Team BDS	0   1	Movistar KOI	WEEK2	15.2	2025-01-26
-KC vs Rogue	Karmine Corp	1   0	Rogue	WEEK2	15.2	2025-01-26
-Fnatic vs G2 Esports	Fnatic	1   0	G2 Esports	WEEK2	15.2	2025-01-26
-SK Gaming vs VIT	SK Gaming	0   1	Team Vitality	WEEK2	15.2	2025-01-26
-GIANTX vs TH	GIANTX	1   0	Team Heretics	WEEK2	15.2	2025-01-26
-KC vs SK Gaming	Karmine Corp	1   0	SK Gaming	WEEK2	15.2	2025-01-25
-VIT vs G2 Esports	Team Vitality	0   1	G2 Esports	WEEK2	15.2	2025-01-25
-GIANTX vs MKOI	GIANTX	0   1	Movistar KOI	WEEK2	15.2	2025-01-25
-Team BDS vs TH	Team BDS	0   1	Team Heretics	WEEK2	15.2	2025-01-25
-Rogue vs Fnatic	Rogue	0   1	Fnatic	WEEK2	15.2	2025-01-25
-GIANTX vs KC	GIANTX	1   0	Karmine Corp	WEEK1	15.1	2025-01-20
-G2 Esports vs SK Gaming	G2 Esports	1   0	SK Gaming	WEEK1	15.1	2025-01-20
-MKOI vs VIT	Movistar KOI	1   0	Team Vitality	WEEK1	15.1	2025-01-20
-TH vs Fnatic	Team Heretics	0   1	Fnatic	WEEK1	15.1	2025-01-20
-Team BDS vs Rogue	Team BDS	1   0	Rogue	WEEK1	15.1	2025-01-20
-Fnatic vs VIT	Fnatic	1   0	Team Vitality	WEEK1	15.1	2025-01-19
-G2 Esports vs Team BDS	G2 Esports	0   1	Team BDS	WEEK1	15.1	2025-01-19
-MKOI vs KC	Movistar KOI	0   1	Karmine Corp	WEEK1	15.1	2025-01-19
-Rogue vs GIANTX	Rogue	0   1	GIANTX	WEEK1	15.1	2025-01-19
-TH vs SK Gaming	Team Heretics	1   0	SK Gaming	WEEK1	15.1	2025-01-19
-KC vs G2 Esports	Karmine Corp	1   0	G2 Esports	WEEK1	15.1	2025-01-18
-KOI vs Fnatic	Movistar KOI	1   0	Fnatic	WEEK1	15.1	2025-01-18
-GIANTX vs SK Gaming	GIANTX	1   0	SK Gaming	WEEK1	15.1	2025-01-18
-VIT vs Team BDS	Team Vitality	1   0	Team BDS	WEEK1	15.1	2025-01-18
-TH vs Rogue	Team Heretics	0   1	Rogue	WEEK1	15.1	2025-01-18
-G2 Esports vs KC	G2 Esports	0   3	Karmine Corp	FINALS	15.3	2025-03-02
-KC vs Fnatic	Karmine Corp	3   2	Fnatic	ROUND4	15.3	2025-03-01
-MKOI vs Fnatic	Fnatic	3   1	Movistar KOI	ROUND3	15.3	2025-02-28
-G2 Esports vs KC	Karmine Corp	1   3	G2 Esports	ROUND4	15.3	2025-02-24
-MKOI vs GIANTX	Movistar KOI	2   0	GIANTX	ROUND2	15.3	2025-02-23
-Fnatic vs Team BDS	Fnatic	2   1	Team BDS	ROUND2	15.3	2025-02-23
-Team BDS vs VIT	Team Vitality	1   2	Team BDS	ROUND1	15.3	2025-02-22
-TH vs GIANTX	GIANTX	2   1	Team Heretics	ROUND1	15.3	2025-02-22
-MKOI vs KC	Karmine Corp	2   0	Movistar KOI	ROUND2	15.3	2025-02-17
-Fnatic vs G2 Esports	Fnatic	0   2	G2 Esports	ROUND2	15.3	2025-02-17
-KC vs VIT	Karmine Corp	2   0	Team Vitality	ROUND1	15.3	2025-02-16
-MKOI vs Team BDS	Movistar KOI	2   0	Team BDS	ROUND1	15.3	2025-02-16
-G2 Esports vs GIANTX	G2 Esports	2   0	GIANTX	ROUND1	15.3	2025-02-15
-Fnatic vs TH	Fnatic	2   0	Team Heretics	ROUND1	15.3	2025-02-15
-HLE vs GEN	Hanwha Life eSports	3   2	Gen.G eSports	FINALS	15.3	2025-02-23
-Dplus KIA vs GEN	Dplus KIA	0   3	Gen.G eSports	PLAYOFFS-ROUND3	15.3	2025-02-22
-NS vs GEN	Nongshim RedForce	2   3	Gen.G eSports	PLAYOFFS-ROUND2	15.3	2025-02-20
-Dplus KIA vs HLE	Hanwha Life eSports	3   2	Dplus KIA	PLAYOFFS-ROUND3	15.3	2025-02-19
-GEN vs HLE	Gen.G eSports	2   3	Hanwha Life eSports	PLAYOFFS-ROUND2	15.3	2025-02-16
-Dplus KIA vs NS	Dplus KIA	3   1	Nongshim RedForce	PLAYOFFS-ROUND2	15.3	2025-02-15
-T1 vs HLE	Hanwha Life eSports	3   2	T1	PLAYOFFS-ROUND1	15.3	2025-02-13
-KT Rolster vs NS	KT Rolster	0   3	Nongshim RedForce	PLAYOFFS-ROUND1	15.3	2025-02-12
-NS vs DRX	DRX	1   3	Nongshim RedForce	PLAYIN-ROUND3	15.2	2025-02-09
-HLE vs DRX	Hanwha Life eSports	2   0	DRX	PLAYIN-ROUND2	15.2	2025-02-08
-T1 vs NS	T1	2   0	Nongshim RedForce	PLAYIN-ROUND2	15.2	2025-02-08
-NS vs OK BRION	Nongshim RedForce	2   0	OK BRION	PLAYIN-ROUND1	15.2	2025-02-07
-DRX vs DN Freecs	DRX	2   0	DN Freecs	PLAYIN-ROUND1	15.2	2025-02-07
-NS vs BNK FearX	Nongshim RedForce	2   0	BNK FearX	WEEK3	15.2	2025-02-02
-OK BRION vs Dplus KIA	OK BRION	1   2	Dplus KIA	WEEK3	15.2	2025-02-01
-T1 vs GEN	T1	2   1	Gen.G eSports	WEEK3	15.2	2025-02-01
-DRX vs HLE	DRX	0   2	Hanwha Life eSports	WEEK3	15.2	2025-01-31
-DN Freecs vs KT Rolster	DN Freecs	1   2	KT Rolster	WEEK3	15.2	2025-01-31
-KT Rolster vs OK BRION	KT Rolster	2   0	OK BRION	WEEK2	15.1	2025-01-26
-T1 vs NS	T1	2   0	Nongshim RedForce	WEEK2	15.1	2025-01-26
-GEN vs DN Freecs	Gen.G eSports	2   0	DN Freecs	WEEK2	15.1	2025-01-25
-HLE vs Dplus KIA	Hanwha Life eSports	1   2	Dplus KIA	WEEK2	15.1	2025-01-25
-T1 vs KT Rolster	T1	2   1	KT Rolster	WEEK2	15.1	2025-01-24
-DRX vs BNK FearX	DRX	2   1	BNK FearX	WEEK2	15.1	2025-01-24
-HLE vs NS	Hanwha Life eSports	2   0	Nongshim RedForce	WEEK2	15.1	2025-01-23
-OK BRION vs GEN	OK BRION	2   0	Gen.G eSports	WEEK2	15.1	2025-01-23
-DN Freecs vs DRX	DN Freecs	1   2	DRX	WEEK2	15.1	2025-01-22
-Dplus KIA vs BNK FearX	Dplus KIA	2   1	BNK FearX	WEEK2	15.1	2025-01-22
-BNK FearX vs GEN	BNK FearX	0   2	Gen.G eSports	WEEK1	15.1	2025-01-19
-KT Rolster vs HLE	KT Rolster	0   2	Hanwha Life eSports	WEEK1	15.1	2025-01-19
-DRX vs T1	DRX	0   2	T1	WEEK1	15.1	2025-01-18
-Dplus KIA vs DN Freecs	Dplus KIA	2   0	DN Freecs	WEEK1	15.1	2025-01-18
-NS vs OK BRION	Nongshim RedForce	2   0	OK BRION	WEEK1	15.1	2025-01-17
-GEN vs HLE	Gen.G eSports	2   0	Hanwha Life eSports	WEEK1	15.1	2025-01-17
-Dplus KIA vs T1	Dplus KIA	2   1	T1	WEEK1	15.1	2025-01-16
-BNK FearX vs KT Rolster	BNK FearX	1   2	KT Rolster	WEEK1	15.1	2025-01-16
-DN Freecs vs NS	DN Freecs	2   1	Nongshim RedForce	WEEK1	15.1	2025-01-15
-OK BRION vs DRX	OK BRION	1   2	DRX	WEEK1	15.1	2025-01-15
-FlyQuest vs Team Liquid	Team Liquid	0   1	FlyQuest	ROUND3	15.3	2025-02-09
-FlyQuest vs Dignitas	Dignitas	0   2	FlyQuest	ROUND2	15.3	2025-02-09
-Team Liquid vs SR	Team Liquid	2   0	Shopify Rebellion	ROUND2	15.3	2025-02-09
-100 Thieves vs Cloud9	100 Thieves	1   0	Cloud9	ROUND3	15.2	2025-02-02
-FlyQuest vs Cloud9	FlyQuest	1   2	Cloud9	ROUND2	15.2	2025-02-02
-Team Liquid vs 100 Thieves	Team Liquid	1   2	100 Thieves	ROUND2	15.2	2025-02-02
-SR vs LYON	LYON	1   2	Shopify Rebellion	ROUND1	15.2	2025-02-01
-Dignitas vs Disguised	Disguised	1   2	Dignitas	ROUND1	15.2	2025-02-01
-Team Liquid vs Dignitas	Dignitas	0   2	Team Liquid	ROUND1	15.2	2025-01-26
-100 Thieves vs Disguised	Disguised	0   2	100 Thieves	ROUND1	15.2	2025-01-26
-LYON vs Cloud9	LYON	0   2	Cloud9	ROUND1	15.2	2025-01-25
-FlyQuest vs SR	Shopify Rebellion	0   2	FlyQuest	ROUND1	15.2	2025-01-25
-LOUD vs paiN Gaming	LOUD	1   0	paiN Gaming	ROUND3	15.3	2025-02-09
-paiN Gaming vs FURIA	paiN Gaming	2   1	FURIA	ROUND2	15.3	2025-02-09
-RED Canids vs LOUD	RED Canids	1   2	LOUD	ROUND2	15.3	2025-02-09
-Leviatan vs IE	Leviatan	0   1	Isurus	ROUND3	15.2	2025-02-02
-Leviatan vs paiN Gaming	paiN Gaming	1   2	Leviatan	ROUND2	15.2	2025-02-02
-IE vs RED Canids	Isurus	2   1	RED Canids	ROUND2	15.2	2025-02-02
-FURIA vs Fluxo	Fluxo	0   2	FURIA	ROUND1	15.2	2025-02-01
-VKS vs LOUD	LOUD	2   1	Vivo Keyd Stars	ROUND1	15.2	2025-02-01
-RED Canids vs Fluxo	RED Canids	2   0	Fluxo	ROUND1	15.2	2025-01-26
-IE vs FURIA	Isurus	2   1	FURIA	ROUND1	15.2	2025-01-26
-VKS vs Leviatan	Vivo Keyd Stars	1   2	Leviatan	ROUND1	15.2	2025-01-25
-paiN Gaming vs LOUD	LOUD	1   2	paiN Gaming	ROUND1	15.2	2025-01-25
-TALON vs MVKE	PSG Talon	2   1	MGN Vikings Esports	WEEK4	15.3	2025-02-16
-CHF vs CFO	CTBC Flying Oyster	2   0	Chiefs Esports Club	WEEK4	15.3	2025-02-16
-TSW vs GAM Esports	Team Secret Whales	2   0	GAM Esports	WEEK4	15.3	2025-02-15
-SHG vs DFM	DetonatioN FocusMe	0   2	Fukuoka SoftBank HAWKS gaming	WEEK4	15.3	2025-02-15
-TALON vs CFO	CTBC Flying Oyster	2   1	PSG Talon	WEEK4	15.3	2025-02-14
-MVKE vs CHF	Chiefs Esports Club	0   2	MGN Vikings Esports	WEEK4	15.3	2025-02-14
-GAM Esports vs DFM	GAM Esports	2   0	DetonatioN FocusMe	WEEK4	15.3	2025-02-13
-TSW vs SHG	Fukuoka SoftBank HAWKS gaming	0   2	Team Secret Whales	WEEK4	15.3	2025-02-13
-TALON vs GAM Esports	PSG Talon	2   1	GAM Esports	WEEK3	15.3	2025-02-09
-SHG vs CHF	Chiefs Esports Club	0   2	Fukuoka SoftBank HAWKS gaming	WEEK3	15.3	2025-02-09
-MVKE vs DFM	MGN Vikings Esports	2   1	DetonatioN FocusMe	WEEK3	15.3	2025-02-08
-TSW vs CFO	CTBC Flying Oyster	1   2	Team Secret Whales	WEEK3	15.3	2025-02-08
-GAM Esports vs CHF	Chiefs Esports Club	0   2	GAM Esports	WEEK3	15.2	2025-02-07
-SHG vs TALON	Fukuoka SoftBank HAWKS gaming	0   2	PSG Talon	WEEK3	15.2	2025-02-07
-TSW vs MVKE	MGN Vikings Esports	2   0	Team Secret Whales	WEEK3	15.2	2025-02-06
-DFM vs CFO	CTBC Flying Oyster	2   0	DetonatioN FocusMe	WEEK3	15.2	2025-02-06
-TALON vs DFM	PSG Talon	2   0	DetonatioN FocusMe	WEEK2	15.2	2025-01-26
-TSW vs CHF	Chiefs Esports Club	0   2	Team Secret Whales	WEEK2	15.2	2025-01-26
-GAM Esports vs CFO	GAM Esports	1   2	CTBC Flying Oyster	WEEK2	15.2	2025-01-25
-SHG vs MVKE	Fukuoka SoftBank HAWKS gaming	0   2	MGN Vikings Esports	WEEK2	15.2	2025-01-25
-TSW vs TALON	PSG Talon	2   0	Team Secret Whales	WEEK2	15.1	2025-01-24
-DFM vs CHF	Chiefs Esports Club	1   2	DetonatioN FocusMe	WEEK2	15.1	2025-01-24
-SHG vs CFO	Fukuoka SoftBank HAWKS gaming	0   2	CTBC Flying Oyster	WEEK1	15.1	2025-01-19
-MVKE vs GAM Esports	GAM Esports	0   2	MGN Vikings Esports	WEEK1	15.1	2025-01-19
-TALON vs CHF	PSG Talon	2   0	Chiefs Esports Club	WEEK1	15.1	2025-01-18
-TW vs DFM	Team Secret Whales	2   0	DetonatioN FocusMe	WEEK1	15.1	2025-01-18
-SHG vs GAM Esports	Fukuoka SoftBank HAWKS gaming	1   2	GAM Esports	WEEK1	15.1	2025-01-17
-MVKE vs CFO	CTBC Flying Oyster	2   1	MGN Vikings Esports	WEEK1	15.1	2025-01-17
-CFO vs TALON	CTBC Flying Oyster	3   1	PSG Talon	FINALS	15.3	2025-02-23
-MVKE vs TALON	PSG Talon	3   2	MGN Vikings Esports	ROUND3	15.3	2025-02-22
-MVKE vs CFO	CTBC Flying Oyster	3   1	MGN Vikings Esports	ROUND3	15.3	2025-02-21
-TALON vs GAM Esports	GAM Esports	1   2	PSG Talon	ROUND2	15.3	2025-02-21
-CFO vs GAM Esports	CTBC Flying Oyster	2   0	GAM Esports	ROUND2	15.3	2025-02-19
-TALON vs MVKE	PSG Talon	1   2	MGN Vikings Esports	ROUND2	15.3	2025-02-19
-TSW vs GAM Esports	Team Secret Whales	0   2	GAM Esports	ROUND1	15.3	2025-02-18
-MVKE vs SHG	Fukuoka SoftBank HAWKS gaming	0   2	MGN Vikings Esports	ROUND1	15.3	2025-02-18
-BJK vs SUP	Besiktas Esports	0   1	Papara SuperMassive	WEEK5	15.4	2025-02-27
-BGT vs ULF Esports	BoostGate Esports	1   0	ULF Esports	WEEK5	15.4	2025-02-27
-MISA vs BW	Misa Esports	0   1	Bushido Wildcats	WEEK5	15.4	2025-02-27
-BLDP vs EF	BBL Dark Passage	0   1	Eternal Fire	WEEK5	15.4	2025-02-27
-BW vs EF	Bushido Wildcats	1   0	Eternal Fire	WEEK5	15.4	2025-02-26
-BJK vs BLDP	Besiktas Esports	0   1	BBL Dark Passage	WEEK5	15.4	2025-02-26
-ULF Esports vs MISA	ULF Esports	0   1	Misa Esports	WEEK5	15.4	2025-02-26
-SUP vs BGT	Papara SuperMassive	0   1	BoostGate Esports	WEEK5	15.4	2025-02-26
-EF vs ULF Esports	Eternal Fire	1   0	ULF Esports	WEEK5	15.4	2025-02-25
-MISA vs SUP	Misa Esports	1   0	Papara SuperMassive	WEEK5	15.4	2025-02-25
-BGT vs BJK	BoostGate Esports	1   0	Besiktas Esports	WEEK5	15.4	2025-02-25
-BLDP vs BW	BBL Dark Passage	0   1	Bushido Wildcats	WEEK5	15.4	2025-02-25
-BGT vs BLDP	BoostGate Esports	1   0	BBL Dark Passage	WEEK4	15.3	2025-02-14
-BJK vs MISA	Besiktas Esports	0   1	Misa Esports	WEEK4	15.3	2025-02-14
-SUP vs EF	Papara SuperMassive	0   1	Eternal Fire	WEEK4	15.3	2025-02-14
-ULF Esports vs BW	ULF Esports	0   1	Bushido Wildcats	WEEK4	15.3	2025-02-14
-BW vs SUP	Bushido Wildcats	0   1	Papara SuperMassive	WEEK4	15.3	2025-02-13
-ULF Esports vs BLDP	ULF Esports	1   0	BBL Dark Passage	WEEK4	15.3	2025-02-13
-MISA vs BGT	Misa Esports	1   0	BoostGate Esports	WEEK4	15.3	2025-02-13
-EF vs BJK	Eternal Fire	1   0	Besiktas Esports	WEEK4	15.3	2025-02-13
-BLDP vs MISA	BBL Dark Passage	0   1	Misa Esports	WEEK4	15.3	2025-02-12
-BW vs BJK	Bushido Wildcats	0   1	Besiktas Esports	WEEK4	15.3	2025-02-12
-EF vs BGT	Eternal Fire	1   0	BoostGate Esports	WEEK4	15.3	2025-02-12
-SUP vs ULF Esports	Papara SuperMassive	1   0	ULF Esports	WEEK4	15.3	2025-02-12
-BJK vs ULF Esports	Besiktas Esports	1   0	ULF Esports	WEEK3	15.2	2025-02-07
-BLDP vs SUP	BBL Dark Passage	0   1	Papara SuperMassive	WEEK3	15.2	2025-02-07
-BGT vs BW	Bushido Wildcats	1   0	BoostGate Esports	WEEK3	15.2	2025-02-07
-MISA vs EF	Misa Esports	1   0	Eternal Fire	WEEK3	15.2	2025-02-07
-EF vs BLDP	Eternal Fire	1   0	BBL Dark Passage	WEEK3	15.2	2025-02-06
-BW vs MISA	Bushido Wildcats	1   0	Misa Esports	WEEK3	15.2	2025-02-06
-SUP vs BJK	Papara SuperMassive	1   0	Besiktas Esports	WEEK3	15.2	2025-02-06
-ULF Esports vs BGT	ULF Esports	0   1	BoostGate Esports	WEEK3	15.2	2025-02-06
-MISA vs ULF Esports	Misa Esports	1   0	ULF Esports	WEEK3	15.2	2025-02-05
-BGT vs SUP	Papara SuperMassive	0   1	BoostGate Esports	WEEK3	15.2	2025-02-05
-BLDP vs BJK	BBL Dark Passage	0   1	Besiktas Esports	WEEK3	15.2	2025-02-05
-EF vs BW	Eternal Fire	1   0	Bushido Wildcats	WEEK3	15.2	2025-02-05
-ULF Esports vs EF	ULF Esports	0   1	Eternal Fire	WEEK2	15.2	2025-01-31
-BW vs BLDP	Bushido Wildcats	0   1	BBL Dark Passage	WEEK2	15.2	2025-01-31
-BJK vs BGT	Besiktas Esports	0   1	BoostGate Esports	WEEK2	15.2	2025-01-31
-SUP vs MISA	Papara SuperMassive	1   0	Misa Esports	WEEK2	15.2	2025-01-31
-BLDP vs BGT	BBL Dark Passage	1   0	BoostGate Esports	WEEK2	15.2	2025-01-30
-EF vs SUP	Eternal Fire	0   1	Papara SuperMassive	WEEK2	15.2	2025-01-30
-MISA vs BJK	Misa Esports	1   0	Besiktas Esports	WEEK2	15.2	2025-01-30
-BW vs ULF Esports	Bushido Wildcats	1   0	ULF Esports	WEEK2	15.2	2025-01-30
-BGT vs MISA	Misa Esports	0   1	BoostGate Esports	WEEK2	15.2	2025-01-29
-SUP vs BW	Papara SuperMassive	1   0	Bushido Wildcats	WEEK2	15.2	2025-01-29
-BJK vs EF	Besiktas Esports	0   1	Eternal Fire	WEEK2	15.2	2025-01-29
-BLDP vs ULF Esports	BBL Dark Passage	1   0	ULF Esports	WEEK2	15.2	2025-01-29
-ULF Esports vs SUP	ULF Esports	1   0	Papara SuperMassive	WEEK1	15.1	2025-01-24
-BJK vs BW	Besiktas Esports	1   0	Bushido Wildcats	WEEK1	15.1	2025-01-24
-BGT vs EF	BoostGate Esports	0   1	Eternal Fire	WEEK1	15.1	2025-01-24
-MISA vs BLDP	Misa Esports	1   0	BBL Dark Passage	WEEK1	15.1	2025-01-24
-EF vs MISA	Eternal Fire	1   0	Misa Esports	WEEK1	15.1	2025-01-23
-BW vs BGT	Bushido Wildcats	1   0	BoostGate Esports	WEEK1	15.1	2025-01-23
-ULF Esports vs BJK	ULF Esports	0   1	Besiktas Esports	WEEK1	15.1	2025-01-23
-SUP vs BLDP	Papara SuperMassive	1   0	BBL Dark Passage	WEEK1	15.1	2025-01-23
-EF vs SUP	Eternal Fire	2   3	Papara SuperMassive	FINALS	15.4	2025-03-09
-SUP vs MISA	Papara SuperMassive	3   2	Misa Esports	SEMIFINALS	15.4	2025-03-06
-MISA vs BGT	Misa Esports	3   2	BoostGate Esports	ROUND2	15.4	2025-03-05
-EF vs SUP	Eternal Fire	3   0	Papara SuperMassive	ROUND2	15.4	2025-03-04
-BW vs BGT	Bushido Wildcats	0   2	BoostGate Esports	ROUND1	15.4	2025-03-03
-MISA vs BJK	Misa Esports	2   0	Besiktas Esports	ROUND1	15.4	2025-03-03
-Joblife vs KCB	Joblife	0   1	Karmine Corp Blue	TIEBREAKERS	15.1	2025-01-31
-Joblife vs GameWard	GameWard	0   1	Joblife	TIEBREAKERS	15.1	2025-01-31
-KCB vs GameWard	Karmine Corp Blue	1   0	GameWard	TIEBREAKERS	15.1	2025-01-31
-KCB vs M8	Karmine Corp Blue	0   1	Gentle Mates	WEEK2	15.1	2025-01-30
-Joblife vs VITB	Joblife	0   1	Vitality.Bee	WEEK2	15.1	2025-01-30
-IJC vs Solary	Solary	1   0	Ici Japon Corp. Esport	WEEK2	15.1	2025-01-30
-BKR vs Galions	BK ROG Esports	1   0	Galions	WEEK2	15.1	2025-01-30
-M8 vs Joblife	Gentle Mates	1   0	Joblife	WEEK2	15.1	2025-01-29
-GameWard vs VITB	GameWard	0   1	Vitality.Bee	WEEK2	15.1	2025-01-29
-Solary vs BKR	Solary	0   1	BK ROG Esports	WEEK2	15.1	2025-01-29
-BDSA vs Galions	Galions	1   0	Team BDS Academy	WEEK2	15.1	2025-01-29
-VITB vs M8	Gentle Mates	0   1	Vitality.Bee	WEEK1	15.1	2025-01-24
-KCB vs GameWard	GameWard	1   0	Karmine Corp Blue	WEEK1	15.1	2025-01-24
-BDSA vs Solary	Solary	1   0	Team BDS Academy	WEEK1	15.1	2025-01-24
-BKR vs IJC	Ici Japon Corp. Esport	1   0	BK ROG Esports	WEEK1	15.1	2025-01-24
-VITB vs KCB	Karmine Corp Blue	0   1	Vitality.Bee	WEEK1	15.1	2025-01-23
-Joblife vs GameWard	GameWard	0   1	Joblife	WEEK1	15.1	2025-01-23
-Galions vs Solary	Galions	1   0	Solary	WEEK1	15.1	2025-01-23
-IJC vs BDSA	Ici Japon Corp. Esport	1   0	Team BDS Academy	WEEK1	15.1	2025-01-23
-Joblife vs KCB	Karmine Corp Blue	1   0	Joblife	WEEK1	15.1	2025-01-22
-GW vs M8	Gentle Mates	1   0	GameWard	WEEK1	15.1	2025-01-22
-Galions vs IJC	Galions	1   0	Ici Japon Corp. Esport	WEEK1	15.1	2025-01-22
-BKR vs BDSA	BK ROG Esports	1   0	Team BDS Academy	WEEK1	15.1	2025-01-22
-Galions vs M8	Galions	2   0	Gentle Mates	ROUND3	15.2	2025-02-14
-BKR vs Solary	BK ROG Esports	1   2	Solary	ROUND3	15.2	2025-02-14
-KCB vs Solary	Karmine Corp Blue	2   0	Solary	ROUND2	15.2	2025-02-13
-BKR vs IJC	BK ROG Esports	1   2	Ici Japon Corp. Esport	ROUND2	15.2	2025-02-13
-M8 vs Joblife	Gentle Mates	2   0	Joblife	ROUND2	15.2	2025-02-12
-Galions vs VITB	Vitality.Bee	0   2	Galions	ROUND2	15.2	2025-02-12
-Galions vs KCB	Galions	1   2	Karmine Corp Blue	ROUND1	15.2	2025-02-06
-M8 vs Solary	Gentle Mates	1   2	Solary	ROUND1	15.2	2025-02-06
-BKR vs Joblife	BK ROG Esports	2   0	Joblife	ROUND1	15.2	2025-02-05
-VITB vs IJC	Vitality.Bee	0   2	Ici Japon Corp. Esport	ROUND1	15.2	2025-02-05
-KCB vs IJC	Karmine Corp Blue	3   1	Ici Japon Corp. Esport	FINALS	15.3	2025-02-27
-IJC vs Solary	Ici Japon Corp. Esport	3   1	Solary	ROUND2	15.3	2025-02-26
-Galions vs Solary	Galions	2   3	Solary	ROUND1	15.3	2025-02-20
-IJC vs KCB	Ici Japon Corp. Esport	0   3	Karmine Corp Blue	ROUND1	15.3	2025-02-19
-ZETA vs UCAM	ZETA	0   1	UCAM Esports	WEEK3	15.2	2025-01-30
-VVV vs Guasones	Veni Vidi Vici	1   0	Guasones	WEEK3	15.2	2025-01-30
-BAR vs GXP	Barça eSports	0   1	GIANTX Pride	WEEK3	15.2	2025-01-30
-LUA Gaming vs KOI	Movistar KOI Fénix	1   0	LUA Gaming	WEEK3	15.2	2025-01-30
-RBT vs HRTS	Ramboot Club	0   1	Los Heretics	WEEK3	15.2	2025-01-30
-HRTS vs ZETA	Los Heretics	1   0	ZETA	WEEK3	15.2	2025-01-29
-GXP vs RBT	GIANTX Pride	1   0	Ramboot Club	WEEK3	15.2	2025-01-29
-Guasones vs BAR	Guasones	0   1	Barça eSports	WEEK3	15.2	2025-01-29
-KOI vs VVV	Movistar KOI Fénix	0   1	Veni Vidi Vici	WEEK3	15.2	2025-01-29
-UCAM vs LUA Gaming	UCAM Esports	0   1	LUA Gaming	WEEK3	15.2	2025-01-29
-BAR vs KOI	Barça eSports	0   1	Movistar KOI Fénix	WEEK3	15.2	2025-01-28
-ZETA vs GXP	ZETA	0   1	GIANTX Pride	WEEK3	15.2	2025-01-28
-VVV vs LUA Gaming	LUA Gaming	0   1	Veni Vidi Vici	WEEK3	15.2	2025-01-28
-RBT vs Guasones	Ramboot Club	1   0	Guasones	WEEK3	15.2	2025-01-28
-HRTS vs UCAM	Los Heretics	1   0	UCAM Esports	WEEK3	15.2	2025-01-28
-Guasones vs ZETA	ZETA	0   1	Guasones	WEEK2	15.1	2025-01-23
-UCAM vs VVV	UCAM Esports	0   1	Veni Vidi Vici	WEEK2	15.1	2025-01-23
-LUA Gaming vs BAR	LUA Gaming	1   0	Barça eSports	WEEK2	15.1	2025-01-23
-GXP vs HRTS	GIANTX Pride	0   1	Los Heretics	WEEK2	15.1	2025-01-23
-KOI vs RBT	Movistar KOI Fénix	0   1	Ramboot Club	WEEK2	15.1	2025-01-23
-GXP vs UCAM	GIANTX Pride	1   0	UCAM Esports	WEEK2	15.1	2025-01-22
-BAR vs VVV	Barça eSports	1   0	Veni Vidi Vici	WEEK2	15.1	2025-01-22
-HRTS vs Guasones	Los Heretics	1   0	Guasones	WEEK2	15.1	2025-01-22
-RBT vs LUA Gaming	Ramboot Club	1   0	LUA Gaming	WEEK2	15.1	2025-01-22
-ZETA vs KOI	Movistar KOI Fénix	1   0	ZETA	WEEK2	15.1	2025-01-22
-LUA Gaming vs ZETA	ZETA	0   1	LUA Gaming	WEEK2	15.1	2025-01-21
-UCAM vs BAR	UCAM Esports	1   0	Barça eSports	WEEK2	15.1	2025-01-21
-Guasones vs GXP	GIANTX Pride	1   0	Guasones	WEEK2	15.1	2025-01-21
-KOI vs HRTS	Movistar KOI Fénix	1   0	Los Heretics	WEEK2	15.1	2025-01-21
-VVV vs RBT	Veni Vidi Vici	0   1	Ramboot Club	WEEK2	15.1	2025-01-21
-ZETA vs VVV	ZETA	0   1	Veni Vidi Vici	WEEK1	15.1	2025-01-16
-GXP vs KOI	GIANTX Pride	1   0	Movistar KOI Fénix	WEEK1	15.1	2025-01-16
-RBT vs BAR	Ramboot Club	0   1	Barça eSports	WEEK1	15.1	2025-01-16
-HRTS vs LUA Gaming	Los Heretics	0   1	LUA Gaming	WEEK1	15.1	2025-01-16
-Guasones vs UCAM	Guasones	0   1	UCAM Esports	WEEK1	15.1	2025-01-16
-BAR vs ZETA	Barça eSports	1   0	ZETA	WEEK1	15.1	2025-01-15
-VVV vs HRTS	Veni Vidi Vici	0   1	Los Heretics	WEEK1	15.1	2025-01-15
-KOI vs Guasones	Movistar KOI Fénix	1   0	Guasones	WEEK1	15.1	2025-01-15
-UCAM vs RBT	UCAM Esports	0   1	Ramboot Club	WEEK1	15.1	2025-01-15
-LUA Gaming vs GXP	GIANTX Pride	0   1	LUA Gaming	WEEK1	15.1	2025-01-15
-HRTS vs BAR	Los Heretics	1   0	Barça eSports	WEEK1	15.1	2025-01-14
-KOI vs UCAM	Movistar KOI Fénix	0   1	UCAM Esports	WEEK1	15.1	2025-01-14
-GX vs VVV	GIANTX Pride	0   1	Veni Vidi Vici	WEEK1	15.1	2025-01-14
-Guasones vs LUA Gaming	LUA Gaming	1   0	Guasones	WEEK1	15.1	2025-01-14
-ZETA vs RBT	Ramboot Club	1   0	ZETA	WEEK1	15.1	2025-01-14
-BAR vs MKF	Barça eSports	2   1	Movistar KOI Fénix	ROUND3	15.3	2025-02-18
-RBT vs GXP	Ramboot Club	1   2	GIANTX Pride	ROUND3	15.3	2025-02-18
-MKF vs LUA Gaming	Movistar KOI Fénix	2   0	LUA Gaming	ROUND2	15.3	2025-02-13
-BAR vs UCAM	UCAM Esports	1   2	Barça eSports	ROUND2	15.3	2025-02-13
-GXP vs HRTS	Los Heretics	2   0	GIANTX Pride	ROUND2	15.3	2025-02-11
-RBT vs VVV	Ramboot Club	0   2	Veni Vidi Vici	ROUND2	15.3	2025-02-11
-HRTS vs BAR	Los Heretics	1   0	Barça eSports	ROUND1	15.2	2025-02-06
-VVV vs MKF	Movistar KOI Fénix	0   1	Veni Vidi Vici	ROUND1	15.2	2025-02-06
-LUA Gaming vs GXP	LUA Gaming	0   1	GIANTX Pride	ROUND1	15.2	2025-02-06
-RBT vs UCAM	Ramboot Club	1   0	UCAM Esports	ROUND1	15.2	2025-02-06
-HRTS vs BAR	Los Heretics	3   1	Barça eSports	FINALS	15.4	2025-03-06
-VVV vs BAR	Barça eSports	3   1	Veni Vidi Vici	ROUND2	15.3	2025-02-27
-GXP vs BAR	GIANTX Pride	2   3	Barça eSports	ROUND1	15.3	2025-02-25
-HRTS vs VVV	Los Heretics	3   1	Veni Vidi Vici	ROUND1	15.3	2025-02-20
-EINS vs KHK	Eintracht Spandau	0   2	Kaufland Hangry Knights	WEEK5	15.3	2025-02-19
-ROSS vs USE	ROSSMANN Centaurs	1   2	Unicorns of Love Sexy Edition	WEEK5	15.3	2025-02-19
-AFW vs DND	Austrian Force Willhaben	0   2	CGN Esports	WEEK5	15.3	2025-02-18
-TOG vs BIG	TeamOrangeGaming	1   2	Berlin International Gaming	WEEK5	15.3	2025-02-18
-KHK vs AFW	Kaufland Hangry Knights	0   2	Austrian Force Willhaben	WEEK4	15.3	2025-02-12
-BIG vs ROSS	Berlin International Gaming	2   0	ROSSMANN Centaurs	WEEK4	15.3	2025-02-12
-SGE vs EINS	Eintracht Frankfurt	2   0	Eintracht Spandau	WEEK4	15.3	2025-02-11
-USE vs EWI	Unicorns of Love Sexy Edition	0   2	E WIE EINFACH E-SPORTS	WEEK4	15.3	2025-02-11
-DND vs KHK	CGN Esports	2   1	Kaufland Hangry Knights	WEEK3	15.2	2025-02-05
-EWI vs ROSS	E WIE EINFACH E-SPORTS	2   1	ROSSMANN Centaurs	WEEK3	15.2	2025-02-05
-AFW vs SGE	Eintracht Frankfurt	0   2	Austrian Force Willhaben	WEEK3	15.2	2025-02-04
-USE vs TOG	Unicorns of Love Sexy Edition	0   2	TeamOrangeGaming	WEEK3	15.2	2025-02-04
-DND vs EINS	CGN Esports	1   2	Eintracht Spandau	WEEK2	15.2	2025-01-29
-ROSS vs TOG	ROSSMANN Centaurs	1   2	TeamOrangeGaming	WEEK2	15.2	2025-01-29
-KHK vs SGE	Kaufland Hangry Knights	1   2	Eintracht Frankfurt	WEEK2	15.2	2025-01-28
-EWI vs BIG	E WIE EINFACH E-SPORTS	1   2	Berlin International Gaming	WEEK2	15.2	2025-01-28
-AFW vs EINS	Austrian Force Willhaben	1   2	Eintracht Spandau	WEEK1	15.1	2025-01-22
-TOG vs EWI	TeamOrangeGaming	1   2	E WIE EINFACH E-SPORTS	WEEK1	15.1	2025-01-22
-SGE vs DD	Eintracht Frankfurt	1   2	CGN Esports	WEEK1	15.1	2025-01-21
-BIG vs UOL	Berlin International Gaming	2   0	Unicorns of Love Sexy Edition	WEEK1	15.1	2025-01-21
-BIG vs EWI	Berlin International Gaming	3   0	E WIE EINFACH E-SPORTS	FINALS	15.4	2025-03-08
-DND vs EWI	CGN Esports	0   3	E WIE EINFACH E-SPORTS	SEMIFINALS	15.4	2025-03-04
-BIG vs AFW	Berlin International Gaming	3   0	Austrian Force Willhaben	SEMIFINALS	15.4	2025-03-03
-EWI vs SGE	E WIE EINFACH E-SPORTS	3   2	Eintracht Frankfurt	QUARTERFINALS	15.3	2025-02-26
-AFW vs TOG	Austrian Force Willhaben	3   1	TeamOrangeGaming	QUARTERFINALS	15.3	2025-02-25
+tournament    vs  teamA   scoreA  scoreB  teamB   round   patch   date
+LPL 2025 Split 1    LGD Gaming vs Top Esports	Top Esports	3   0	LGD Gaming	WEEK5	15.2	2025-02-16
+LPL 2025 Split 1    IG vs FPX	Funplus Phoenix	0   3	Invictus Gaming	WEEK5	15.2	2025-02-15
+LPL 2025 Split 1    TT vs BLG	Bilibili Gaming	2   3	TT	WEEK5	15.2	2025-02-14
+LPL 2025 Split 1    NIP vs RNG	Royal Never Give Up	0   3	Ninjas in Pyjamas	WEEK5	15.2	2025-02-13
+LPL 2025 Split 1    Ultra Prime vs OMG	Ultra Prime	2   3	OMG	WEEK5	15.2	2025-02-12
+LPL 2025 Split 1    EDG vs LNG Esports	Edward Gaming	3   0	LNG Esports	WEEK5	15.2	2025-02-11
+LPL 2025 Split 1    AL vs Team WE	Team WE	1   3	Anyone s Legend	WEEK5	15.2	2025-02-10
+LPL 2025 Split 1    WBG vs JD Gaming	JD Gaming	3   2	Weibo Gaming	WEEK4	15.2	2025-02-09
+LPL 2025 Split 1    FPX vs NIP	Ninjas in Pyjamas	3   0	Funplus Phoenix	WEEK4	15.2	2025-02-08
+LPL 2025 Split 1    RNG vs IG	Invictus Gaming	3   1	Royal Never Give Up	WEEK3	15.2	2025-01-25
+LPL 2025 Split 1    LNG Esports vs BLG	Bilibili Gaming	3   0	LNG Esports	WEEK3	15.2	2025-01-25
+LPL 2025 Split 1    AL vs Top Esports	Top Esports	1   3	Anyone s Legend	WEEK3	15.2	2025-01-24
+LPL 2025 Split 1    JD Gaming vs OMG	OMG	2   3	JD Gaming	WEEK3	15.1	2025-01-23
+LPL 2025 Split 1    Team WE vs LGD Gaming	LGD Gaming	3   0	Team WE	WEEK3	15.1	2025-01-22
+LPL 2025 Split 1    EDG vs TT	Edward Gaming	1   3	TT	WEEK3	15.1	2025-01-21
+LPL 2025 Split 1    Ultra Prime vs JD Gaming	JD Gaming	3   0	Ultra Prime	WEEK3	15.1	2025-01-20
+LPL 2025 Split 1    IG vs NIP	Invictus Gaming	1   3	Ninjas in Pyjamas	WEEK2	15.1	2025-01-19
+LPL 2025 Split 1    Top Esports vs Team WE	Top Esports	3   0	Team WE	WEEK1	15.1	2025-01-18
+LPL 2025 Split 1    BLG vs EDG	Edward Gaming	0   3	Bilibili Gaming	WEEK1	15.1	2025-01-17
+LPL 2025 Split 1    LGD Gaming vs AL	LGD Gaming	0   3	Anyone s Legend	WEEK1	15.1	2025-01-16
+LPL 2025 Split 1    WBG vs Ultra Prime	Ultra Prime	1   3	Weibo Gaming	WEEK1	15.1	2025-01-15
+LPL 2025 Split 1    RNG vs FPX	Royal Never Give Up	3   1	Funplus Phoenix	WEEK1	15.1	2025-01-14
+LPL 2025 Split 1    TT vs LNG Esports	LNG Esports	1   3	TT	WEEK1	15.1	2025-01-13
+LPL 2025 Split 1    OMG vs WBG	Weibo Gaming	3   0	OMG	WEEK1	15.1	2025-01-12
+LPL 2025 Split 1 Playoffs   AL vs Top Esports	Top Esports	3   1	Anyone s Legend	FINALS	15.4	2025-03-01
+LPL 2025 Split 1 Playoffs   JD Gaming vs Top Esports	JD Gaming	1   3	Top Esports	ROUND4	15.4	2025-02-27
+LPL 2025 Split 1 Playoffs   BLG vs Top Esports	Bilibili Gaming	1   3	Top Esports	ROUND3	15.4	2025-02-26
+LPL 2025 Split 1 Playoffs   JD Gaming vs AL	JD Gaming	2   3	Anyone s Legend	ROUND4	15.4	2025-02-25
+LPL 2025 Split 1 Playoffs   NIP vs Top Esports	Ninjas in Pyjamas	1   3	Top Esports	ROUND2	15.4	2025-02-24
+LPL 2025 Split 1 Playoffs   TT vs BLG	Bilibili Gaming	3   1	TT	ROUND2	15.4	2025-02-24
+LPL 2025 Split 1 Playoffs   Top Esports vs IG	Invictus Gaming	1   3	Top Esports	ROUND1	15.4	2025-02-23
+LPL 2025 Split 1 Playoffs   BLG vs WBG	Weibo Gaming	1   3	Bilibili Gaming	ROUND1	15.4	2025-02-23
+LPL 2025 Split 1 Playoffs   NIP vs AL	Ninjas in Pyjamas	2   3	Anyone s Legend	ROUND2	15.4	2025-02-22
+LPL 2025 Split 1 Playoffs   TT vs JD Gaming	JD Gaming	3   1	TT	ROUND2	15.4	2025-02-22
+LEC Winter 2025   SK Gaming vs Fnatic	SK Gaming	0   1	Fnatic	WEEK3	15.2	2025-02-03
+LEC Winter 2025   G2 Esports vs TH	G2 Esports	1   0	Team Heretics	WEEK3	15.2	2025-02-03
+LEC Winter 2025   KC vs Team BDS	Karmine Corp	0   1	Team BDS	WEEK3	15.2	2025-02-03
+LEC Winter 2025   MKOI vs Rogue	Movistar KOI	1   0	Rogue	WEEK3	15.2	2025-02-03
+LEC Winter 2025   VIT vs GIANTX	Team Vitality	1   0	GIANTX	WEEK3	15.2	2025-02-03
+LEC Winter 2025   G2 Esports vs MKOI	G2 Esports	1   0	Movistar KOI	WEEK3	15.2	2025-02-02
+LEC Winter 2025   TH vs VIT	Team Heretics	0   1	Team Vitality	WEEK3	15.2	2025-02-02
+LEC Winter 2025   Fnatic vs KC	Fnatic	1   0	Karmine Corp	WEEK3	15.2	2025-02-02
+LEC Winter 2025   Team BDS vs GIANTX	Team BDS	0   1	GIANTX	WEEK3	15.2	2025-02-02
+LEC Winter 2025   Rogue vs SK Gaming	Rogue	0   1	SK Gaming	WEEK3	15.2	2025-02-02
+LEC Winter 2025   VIT vs KC	Team Vitality	0   1	Karmine Corp	WEEK3	15.2	2025-02-01
+LEC Winter 2025   TH vs MKOI	Team Heretics	1   0	Movistar KOI	WEEK3	15.2	2025-02-01
+LEC Winter 2025   Rogue vs G2 Esports	Rogue	0   1	G2 Esports	WEEK3	15.2	2025-02-01
+LEC Winter 2025   GIANTX vs Fnatic	GIANTX	0   1	Fnatic	WEEK3	15.2	2025-02-01
+LEC Winter 2025   SK Gaming vs Team BDS	SK Gaming	0   1	Team BDS	WEEK3	15.2	2025-02-01
+LEC Winter 2025   SK Gaming vs MKOI	SK Gaming	0   1	Movistar KOI	WEEK2	15.2	2025-01-27
+LEC Winter 2025   KC vs TH	Karmine Corp	1   0	Team Heretics	WEEK2	15.2	2025-01-27
+LEC Winter 2025   G2 Esports vs GIANTX	G2 Esports	1   0	GIANTX	WEEK2	15.2	2025-01-27
+LEC Winter 2025   Fnatic vs Team BDS	Fnatic	1   0	Team BDS	WEEK2	15.2	2025-01-27
+LEC Winter 2025   VIT vs Rogue	Team Vitality	1   0	Rogue	WEEK2	15.2	2025-01-27
+LEC Winter 2025   Team BDS vs MKOI	Team BDS	0   1	Movistar KOI	WEEK2	15.2	2025-01-26
+LEC Winter 2025   KC vs Rogue	Karmine Corp	1   0	Rogue	WEEK2	15.2	2025-01-26
+LEC Winter 2025   Fnatic vs G2 Esports	Fnatic	1   0	G2 Esports	WEEK2	15.2	2025-01-26
+LEC Winter 2025   SK Gaming vs VIT	SK Gaming	0   1	Team Vitality	WEEK2	15.2	2025-01-26
+LEC Winter 2025   GIANTX vs TH	GIANTX	1   0	Team Heretics	WEEK2	15.2	2025-01-26
+LEC Winter 2025   KC vs SK Gaming	Karmine Corp	1   0	SK Gaming	WEEK2	15.2	2025-01-25
+LEC Winter 2025   VIT vs G2 Esports	Team Vitality	0   1	G2 Esports	WEEK2	15.2	2025-01-25
+LEC Winter 2025   GIANTX vs MKOI	GIANTX	0   1	Movistar KOI	WEEK2	15.2	2025-01-25
+LEC Winter 2025   Team BDS vs TH	Team BDS	0   1	Team Heretics	WEEK2	15.2	2025-01-25
+LEC Winter 2025   Rogue vs Fnatic	Rogue	0   1	Fnatic	WEEK2	15.2	2025-01-25
+LEC Winter 2025   GIANTX vs KC	GIANTX	1   0	Karmine Corp	WEEK1	15.1	2025-01-20
+LEC Winter 2025   G2 Esports vs SK Gaming	G2 Esports	1   0	SK Gaming	WEEK1	15.1	2025-01-20
+LEC Winter 2025   MKOI vs VIT	Movistar KOI	1   0	Team Vitality	WEEK1	15.1	2025-01-20
+LEC Winter 2025   TH vs Fnatic	Team Heretics	0   1	Fnatic	WEEK1	15.1	2025-01-20
+LEC Winter 2025   Team BDS vs Rogue	Team BDS	1   0	Rogue	WEEK1	15.1	2025-01-20
+LEC Winter 2025   Fnatic vs VIT	Fnatic	1   0	Team Vitality	WEEK1	15.1	2025-01-19
+LEC Winter 2025   G2 Esports vs Team BDS	G2 Esports	0   1	Team BDS	WEEK1	15.1	2025-01-19
+LEC Winter 2025   MKOI vs KC	Movistar KOI	0   1	Karmine Corp	WEEK1	15.1	2025-01-19
+LEC Winter 2025   Rogue vs GIANTX	Rogue	0   1	GIANTX	WEEK1	15.1	2025-01-19
+LEC Winter 2025   TH vs SK Gaming	Team Heretics	1   0	SK Gaming	WEEK1	15.1	2025-01-19
+LEC Winter 2025   KC vs G2 Esports	Karmine Corp	1   0	G2 Esports	WEEK1	15.1	2025-01-18
+LEC Winter 2025   KOI vs Fnatic	Movistar KOI	1   0	Fnatic	WEEK1	15.1	2025-01-18
+LEC Winter 2025   GIANTX vs SK Gaming	GIANTX	1   0	SK Gaming	WEEK1	15.1	2025-01-18
+LEC Winter 2025   VIT vs Team BDS	Team Vitality	1   0	Team BDS	WEEK1	15.1	2025-01-18
+LEC Winter 2025   TH vs Rogue	Team Heretics	0   1	Rogue	WEEK1	15.1	2025-01-18
+LEC 2025 Winter Playoffs    G2 Esports vs KC	G2 Esports	0   3	Karmine Corp	FINALS	15.3	2025-03-02
+LEC 2025 Winter Playoffs    KC vs Fnatic	Karmine Corp	3   2	Fnatic	ROUND4	15.3	2025-03-01
+LEC 2025 Winter Playoffs    MKOI vs Fnatic	Fnatic	3   1	Movistar KOI	ROUND3	15.3	2025-02-28
+LEC 2025 Winter Playoffs    G2 Esports vs KC	Karmine Corp	1   3	G2 Esports	ROUND4	15.3	2025-02-24
+LEC 2025 Winter Playoffs    MKOI vs GIANTX	Movistar KOI	2   0	GIANTX	ROUND2	15.3	2025-02-23
+LEC 2025 Winter Playoffs    Fnatic vs Team BDS	Fnatic	2   1	Team BDS	ROUND2	15.3	2025-02-23
+LEC 2025 Winter Playoffs    Team BDS vs VIT	Team Vitality	1   2	Team BDS	ROUND1	15.3	2025-02-22
+LEC 2025 Winter Playoffs    TH vs GIANTX	GIANTX	2   1	Team Heretics	ROUND1	15.3	2025-02-22
+LEC 2025 Winter Playoffs    MKOI vs KC	Karmine Corp	2   0	Movistar KOI	ROUND2	15.3	2025-02-17
+LEC 2025 Winter Playoffs    Fnatic vs G2 Esports	Fnatic	0   2	G2 Esports	ROUND2	15.3	2025-02-17
+LEC 2025 Winter Playoffs    KC vs VIT	Karmine Corp	2   0	Team Vitality	ROUND1	15.3	2025-02-16
+LEC 2025 Winter Playoffs    MKOI vs Team BDS	Movistar KOI	2   0	Team BDS	ROUND1	15.3	2025-02-16
+LEC 2025 Winter Playoffs    G2 Esports vs GIANTX	G2 Esports	2   0	GIANTX	ROUND1	15.3	2025-02-15
+LEC 2025 Winter Playoffs    Fnatic vs TH	Fnatic	2   0	Team Heretics	ROUND1	15.3	2025-02-15
+LCK Cup 2025    HLE vs GEN	Hanwha Life eSports	3   2	Gen.G eSports	FINALS	15.3	2025-02-23
+LCK Cup 2025    Dplus KIA vs GEN	Dplus KIA	0   3	Gen.G eSports	PLAYOFFS-ROUND3	15.3	2025-02-22
+LCK Cup 2025    NS vs GEN	Nongshim RedForce	2   3	Gen.G eSports	PLAYOFFS-ROUND2	15.3	2025-02-20
+LCK Cup 2025    Dplus KIA vs HLE	Hanwha Life eSports	3   2	Dplus KIA	PLAYOFFS-ROUND3	15.3	2025-02-19
+LCK Cup 2025    GEN vs HLE	Gen.G eSports	2   3	Hanwha Life eSports	PLAYOFFS-ROUND2	15.3	2025-02-16
+LCK Cup 2025    Dplus KIA vs NS	Dplus KIA	3   1	Nongshim RedForce	PLAYOFFS-ROUND2	15.3	2025-02-15
+LCK Cup 2025    T1 vs HLE	Hanwha Life eSports	3   2	T1	PLAYOFFS-ROUND1	15.3	2025-02-13
+LCK Cup 2025    KT Rolster vs NS	KT Rolster	0   3	Nongshim RedForce	PLAYOFFS-ROUND1	15.3	2025-02-12
+LCK Cup 2025    NS vs DRX	DRX	1   3	Nongshim RedForce	PLAYIN-ROUND3	15.2	2025-02-09
+LCK Cup 2025    HLE vs DRX	Hanwha Life eSports	2   0	DRX	PLAYIN-ROUND2	15.2	2025-02-08
+LCK Cup 2025    T1 vs NS	T1	2   0	Nongshim RedForce	PLAYIN-ROUND2	15.2	2025-02-08
+LCK Cup 2025    NS vs OK BRION	Nongshim RedForce	2   0	OK BRION	PLAYIN-ROUND1	15.2	2025-02-07
+LCK Cup 2025    DRX vs DN Freecs	DRX	2   0	DN Freecs	PLAYIN-ROUND1	15.2	2025-02-07
+LCK Cup 2025    NS vs BNK FearX	Nongshim RedForce	2   0	BNK FearX	WEEK3	15.2	2025-02-02
+LCK Cup 2025    OK BRION vs Dplus KIA	OK BRION	1   2	Dplus KIA	WEEK3	15.2	2025-02-01
+LCK Cup 2025    T1 vs GEN	T1	2   1	Gen.G eSports	WEEK3	15.2	2025-02-01
+LCK Cup 2025    DRX vs HLE	DRX	0   2	Hanwha Life eSports	WEEK3	15.2	2025-01-31
+LCK Cup 2025    DN Freecs vs KT Rolster	DN Freecs	1   2	KT Rolster	WEEK3	15.2	2025-01-31
+LCK Cup 2025    KT Rolster vs OK BRION	KT Rolster	2   0	OK BRION	WEEK2	15.1	2025-01-26
+LCK Cup 2025    T1 vs NS	T1	2   0	Nongshim RedForce	WEEK2	15.1	2025-01-26
+LCK Cup 2025    GEN vs DN Freecs	Gen.G eSports	2   0	DN Freecs	WEEK2	15.1	2025-01-25
+LCK Cup 2025    HLE vs Dplus KIA	Hanwha Life eSports	1   2	Dplus KIA	WEEK2	15.1	2025-01-25
+LCK Cup 2025    T1 vs KT Rolster	T1	2   1	KT Rolster	WEEK2	15.1	2025-01-24
+LCK Cup 2025    DRX vs BNK FearX	DRX	2   1	BNK FearX	WEEK2	15.1	2025-01-24
+LCK Cup 2025    HLE vs NS	Hanwha Life eSports	2   0	Nongshim RedForce	WEEK2	15.1	2025-01-23
+LCK Cup 2025    OK BRION vs GEN	OK BRION	2   0	Gen.G eSports	WEEK2	15.1	2025-01-23
+LCK Cup 2025    DN Freecs vs DRX	DN Freecs	1   2	DRX	WEEK2	15.1	2025-01-22
+LCK Cup 2025    Dplus KIA vs BNK FearX	Dplus KIA	2   1	BNK FearX	WEEK2	15.1	2025-01-22
+LCK Cup 2025    BNK FearX vs GEN	BNK FearX	0   2	Gen.G eSports	WEEK1	15.1	2025-01-19
+LCK Cup 2025    KT Rolster vs HLE	KT Rolster	0   2	Hanwha Life eSports	WEEK1	15.1	2025-01-19
+LCK Cup 2025    DRX vs T1	DRX	0   2	T1	WEEK1	15.1	2025-01-18
+LCK Cup 2025    Dplus KIA vs DN Freecs	Dplus KIA	2   0	DN Freecs	WEEK1	15.1	2025-01-18
+LCK Cup 2025    NS vs OK BRION	Nongshim RedForce	2   0	OK BRION	WEEK1	15.1	2025-01-17
+LCK Cup 2025    GEN vs HLE	Gen.G eSports	2   0	Hanwha Life eSports	WEEK1	15.1	2025-01-17
+LCK Cup 2025    Dplus KIA vs T1	Dplus KIA	2   1	T1	WEEK1	15.1	2025-01-16
+LCK Cup 2025    BNK FearX vs KT Rolster	BNK FearX	1   2	KT Rolster	WEEK1	15.1	2025-01-16
+LCK Cup 2025    DN Freecs vs NS	DN Freecs	2   1	Nongshim RedForce	WEEK1	15.1	2025-01-15
+LCK Cup 2025    OK BRION vs DRX	OK BRION	1   2	DRX	WEEK1	15.1	2025-01-15
+LTA North 2025 Split 1  FlyQuest vs Team Liquid	Team Liquid	0   1	FlyQuest	ROUND3	15.3	2025-02-09
+LTA North 2025 Split 1  FlyQuest vs Dignitas	Dignitas	0   2	FlyQuest	ROUND2	15.3	2025-02-09
+LTA North 2025 Split 1  Team Liquid vs SR	Team Liquid	2   0	Shopify Rebellion	ROUND2	15.3	2025-02-09
+LTA North 2025 Split 1  100 Thieves vs Cloud9	100 Thieves	1   0	Cloud9	ROUND3	15.2	2025-02-02
+LTA North 2025 Split 1  FlyQuest vs Cloud9	FlyQuest	1   2	Cloud9	ROUND2	15.2	2025-02-02
+LTA North 2025 Split 1  Team Liquid vs 100 Thieves	Team Liquid	1   2	100 Thieves	ROUND2	15.2	2025-02-02
+LTA North 2025 Split 1  SR vs LYON	LYON	1   2	Shopify Rebellion	ROUND1	15.2	2025-02-01
+LTA North 2025 Split 1  Dignitas vs Disguised	Disguised	1   2	Dignitas	ROUND1	15.2	2025-02-01
+LTA North 2025 Split 1  Team Liquid vs Dignitas	Dignitas	0   2	Team Liquid	ROUND1	15.2	2025-01-26
+LTA North 2025 Split 1  100 Thieves vs Disguised	Disguised	0   2	100 Thieves	ROUND1	15.2	2025-01-26
+LTA North 2025 Split 1  LYON vs Cloud9	LYON	0   2	Cloud9	ROUND1	15.2	2025-01-25
+LTA North 2025 Split 1  FlyQuest vs SR	Shopify Rebellion	0   2	FlyQuest	ROUND1	15.2	2025-01-25
+LTA North 2025 Split 1  LOUD vs paiN Gaming	LOUD	1   0	paiN Gaming	ROUND3	15.3	2025-02-09
+LTA North 2025 Split 1  paiN Gaming vs FURIA	paiN Gaming	2   1	FURIA	ROUND2	15.3	2025-02-09
+LTA North 2025 Split 1  RED Canids vs LOUD	RED Canids	1   2	LOUD	ROUND2	15.3	2025-02-09
+LTA North 2025 Split 1  Leviatan vs IE	Leviatan	0   1	Isurus	ROUND3	15.2	2025-02-02
+LTA North 2025 Split 1  Leviatan vs paiN Gaming	paiN Gaming	1   2	Leviatan	ROUND2	15.2	2025-02-02
+LTA North 2025 Split 1  IE vs RED Canids	Isurus	2   1	RED Canids	ROUND2	15.2	2025-02-02
+LTA North 2025 Split 1  FURIA vs Fluxo	Fluxo	0   2	FURIA	ROUND1	15.2	2025-02-01
+LTA North 2025 Split 1  VKS vs LOUD	LOUD	2   1	Vivo Keyd Stars	ROUND1	15.2	2025-02-01
+LTA North 2025 Split 1  RED Canids vs Fluxo	RED Canids	2   0	Fluxo	ROUND1	15.2	2025-01-26
+LTA North 2025 Split 1  IE vs FURIA	Isurus	2   1	FURIA	ROUND1	15.2	2025-01-26
+LTA North 2025 Split 1  VKS vs Leviatan	Vivo Keyd Stars	1   2	Leviatan	ROUND1	15.2	2025-01-25
+LTA North 2025 Split 1  paiN Gaming vs LOUD	LOUD	1   2	paiN Gaming	ROUND1	15.2	2025-01-25
+LCP 2025 Season Kickoff   TALON vs MVKE	PSG Talon	2   1	MGN Vikings Esports	WEEK4	15.3	2025-02-16
+LCP 2025 Season Kickoff   CHF vs CFO	CTBC Flying Oyster	2   0	Chiefs Esports Club	WEEK4	15.3	2025-02-16
+LCP 2025 Season Kickoff   TSW vs GAM Esports	Team Secret Whales	2   0	GAM Esports	WEEK4	15.3	2025-02-15
+LCP 2025 Season Kickoff   SHG vs DFM	DetonatioN FocusMe	0   2	Fukuoka SoftBank HAWKS gaming	WEEK4	15.3	2025-02-15
+LCP 2025 Season Kickoff   TALON vs CFO	CTBC Flying Oyster	2   1	PSG Talon	WEEK4	15.3	2025-02-14
+LCP 2025 Season Kickoff   MVKE vs CHF	Chiefs Esports Club	0   2	MGN Vikings Esports	WEEK4	15.3	2025-02-14
+LCP 2025 Season Kickoff   GAM Esports vs DFM	GAM Esports	2   0	DetonatioN FocusMe	WEEK4	15.3	2025-02-13
+LCP 2025 Season Kickoff   TSW vs SHG	Fukuoka SoftBank HAWKS gaming	0   2	Team Secret Whales	WEEK4	15.3	2025-02-13
+LCP 2025 Season Kickoff   TALON vs GAM Esports	PSG Talon	2   1	GAM Esports	WEEK3	15.3	2025-02-09
+LCP 2025 Season Kickoff   SHG vs CHF	Chiefs Esports Club	0   2	Fukuoka SoftBank HAWKS gaming	WEEK3	15.3	2025-02-09
+LCP 2025 Season Kickoff   MVKE vs DFM	MGN Vikings Esports	2   1	DetonatioN FocusMe	WEEK3	15.3	2025-02-08
+LCP 2025 Season Kickoff   TSW vs CFO	CTBC Flying Oyster	1   2	Team Secret Whales	WEEK3	15.3	2025-02-08
+LCP 2025 Season Kickoff   GAM Esports vs CHF	Chiefs Esports Club	0   2	GAM Esports	WEEK3	15.2	2025-02-07
+LCP 2025 Season Kickoff   SHG vs TALON	Fukuoka SoftBank HAWKS gaming	0   2	PSG Talon	WEEK3	15.2	2025-02-07
+LCP 2025 Season Kickoff   TSW vs MVKE	MGN Vikings Esports	2   0	Team Secret Whales	WEEK3	15.2	2025-02-06
+LCP 2025 Season Kickoff   DFM vs CFO	CTBC Flying Oyster	2   0	DetonatioN FocusMe	WEEK3	15.2	2025-02-06
+LCP 2025 Season Kickoff   TALON vs DFM	PSG Talon	2   0	DetonatioN FocusMe	WEEK2	15.2	2025-01-26
+LCP 2025 Season Kickoff   TSW vs CHF	Chiefs Esports Club	0   2	Team Secret Whales	WEEK2	15.2	2025-01-26
+LCP 2025 Season Kickoff   GAM Esports vs CFO	GAM Esports	1   2	CTBC Flying Oyster	WEEK2	15.2	2025-01-25
+LCP 2025 Season Kickoff   SHG vs MVKE	Fukuoka SoftBank HAWKS gaming	0   2	MGN Vikings Esports	WEEK2	15.2	2025-01-25
+LCP 2025 Season Kickoff   TSW vs TALON	PSG Talon	2   0	Team Secret Whales	WEEK2	15.1	2025-01-24
+LCP 2025 Season Kickoff   DFM vs CHF	Chiefs Esports Club	1   2	DetonatioN FocusMe	WEEK2	15.1	2025-01-24
+LCP 2025 Season Kickoff   SHG vs CFO	Fukuoka SoftBank HAWKS gaming	0   2	CTBC Flying Oyster	WEEK1	15.1	2025-01-19
+LCP 2025 Season Kickoff   MVKE vs GAM Esports	GAM Esports	0   2	MGN Vikings Esports	WEEK1	15.1	2025-01-19
+LCP 2025 Season Kickoff   TALON vs CHF	PSG Talon	2   0	Chiefs Esports Club	WEEK1	15.1	2025-01-18
+LCP 2025 Season Kickoff   TW vs DFM	Team Secret Whales	2   0	DetonatioN FocusMe	WEEK1	15.1	2025-01-18
+LCP 2025 Season Kickoff   SHG vs GAM Esports	Fukuoka SoftBank HAWKS gaming	1   2	GAM Esports	WEEK1	15.1	2025-01-17
+LCP 2025 Season Kickoff   MVKE vs CFO	CTBC Flying Oyster	2   1	MGN Vikings Esports	WEEK1	15.1	2025-01-17
+LCP 2025 Season Kickoff Qualifying Series   CFO vs TALON	CTBC Flying Oyster	3   1	PSG Talon	FINALS	15.3	2025-02-23
+LCP 2025 Season Kickoff Qualifying Series   MVKE vs TALON	PSG Talon	3   2	MGN Vikings Esports	ROUND3	15.3	2025-02-22
+LCP 2025 Season Kickoff Qualifying Series   MVKE vs CFO	CTBC Flying Oyster	3   1	MGN Vikings Esports	ROUND3	15.3	2025-02-21
+LCP 2025 Season Kickoff Qualifying Series   TALON vs GAM Esports	GAM Esports	1   2	PSG Talon	ROUND2	15.3	2025-02-21
+LCP 2025 Season Kickoff Qualifying Series   CFO vs GAM Esports	CTBC Flying Oyster	2   0	GAM Esports	ROUND2	15.3	2025-02-19
+LCP 2025 Season Kickoff Qualifying Series   TALON vs MVKE	PSG Talon	1   2	MGN Vikings Esports	ROUND2	15.3	2025-02-19
+LCP 2025 Season Kickoff Qualifying Series   TSW vs GAM Esports	Team Secret Whales	0   2	GAM Esports	ROUND1	15.3	2025-02-18
+LCP 2025 Season Kickoff Qualifying Series   MVKE vs SHG	Fukuoka SoftBank HAWKS gaming	0   2	MGN Vikings Esports	ROUND1	15.3	2025-02-18

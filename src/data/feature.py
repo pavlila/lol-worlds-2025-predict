@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 def makeFeature(df):
     df['date'] = pd.to_datetime(df['date'])
@@ -17,26 +16,8 @@ def makeFeature(df):
 
     return df
 
-#spring = pd.read_csv("../../data/merged/spring.csv", sep=';')
-#summer = pd.read_csv("../../data/merged/summer.csv", sep=';')
-#spring_summer = pd.read_csv("../../data/merged/spring_summer.csv", sep=';')
-#winter_spring = pd.read_csv("../../data/merged/winter_spring.csv", sep=';')
-#winter_spring_summer = pd.read_csv("../../data/merged/winter_spring_summer.csv", sep=';')
-
-winter_daily = pd.read_csv("../../data/merged/winter_daily.csv", sep=';')
-
-#spring = makeFeature(spring)
-#summer = makeFeature(summer)
-#spring_summer = makeFeature(spring_summer)
-#winter_spring = makeFeature(winter_spring)
-#winter_spring_summer = makeFeature(winter_spring_summer)
+winter_daily = pd.read_csv("../../data/merged/winter.csv", sep=';')
 
 winter_daily = makeFeature(winter_daily)
 
-#spring.to_csv("../../data/featured/spring.csv", sep=';', index=False)
-#summer.to_csv("../../data/featured/summer.csv", sep=';', index=False)
-#spring_summer.to_csv("../../data/featured/spring_summer.csv", sep=';', index=False)
-#winter_spring.to_csv("../../data/featured/winter_spring.csv", sep=';', index=False)
-#winter_spring_summer.to_csv("../../data/featured/winter_spring_summer.csv", sep=';', index=False)
-
-winter_daily.to_csv("../../data/featured/winter_daily.csv", sep=';', index=False)
+winter_daily.to_csv("../../data/featured/winter.csv", sep=';', index=False)

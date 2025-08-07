@@ -14,9 +14,7 @@ winter_data:
 
     lck - LCK Cup 2025
 
-    lta north - LTA North 2025 Split 1
-
-    lta south - LTA South 2025 Split 1
+    lta - LTA North 2025 Split 1 | LTA South 2025 Split 1 | LTA 2025 Split 1 Playoffs
 
     lcp - LCP 2025 Season Kickoff | LCP 2025 Season Kickoff Qualifying Series
 
@@ -28,9 +26,7 @@ spring_data:
 
     lck - LCK 2025 Rounds 1-2 | LCK 2025 Road to MSI
 
-    lta north - LTA North 2025 Split 2 | LTA North 2025 Split 2 Playoffs
-
-    lta south - LTA South 2025 Split 2 | LTA South 2025 Split 2 Playoffs
+    lta - LTA North 2025 Split 2 | LTA North 2025 Split 2 Playoffs | LTA South 2025 Split 2 | LTA South 2025 Split 2 Playoffs
 
     lcp - LCP 2025 Mid Season | LCP 2025 Mid Season Qualifying Series
 

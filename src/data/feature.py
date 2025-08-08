@@ -16,8 +16,8 @@ def makeFeature(df):
 
     return df
 
-winter_daily = pd.read_csv("../../data/merged/winter.csv", sep=';')
+data = pd.read_csv("../../data/merged/data.csv", sep=';')
 
-winter_daily = makeFeature(winter_daily)
+data = makeFeature(data)
 
-winter_daily.to_csv("../../data/featured/winter.csv", sep=';', index=False)
+data.to_csv("../../data/featured/data.csv", sep=';', index=False)

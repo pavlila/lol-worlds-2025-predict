@@ -55,11 +55,19 @@ def merge_match_with_team_stats(matches_df, teams_df):
 
 
 matches_winter = pd.read_csv("../../data/cleaned/matches_winter.csv", sep=';')
+matches_spring = pd.read_csv("../../data/cleaned/matches_spring.csv", sep=';')
+matches_msi = pd.read_csv("../../data/cleaned/matches_msi.csv", sep=';')
+matches_ewc = pd.read_csv("../../data/cleaned/matches_ewc.csv", sep=';')
 
-teams_winter_daily = pd.read_csv("../../data/cleaned/teams_winter.csv", sep=';')
+matches = mergeSplits([matches_winter,matches_spring,matches_msi,matches_ewc])
 
-winter_daily = merge_match_with_team_stats(matches_winter, teams_winter_daily)
-# potrebuju jeste se naucit spojovat podle tymu, datumu (co nejblizsi pred tim dnem) a podle turnaje
-# musis pridat jeste do matches sloupec turnaje a udelej to jenom s hlavnimi peti ligy viz github
+teams_winter = pd.read_csv("../../data/cleaned/teams_winter.csv", sep=';')
+teams_spring = pd.read_csv("../../data/cleaned/teams_spring.csv", sep=';')
+teams_msi = pd.read_csv("../../data/cleaned/teams_msi.csv", sep=';')
+teams_ewc = pd.read_csv("../../data/cleaned/teams_ewc.csv", sep=';')
 
-winter_daily.to_csv("../../data/merged/winter.csv", sep=';', index=False)
+teams = mergeSplits([teams_winter,teams_spring,teams_msi,teams_ewc])
+
+data = merge_match_with_team_stats(matches, teams)
+
+data.to_csv("../../data/merged/data.csv", sep=';', index=False)

@@ -2,7 +2,8 @@ import math
 import pandas as pd
 import numpy as np
 
-from sklearn.ensemble import RandomForestClassifier
+import xgboost as xgb
+
 from joblib import dump
 
 data = pd.read_csv("../../data/featured/data.csv", sep=';')
@@ -10,7 +11,12 @@ data = pd.read_csv("../../data/featured/data.csv", sep=';')
 Xtrain = data.drop('teamA_win', axis=1)
 ytrain = data.teamA_win
 
-model = RandomForestClassifier(max_depth=10, n_estimators=42)
+model = xgb.XGBClassifier(
+        eval_metric='logloss',
+        learning_rate=0.2,
+        max_depth=3,
+        n_estimators=196
+    )
 model.fit(Xtrain, ytrain)
 
-dump(model, '../../models/random_forest.joblib')
+dump(model, '../../models/xg_boost.joblib')

@@ -1,12 +1,12 @@
 # lol-worlds-2025-predict
-testing data is from summer split to 05.08.2025
 
-match data -> https://gol.gg/
-teams data per day -> https://oracleselixir.com/
+This project aims to predict the outcome of the League of Legends World Championship based on match data from the entire 2025 season, sourced from [gol.gg](https://gol.gg/). Team statistics, sourced from [oracleselixir.com](https://oracleselixir.com/), are updated daily and reflect performance only within the current tournament — from the team’s first match to their last match in that tournament. The prediction logic dynamically uses these team stats limited to each tournament’s timeframe.
 
+Team-Match Linking Logic:
 
+picture
 
-winter_tournaments:
+winter tournaments:
 
     lpl - LPL 2025 Split 1 | LPL 2025 Split 1 Playoffs
 
@@ -18,7 +18,7 @@ winter_tournaments:
 
     lcp - LCP 2025 Season Kickoff | LCP 2025 Season Kickoff Qualifying Series
 
-spring_tournaments:
+spring tournaments:
 
     lpl - LPL 2025 Split 2 Placements | LPL 2025 Split 2 | LPL 2025 Split 2 Playoffs
     

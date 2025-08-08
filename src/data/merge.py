@@ -52,7 +52,40 @@ def merge_match_with_team_stats(matches_df, teams_df):
     # Vrátíme dataframe
     return pd.DataFrame(merged_rows).reset_index(drop=True)
 
+def rename(df):
+    df["teamA"] = df["teamA"].replace({
+    "Edward Gaming": "EDward Gaming",
+    "Hanwha Life eSports": "Hanwha Life Esports",
+    "PSG Talon": "TALON",
+    "BNK FearX": "BNK FEARX",
+    "GIANTX": "GiantX",
+    "OMG": "Oh My God",
+    "Fluxo": "Fluxo W7M",
+    "Gen.G eSports": "Gen.G",
+    "Anyone s Legend": "Anyone's Legend",
+    "Isurus": "Isurus Estral",
+    "Funplus Phoenix": "FunPlus Phoenix",
+    "OK BRION": "OKSavingsBank BRION",
+    "TT": "ThunderTalk Gaming"
+    })
 
+    df["teamB"] = df["teamB"].replace({
+    "Edward Gaming": "EDward Gaming",
+    "Hanwha Life eSports": "Hanwha Life Esports",
+    "PSG Talon": "TALON",
+    "BNK FearX": "BNK FEARX",
+    "GIANTX": "GiantX",
+    "OMG": "Oh My God",
+    "Fluxo": "Fluxo W7M",
+    "Gen.G eSports": "Gen.G",
+    "Anyone s Legend": "Anyone's Legend",
+    "Isurus": "Isurus Estral",
+    "Funplus Phoenix": "FunPlus Phoenix",
+    "OK BRION": "OKSavingsBank BRION",
+    "TT": "ThunderTalk Gaming"
+    })
+
+    return df
 
 matches_winter = pd.read_csv("../../data/cleaned/matches_winter.csv", sep=';')
 matches_spring = pd.read_csv("../../data/cleaned/matches_spring.csv", sep=';')
@@ -60,6 +93,7 @@ matches_msi = pd.read_csv("../../data/cleaned/matches_msi.csv", sep=';')
 matches_ewc = pd.read_csv("../../data/cleaned/matches_ewc.csv", sep=';')
 
 matches = mergeSplits([matches_winter,matches_spring,matches_msi,matches_ewc])
+matches = rename(matches)
 
 teams_winter = pd.read_csv("../../data/cleaned/teams_winter.csv", sep=';')
 teams_spring = pd.read_csv("../../data/cleaned/teams_spring.csv", sep=';')
@@ -71,3 +105,10 @@ teams = mergeSplits([teams_winter,teams_spring,teams_msi,teams_ewc])
 data = merge_match_with_team_stats(matches, teams)
 
 data.to_csv("../../data/merged/data.csv", sep=';', index=False)
+
+new_match = pd.read_csv("../../data/cleaned/new_match.csv", sep=';')
+new_match = rename(new_match)
+
+new_data = merge_match_with_team_stats(new_match, teams)
+
+new_data.to_csv("../../data/merged/new_data.csv", sep=';', index=False)

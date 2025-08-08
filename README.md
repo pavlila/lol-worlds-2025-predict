@@ -6,7 +6,7 @@ teams data per day -> https://oracleselixir.com/
 
 
 
-winter_data:
+winter_tournaments:
 
     lpl - LPL 2025 Split 1 | LPL 2025 Split 1 Playoffs
 
@@ -18,7 +18,7 @@ winter_data:
 
     lcp - LCP 2025 Season Kickoff | LCP 2025 Season Kickoff Qualifying Series
 
-spring_data:
+spring_tournaments:
 
     lpl - LPL 2025 Split 2 Placements | LPL 2025 Split 2 | LPL 2025 Split 2 Playoffs
     
@@ -30,7 +30,7 @@ spring_data:
 
     lcp - LCP 2025 Mid Season | LCP 2025 Mid Season Qualifying Series
 
-tournaments_data:
+tournaments:
 
     2025 Mid-Season Invitational
 

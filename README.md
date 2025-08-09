@@ -86,5 +86,7 @@ picture
 
           cd user
           python3 process_data.py
-              
-        
+
+## Validation accuracy
+
+The data used is from all tournaments listed in [Used tournaments](#used-tournaments), except for Worlds 2025 Play-In and Worlds 2025 Main Event, split into 60% training and 40% validation sets with a random seed of 30.

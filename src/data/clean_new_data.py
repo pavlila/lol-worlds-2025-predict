@@ -23,4 +23,5 @@ def newMatchesClean(df, prefix):
 new_match = pd.read_csv("../../user/new_match.csv", sep=';')
 
 new_match = newMatchesClean(new_match, 'worlds_')
+
 new_match.to_csv("../../data/cleaned/new_match.csv", sep=';', index=False)

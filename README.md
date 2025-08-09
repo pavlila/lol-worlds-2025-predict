@@ -58,7 +58,7 @@ picture
   
 - Prepare the input data
   
-  - Place your match data at user/new_match.csv
+  - Place your match data at `user/new_match.csv`
     
   - Make sure the file contains the following columns: tournament | teamA | number_of_matches | teamB | date
  

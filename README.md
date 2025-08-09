@@ -89,4 +89,27 @@ picture
 
 ## Validation accuracy
 
-The data used is from all tournaments listed in [Used tournaments](#used-tournaments), except for Worlds 2025 Play-In and Worlds 2025 Main Event, split into 60% training and 40% validation sets with a random seed of 30.
+The data used is from all tournaments listed in [Used tournaments](#used-tournaments), except for Worlds 2025 Play-In and Worlds 2025 Main Event. The percentages are based on match win rates, and the data is split into 60% training and 40% validation sets with a random seed of 30.
+
+- Decision Tree: 75.57%
+- Random Forest: 76.77%
+- XGBoost: 80.39%
+- Logistic Regression: 74.96%
+
+## Testing accuracy
+
+The data used is from Worlds 2025 Play-In and Worlds 2025 Main Event, the percentages are based on round win rates and match win rates
+
+- round win rates
+
+  - Decision Tree: x/y z%
+  - Random Forest: x/y z%
+  - XGBoost: x/y z%
+  - Logistic Regression: x/y z%
+
+- match win rates
+
+  - Decision Tree: x/y z%
+  - Random Forest: x/y z%
+  - XGBoost: x/y z%
+  - Logistic Regression: x/y z%

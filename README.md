@@ -58,14 +58,33 @@ picture
   
 - Prepare the input data
   
-  - Place your data file at data/raw/new_match.csv
+  - Place your match data at user/new_match.csv
     
   - Make sure the file contains the following columns: tournament | teamA | number_of_matches | teamB | date
  
 - Process the new data
 
+      cd user
+      python3 process_new_data.py
+
 - Run the prediction script
-  
+
+      cd user
       python3 prediction.py
 
+- Tip
+
+  - To achieve the best accuracy, update the data after each round of the tournament
+
+    - Add a row with match stats from [gol.gg](https://gol.gg/) to `data/raw/matches_tournament/split_name.csv`
+
+    - Add a row with daily team stats (from the tournament start) from [oracleselixir.com](https://oracleselixir.com/) to `data/raw/teams_tournament/split_name.csv`
+   
+    - Make sure that all columns are correct
+   
+    - After completing the previous steps, process the data
+
+          cd user
+          python3 process_data.py
+              
         

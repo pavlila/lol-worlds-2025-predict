@@ -48,15 +48,10 @@ matches_spring = pd.read_csv("../../data/raw/matches_spring.csv", sep=r'\t|\s{2,
 matches_msi = pd.read_csv("../../data/raw/matches_msi.csv", sep=r'\t|\s{2,}', engine='python')
 matches_ewc = pd.read_csv("../../data/raw/matches_ewc.csv", sep=r'\t|\s{2,}', engine='python')
 
-new_match = pd.read_csv("../../data/raw/new_match.csv", sep=r'\t|\s{2,}', engine='python')
-
 matches_winter = matchesClean(matches_winter, 'winter_')
 matches_spring = matchesClean(matches_spring, 'spring_')
 matches_msi = matchesClean(matches_msi, 'msi_')
 matches_ewc = matchesClean(matches_ewc, 'ewc_')
-
-new_match = newMatchesClean(new_match, 'worlds_')
-new_match.to_csv("../../data/cleaned/new_match.csv", sep=';', index=False)
 
 matches_winter.to_csv("../../data/cleaned/matches_winter.csv", sep=';', index=False)
 matches_spring.to_csv("../../data/cleaned/matches_spring.csv", sep=';', index=False)

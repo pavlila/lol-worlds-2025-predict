@@ -16,8 +16,8 @@ def makeFeature(df):
 
     return df
 
-data = pd.read_csv("../../data/merged/data.csv", sep=';')
+new_data = pd.read_csv("../../data/merged/new_data.csv", sep=';')
 
-data = makeFeature(data)
+new_data = makeFeature(new_data)
 
-data.to_csv("../../data/featured/data.csv", sep=';', index=False)
+new_data.to_csv("../../data/featured/new_data.csv", sep=';', index=False)

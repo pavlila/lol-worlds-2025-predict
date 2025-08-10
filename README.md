@@ -4,7 +4,24 @@ This project aims to predict the outcome of the League of Legends World Champion
 
 ## Team-Match Linking Logic:
 
-picture
+The team–match linking logic is separated into three distinct cases:
+
+- If a team plays six or more matches from its first match in the tournament to its last match in that tournament
+  
+  - Take the statistics for that period
+ 
+- If it is the team's first match in the tournament
+
+  - Take the statistics from previous tournament
+
+- If a team plays less than six matches from its first match in the tournament to its last match in that tournament
+
+  - Take the statistics from the previous tournament, reduced to five games
+ 
+  - Combine the reduced statistics from the previous tournament with data from the period between the first and last games in the current tournament
+
+<img src="pictures/team_match_linking.png" width="1200">
+
 
 ## Used tournaments
 

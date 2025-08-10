@@ -72,6 +72,15 @@ picture
       cd user
       python3 prediction.py
 
+  - The output below shows predictions for three matches, where 1 indicates a win for Team A and 0 indicates a loss for Team A.
+ 
+        Decision Tree: [0 1 1]
+        Random Forest: [1 1 0]
+        XGBoost: [1 1 0]
+        Logistic regression: [1 0 0]
+    
+  - For example, the Decision Tree predicts that Team A loses the first match, wins the second match, and wins the third match.
+
 - Tip
 
   - To achieve the best accuracy, update the data after each round of the tournament

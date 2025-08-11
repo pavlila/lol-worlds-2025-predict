@@ -1,34 +1,19 @@
-tournament;match_id;game_in_series;teamA;teamB;teamA_win;date
-Esports World Cup 2025;ewc_0;1;Gen.G eSports;Anyone s Legend;1;2025-07-20
-Esports World Cup 2025;ewc_0;2;Gen.G eSports;Anyone s Legend;1;2025-07-20
-Esports World Cup 2025;ewc_0;3;Gen.G eSports;Anyone s Legend;1;2025-07-20
-Esports World Cup 2025;ewc_0;4;Gen.G eSports;Anyone s Legend;0;2025-07-20
-Esports World Cup 2025;ewc_0;5;Gen.G eSports;Anyone s Legend;0;2025-07-20
-Esports World Cup 2025;ewc_1;1;T1;G2 Esports;1;2025-07-20
-Esports World Cup 2025;ewc_1;2;T1;G2 Esports;1;2025-07-20
-Esports World Cup 2025;ewc_2;1;G2 Esports;Gen.G eSports;1;2025-07-19
-Esports World Cup 2025;ewc_2;2;G2 Esports;Gen.G eSports;0;2025-07-19
-Esports World Cup 2025;ewc_2;3;G2 Esports;Gen.G eSports;0;2025-07-19
-Esports World Cup 2025;ewc_3;1;Anyone s Legend;T1;1;2025-07-19
-Esports World Cup 2025;ewc_3;2;Anyone s Legend;T1;1;2025-07-19
-Esports World Cup 2025;ewc_4;1;FlyQuest;Gen.G eSports;0;2025-07-18
-Esports World Cup 2025;ewc_4;2;FlyQuest;Gen.G eSports;0;2025-07-18
-Esports World Cup 2025;ewc_5;1;T1;Movistar KOI;1;2025-07-18
-Esports World Cup 2025;ewc_5;2;T1;Movistar KOI;1;2025-07-18
-Esports World Cup 2025;ewc_5;3;T1;Movistar KOI;0;2025-07-18
-Esports World Cup 2025;ewc_6;1;G2 Esports;Bilibili Gaming;1;2025-07-17
-Esports World Cup 2025;ewc_6;2;G2 Esports;Bilibili Gaming;1;2025-07-17
-Esports World Cup 2025;ewc_6;3;G2 Esports;Bilibili Gaming;0;2025-07-17
-Esports World Cup 2025;ewc_7;1;Anyone s Legend;Hanwha Life eSports;1;2025-07-17
-Esports World Cup 2025;ewc_7;2;Anyone s Legend;Hanwha Life eSports;1;2025-07-17
-Esports World Cup 2025;ewc_7;3;Anyone s Legend;Hanwha Life eSports;0;2025-07-17
-Esports World Cup 2025;ewc_8;1;FlyQuest;FURIA;1;2025-07-17
-Esports World Cup 2025;ewc_9;1;Movistar KOI;CTBC Flying Oyster;1;2025-07-17
-Esports World Cup 2025;ewc_10;1;Cloud9;FURIA;0;2025-07-16
-Esports World Cup 2025;ewc_11;1;GAM Esports;CTBC Flying Oyster;0;2025-07-16
-Esports World Cup 2025;ewc_12;1;FlyQuest;G2 Esports;0;2025-07-16
-Esports World Cup 2025;ewc_13;1;Hanwha Life eSports;Movistar KOI;1;2025-07-16
-Esports World Cup 2025;ewc_14;1;FlyQuest;Cloud9;1;2025-07-16
-Esports World Cup 2025;ewc_15;1;G2 Esports;FURIA;1;2025-07-16
-Esports World Cup 2025;ewc_16;1;Movistar KOI;GAM Esports;1;2025-07-16
-Esports World Cup 2025;ewc_17;1;Hanwha Life eSports;CTBC Flying Oyster;1;2025-07-16
+tournament;date;teamA;teamB;win
+Esports World Cup 2025;2025-07-20;Gen.G eSports;Anyone s Legend;1
+Esports World Cup 2025;2025-07-20;T1;G2 Esports;1
+Esports World Cup 2025;2025-07-19;G2 Esports;Gen.G eSports;0
+Esports World Cup 2025;2025-07-19;Anyone s Legend;T1;1
+Esports World Cup 2025;2025-07-18;FlyQuest;Gen.G eSports;0
+Esports World Cup 2025;2025-07-18;T1;Movistar KOI;1
+Esports World Cup 2025;2025-07-17;G2 Esports;Bilibili Gaming;1
+Esports World Cup 2025;2025-07-17;Anyone s Legend;Hanwha Life eSports;1
+Esports World Cup 2025;2025-07-17;FlyQuest;FURIA;1
+Esports World Cup 2025;2025-07-17;Movistar KOI;CTBC Flying Oyster;1
+Esports World Cup 2025;2025-07-16;Cloud9;FURIA;0
+Esports World Cup 2025;2025-07-16;GAM Esports;CTBC Flying Oyster;0
+Esports World Cup 2025;2025-07-16;FlyQuest;G2 Esports;0
+Esports World Cup 2025;2025-07-16;Hanwha Life eSports;Movistar KOI;1
+Esports World Cup 2025;2025-07-16;FlyQuest;Cloud9;1
+Esports World Cup 2025;2025-07-16;G2 Esports;FURIA;1
+Esports World Cup 2025;2025-07-16;Movistar KOI;GAM Esports;1
+Esports World Cup 2025;2025-07-16;Hanwha Life eSports;CTBC Flying Oyster;1

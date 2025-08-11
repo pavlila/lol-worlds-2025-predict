@@ -1,24 +1,13 @@
 import pandas as pd
 import numpy as np
 
-def matchesClean(df, prefix):
+def matchesCleanByMatch(df):
     df.columns = df.columns.str.strip()
-    df = df[['teamA','scoreA','scoreB','teamB','date','tournament']].copy()
-    df['match_id'] = prefix + df.index.astype(str)
+    df = df[['tournament','date','teamA','teamB','scoreA','scoreB']].copy()
+    df['win'] = (df['scoreA'] > df['scoreB']).astype(int)
+    df = df.drop(columns=['scoreA','scoreB'])
 
-    def divideMatchOnMaps(row):
-        results = [1]*int(row['scoreA']) + [0]*int(row['scoreB'])
-        return pd.DataFrame([{
-            'tournament': row['tournament'],
-            'match_id': row['match_id'],
-            'game_in_series': i + 1,
-            'teamA': row['teamA'],
-            'teamB': row['teamB'],
-            'teamA_win': win,
-            'date': row['date'],
-        } for i, win in enumerate(results)])
-    
-    return pd.concat(df.apply(divideMatchOnMaps, axis=1).tolist(), ignore_index=True)
+    return df
 
 def teamsClean(df):
     df = df.drop(columns=['Season'])
@@ -29,10 +18,10 @@ matches_spring = pd.read_csv("../../data/raw/matches_spring.csv", sep=r'\t|\s{2,
 matches_msi = pd.read_csv("../../data/raw/matches_msi.csv", sep=r'\t|\s{2,}', engine='python')
 matches_ewc = pd.read_csv("../../data/raw/matches_ewc.csv", sep=r'\t|\s{2,}', engine='python')
 
-matches_winter = matchesClean(matches_winter, 'winter_')
-matches_spring = matchesClean(matches_spring, 'spring_')
-matches_msi = matchesClean(matches_msi, 'msi_')
-matches_ewc = matchesClean(matches_ewc, 'ewc_')
+matches_winter = matchesCleanByMatch(matches_winter)
+matches_spring = matchesCleanByMatch(matches_spring)
+matches_msi = matchesCleanByMatch(matches_msi)
+matches_ewc = matchesCleanByMatch(matches_ewc)
 
 matches_winter.to_csv("../../data/cleaned/matches_winter.csv", sep=';', index=False)
 matches_spring.to_csv("../../data/cleaned/matches_spring.csv", sep=';', index=False)

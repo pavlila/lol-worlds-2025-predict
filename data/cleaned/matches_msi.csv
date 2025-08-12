@@ -1,20 +1,70 @@
-tournament;date;teamA;teamB;win
-2025 Mid-Season Invitational;2025-07-12;Gen.G eSports;T1;1
-2025 Mid-Season Invitational;2025-07-11;T1;Anyone s Legend;1
-2025 Mid-Season Invitational;2025-07-10;Anyone s Legend;Bilibili Gaming;1
-2025 Mid-Season Invitational;2025-07-09;T1;Gen.G eSports;0
-2025 Mid-Season Invitational;2025-07-08;FlyQuest;Bilibili Gaming;0
-2025 Mid-Season Invitational;2025-07-07;CTBC Flying Oyster;Anyone s Legend;0
-2025 Mid-Season Invitational;2025-07-05;Bilibili Gaming;T1;0
-2025 Mid-Season Invitational;2025-07-05;CTBC Flying Oyster;Movistar KOI;1
-2025 Mid-Season Invitational;2025-07-04;Anyone s Legend;Gen.G eSports;0
-2025 Mid-Season Invitational;2025-07-04;FlyQuest;G2 Esports;1
-2025 Mid-Season Invitational;2025-07-03;CTBC Flying Oyster;T1;0
-2025 Mid-Season Invitational;2025-07-03;Movistar KOI;Bilibili Gaming;0
-2025 Mid-Season Invitational;2025-07-02;Anyone s Legend;FlyQuest;1
-2025 Mid-Season Invitational;2025-07-01;Gen.G eSports;G2 Esports;1
-2025 Mid-Season Invitational;2025-06-29;G2 Esports;GAM Esports;1
-2025 Mid-Season Invitational;2025-06-28;Bilibili Gaming;G2 Esports;1
-2025 Mid-Season Invitational;2025-06-28;GAM Esports;FURIA;1
-2025 Mid-Season Invitational;2025-06-27;Bilibili Gaming;GAM Esports;1
-2025 Mid-Season Invitational;2025-06-27;FURIA;G2 Esports;0
+tournament;match_id;game_in_series;teamA;teamB;win;date
+2025 Mid-Season Invitational;1;1;Gen.G eSports;T1;1;2025-07-12
+2025 Mid-Season Invitational;1;2;Gen.G eSports;T1;0;2025-07-12
+2025 Mid-Season Invitational;1;3;Gen.G eSports;T1;1;2025-07-12
+2025 Mid-Season Invitational;1;4;Gen.G eSports;T1;1;2025-07-12
+2025 Mid-Season Invitational;2;1;T1;Anyone s Legend;1;2025-07-11
+2025 Mid-Season Invitational;2;2;T1;Anyone s Legend;0;2025-07-11
+2025 Mid-Season Invitational;2;3;T1;Anyone s Legend;1;2025-07-11
+2025 Mid-Season Invitational;2;4;T1;Anyone s Legend;1;2025-07-11
+2025 Mid-Season Invitational;3;1;Anyone s Legend;Bilibili Gaming;1;2025-07-10
+2025 Mid-Season Invitational;3;2;Anyone s Legend;Bilibili Gaming;1;2025-07-10
+2025 Mid-Season Invitational;3;3;Anyone s Legend;Bilibili Gaming;1;2025-07-10
+2025 Mid-Season Invitational;4;1;T1;Gen.G eSports;1;2025-07-09
+2025 Mid-Season Invitational;4;2;T1;Gen.G eSports;0;2025-07-09
+2025 Mid-Season Invitational;4;3;T1;Gen.G eSports;1;2025-07-09
+2025 Mid-Season Invitational;4;4;T1;Gen.G eSports;0;2025-07-09
+2025 Mid-Season Invitational;5;1;FlyQuest;Bilibili Gaming;1;2025-07-08
+2025 Mid-Season Invitational;5;2;FlyQuest;Bilibili Gaming;0;2025-07-08
+2025 Mid-Season Invitational;5;3;FlyQuest;Bilibili Gaming;0;2025-07-08
+2025 Mid-Season Invitational;5;4;FlyQuest;Bilibili Gaming;1;2025-07-08
+2025 Mid-Season Invitational;5;5;FlyQuest;Bilibili Gaming;0;2025-07-08
+2025 Mid-Season Invitational;6;1;CTBC Flying Oyster;Anyone s Legend;1;2025-07-07
+2025 Mid-Season Invitational;6;2;CTBC Flying Oyster;Anyone s Legend;0;2025-07-07
+2025 Mid-Season Invitational;7;1;Bilibili Gaming;T1;0;2025-07-05
+2025 Mid-Season Invitational;8;1;CTBC Flying Oyster;Movistar KOI;1;2025-07-05
+2025 Mid-Season Invitational;8;2;CTBC Flying Oyster;Movistar KOI;1;2025-07-05
+2025 Mid-Season Invitational;8;3;CTBC Flying Oyster;Movistar KOI;0;2025-07-05
+2025 Mid-Season Invitational;8;4;CTBC Flying Oyster;Movistar KOI;1;2025-07-05
+2025 Mid-Season Invitational;9;1;Anyone s Legend;Gen.G eSports;1;2025-07-04
+2025 Mid-Season Invitational;9;2;Anyone s Legend;Gen.G eSports;0;2025-07-04
+2025 Mid-Season Invitational;9;3;Anyone s Legend;Gen.G eSports;0;2025-07-04
+2025 Mid-Season Invitational;9;4;Anyone s Legend;Gen.G eSports;1;2025-07-04
+2025 Mid-Season Invitational;9;5;Anyone s Legend;Gen.G eSports;0;2025-07-04
+2025 Mid-Season Invitational;10;1;FlyQuest;G2 Esports;1;2025-07-04
+2025 Mid-Season Invitational;10;2;FlyQuest;G2 Esports;1;2025-07-04
+2025 Mid-Season Invitational;10;3;FlyQuest;G2 Esports;1;2025-07-04
+2025 Mid-Season Invitational;11;1;CTBC Flying Oyster;T1;1;2025-07-03
+2025 Mid-Season Invitational;11;2;CTBC Flying Oyster;T1;1;2025-07-03
+2025 Mid-Season Invitational;11;3;CTBC Flying Oyster;T1;0;2025-07-03
+2025 Mid-Season Invitational;11;4;CTBC Flying Oyster;T1;0;2025-07-03
+2025 Mid-Season Invitational;12;1;Movistar KOI;Bilibili Gaming;1;2025-07-03
+2025 Mid-Season Invitational;12;2;Movistar KOI;Bilibili Gaming;0;2025-07-03
+2025 Mid-Season Invitational;12;3;Movistar KOI;Bilibili Gaming;0;2025-07-03
+2025 Mid-Season Invitational;13;1;Anyone s Legend;FlyQuest;1;2025-07-02
+2025 Mid-Season Invitational;13;2;Anyone s Legend;FlyQuest;1;2025-07-02
+2025 Mid-Season Invitational;13;3;Anyone s Legend;FlyQuest;1;2025-07-02
+2025 Mid-Season Invitational;14;1;Gen.G eSports;G2 Esports;1;2025-07-01
+2025 Mid-Season Invitational;14;2;Gen.G eSports;G2 Esports;1;2025-07-01
+2025 Mid-Season Invitational;14;3;Gen.G eSports;G2 Esports;1;2025-07-01
+2025 Mid-Season Invitational;15;1;G2 Esports;GAM Esports;1;2025-06-29
+2025 Mid-Season Invitational;15;2;G2 Esports;GAM Esports;1;2025-06-29
+2025 Mid-Season Invitational;15;3;G2 Esports;GAM Esports;0;2025-06-29
+2025 Mid-Season Invitational;15;4;G2 Esports;GAM Esports;0;2025-06-29
+2025 Mid-Season Invitational;15;5;G2 Esports;GAM Esports;1;2025-06-29
+2025 Mid-Season Invitational;16;1;Bilibili Gaming;G2 Esports;1;2025-06-28
+2025 Mid-Season Invitational;16;2;Bilibili Gaming;G2 Esports;1;2025-06-28
+2025 Mid-Season Invitational;16;3;Bilibili Gaming;G2 Esports;1;2025-06-28
+2025 Mid-Season Invitational;17;1;GAM Esports;FURIA;1;2025-06-28
+2025 Mid-Season Invitational;17;2;GAM Esports;FURIA;0;2025-06-28
+2025 Mid-Season Invitational;17;3;GAM Esports;FURIA;0;2025-06-28
+2025 Mid-Season Invitational;17;4;GAM Esports;FURIA;1;2025-06-28
+2025 Mid-Season Invitational;17;5;GAM Esports;FURIA;1;2025-06-28
+2025 Mid-Season Invitational;18;1;Bilibili Gaming;GAM Esports;1;2025-06-27
+2025 Mid-Season Invitational;18;2;Bilibili Gaming;GAM Esports;1;2025-06-27
+2025 Mid-Season Invitational;18;3;Bilibili Gaming;GAM Esports;1;2025-06-27
+2025 Mid-Season Invitational;19;1;FURIA;G2 Esports;1;2025-06-27
+2025 Mid-Season Invitational;19;2;FURIA;G2 Esports;0;2025-06-27
+2025 Mid-Season Invitational;19;3;FURIA;G2 Esports;0;2025-06-27
+2025 Mid-Season Invitational;19;4;FURIA;G2 Esports;1;2025-06-27
+2025 Mid-Season Invitational;19;5;FURIA;G2 Esports;0;2025-06-27

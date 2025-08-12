@@ -3,11 +3,23 @@ import numpy as np
 
 def matchesCleanByMatch(df):
     df.columns = df.columns.str.strip()
-    df = df[['tournament','date','teamA','teamB','scoreA','scoreB']].copy()
-    df['win'] = (df['scoreA'] > df['scoreB']).astype(int)
-    df = df.drop(columns=['scoreA','scoreB'])
+    df = df[['games_in_series','tournament','date','teamA','teamB']].copy()
+    df['match_id'] = df.groupby('tournament').cumcount() + 1
 
-    return df
+    def divideMatchOnMaps(row):
+        games_str = str(row['games_in_series']).strip().replace(" ", "")
+        games = [int(x) for x in games_str]
+        return pd.DataFrame([{
+            'tournament': row['tournament'],
+            'match_id': row['match_id'],
+            'game_in_series': i + 1,
+            'teamA': row['teamA'],
+            'teamB': row['teamB'],
+            'win': val,
+            'date': row['date'],
+        } for i, val in enumerate(games)])
+    
+    return pd.concat(df.apply(divideMatchOnMaps, axis=1).tolist(), ignore_index=True)
 
 def teamsClean(df):
     df = df.drop(columns=['Season'])

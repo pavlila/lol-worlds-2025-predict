@@ -9,6 +9,9 @@ def makeFeature(df):
 
     df = df.drop(columns=['date'])
 
+    df['A_winrate'] = df['A_W'] / df['A_GP']
+    df['B_winrate'] = df['B_W'] / df['B_GP']
+
     df[df.select_dtypes(['object']).columns] = df.select_dtypes(['object']).astype('category')
     df[df.select_dtypes(['category']).columns] = df.select_dtypes(['category']).apply(lambda x: x.cat.codes)
 

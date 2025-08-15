@@ -1,4 +1,8 @@
 tournament;date;teamA;teamB;teamA_win
+LPL 2025 Split 3;2025-08-14;FunPlus Phoenix;Team WE;0
+LPL 2025 Split 3;2025-08-14;Ninjas in Pyjamas;EDward Gaming;1
+LPL 2025 Split 3;2025-08-13;Bilibili Gaming;Anyone's Legend;0
+LPL 2025 Split 3;2025-08-13;JD Gaming;Top Esports;0
 LPL 2025 Split 3;2025-08-12;Weibo Gaming;Team WE;1
 LPL 2025 Split 3;2025-08-12;Ninjas in Pyjamas;LGD Gaming;1
 LPL 2025 Split 3;2025-08-11;JD Gaming;FunPlus Phoenix;1
@@ -61,6 +65,12 @@ LEC 2025 Summer Season;2025-08-03;GiantX;Karmine Corp;0
 LEC 2025 Summer Season;2025-08-03;Team BDS;SK Gaming;1
 LEC 2025 Summer Season;2025-08-02;Team Heretics;Fnatic;0
 LEC 2025 Summer Season;2025-08-02;Natus Vincere;Karmine Corp;0
+LCK 2025 Rounds 3-5;2025-08-15;Hanwha Life Esports;T1;0
+LCK 2025 Rounds 3-5;2025-08-15;OKSavingsBank BRION;DN Freecs;0
+LCK 2025 Rounds 3-5;2025-08-14;Dplus KIA;DRX;1
+LCK 2025 Rounds 3-5;2025-08-14;Gen.G;Nongshim RedForce;1
+LCK 2025 Rounds 3-5;2025-08-13;BNK FEARX;DN Freecs;1
+LCK 2025 Rounds 3-5;2025-08-13;T1;KT Rolster;1
 LCK 2025 Rounds 3-5;2025-08-10;DN Freecs;Dplus KIA;0
 LCK 2025 Rounds 3-5;2025-08-10;KT Rolster;Gen.G;0
 LCK 2025 Rounds 3-5;2025-08-09;Nongshim RedForce;T1;0
@@ -115,6 +125,8 @@ LTA South 2025 Split 3;2025-07-27;LOUD;Vivo Keyd Stars;0
 LTA South 2025 Split 3;2025-07-27;Isurus Estral;RED Canids;0
 LTA South 2025 Split 3;2025-07-26;paiN Gaming;Leviatan;1
 LTA South 2025 Split 3;2025-07-26;FURIA;Fluxo W7M;1
+LCP 2025 Season Finals;2025-08-15;TALON;MGN Vikings Esports;0
+LCP 2025 Season Finals;2025-08-15;GAM Esports;Fukuoka SoftBank HAWKS gaming;1
 LCP 2025 Season Finals;2025-08-10;Team Secret Whales;CTBC Flying Oyster;0
 LCP 2025 Season Finals;2025-08-10;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0
 LCP 2025 Season Finals;2025-08-09;TALON;GAM Esports;0

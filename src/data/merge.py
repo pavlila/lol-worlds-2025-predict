@@ -26,17 +26,17 @@ def getStats(team, tournament, date, teamsStats):
         gp_curr = teamLastData.GP
         gp = gp_last + gp_curr
 
+        combined_data = pd.Series(dtype=float)
+        combined_data['GP'] = gp
+
         numeric_cols = [
             'AGT','KD','CKPM','GPR','GSPD','EGR','MLR','GD15',
             'FB%','FT%','F3T%','PPG','HLD%','GRB%','FD%','DRG%','ELD%',
             'FBN%','BN%','LNE%','JNG%','WPM','CWPM','WCPM','winrate%'
         ]
 
-        combined_data = pd.Series(dtype=float)
         for col in numeric_cols:
             combined_data[col] = (teamLastData[col] * gp_curr + teamLastDataFromLastTournament[col] * gp_last) / (gp_curr + gp_last)
-
-        combined_data['GP'] = gp
 
         return combined_data
 

@@ -7,9 +7,9 @@ xgb = load("../models/xg_boost.joblib")
 lr = load("../models/logistic_regression.joblib")
 
 scaler_mm = load("../models/min_max_scaler.joblib")
+scaler_st = load("../models/standard_scaler.joblib")
 
 data = pd.read_csv("../data/featured/new_data.csv", sep=';')
-data = data.drop('teamA_win', axis=1)
 
 prediction = dt.predict(data)
 print(f"Decision Tree: {prediction}")
@@ -21,5 +21,6 @@ prediction = xgb.predict(data)
 print(f"XGBoost: {prediction}")
 
 data_scaled_mm = scaler_mm.transform(data)
-prediction = lr.predict(data_scaled_mm)
+data_scaled_st = scaler_st.transform(data)
+prediction = lr.predict(data_scaled_st)
 print(f"Logistic regression: {prediction}")

@@ -1,5 +1,19 @@
 import pandas as pd
 
+def makeDiff(df):
+    a_cols = [c for c in df.columns if c.endswith('_A')]
+    b_cols = [c for c in df.columns if c.endswith('_B')]
+
+    for a_col in a_cols:
+        base = a_col[:-2]
+        b_col = f'{base}_B'
+
+        if b_col in b_cols:
+            df[f'diff_{base}'] = df[a_col] - df[b_col]
+            df[f'ratio_{base}'] = df[a_col] / (df[b_col] + 1e-6)
+
+    return df
+
 def makeFeature(df):
     df['date'] = pd.to_datetime(df['date'])
 
@@ -9,13 +23,12 @@ def makeFeature(df):
 
     df = df.drop(columns=['date'])
 
-    df['A_winrate'] = df['A_W'] / df['A_GP']
-    df['B_winrate'] = df['B_W'] / df['B_GP']
-
     df[df.select_dtypes(['object']).columns] = df.select_dtypes(['object']).astype('category')
     df[df.select_dtypes(['category']).columns] = df.select_dtypes(['category']).apply(lambda x: x.cat.codes)
 
     df = df.fillna(-1)
+
+    df = makeDiff(df)
 
     return df
 

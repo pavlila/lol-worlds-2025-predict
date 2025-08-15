@@ -1,35 +1,36 @@
 import pandas as pd
-import numpy as np
 
-def newMatchesClean(df, prefix):
-    df.columns = df.columns.str.strip()
-    df = df[['teamA','number_of_matches','teamB','date','tournament']].copy()
-    df['match_id'] = prefix + df.index.astype(str)
+def renameTeamsInMatches(df):
+    replace_map = {
+        "Edward Gaming": "EDward Gaming",
+        "Hanwha Life eSports": "Hanwha Life Esports",
+        "PSG Talon": "TALON",
+        "BNK FearX": "BNK FEARX",
+        "GIANTX": "GiantX",
+        "OMG": "Oh My God",
+        "Fluxo": "Fluxo W7M",
+        "Gen.G eSports": "Gen.G",
+        "Anyone s Legend": "Anyone's Legend",
+        "Isurus": "Isurus Estral",
+        "Funplus Phoenix": "FunPlus Phoenix",
+        "OK BRION": "OKSavingsBank BRION",
+        "TT": "ThunderTalk Gaming"  
+    }
 
-    def divideMatchOnMaps(row):
-        results = range(row['number_of_matches'])
-        return pd.DataFrame([{
-            'tournament': row['tournament'],
-            'match_id': row['match_id'],
-            'game_in_series': i + 1,
-            'teamA': row['teamA'],
-            'teamB': row['teamB'],
-            'teamA_win': np.nan,
-            'date': row['date'],
-        } for i, win in enumerate(results)])
-    
-    return pd.concat(df.apply(divideMatchOnMaps, axis=1).tolist(), ignore_index=True)
+    df[["teamA", "teamB"]] = df[["teamA", "teamB"]].replace(replace_map).copy()
 
+    return df
 
 def newMatchesCleanByMatch(df):
     df.columns = df.columns.str.strip()
     df = df[['teamA','teamB','date','tournament']].copy()
 
+    df = renameTeamsInMatches(df)
+
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+
     return df
 
-
 new_match = pd.read_csv("../../user/new_match.csv", sep=';')
-
 new_match = newMatchesCleanByMatch(new_match)
-
 new_match.to_csv("../../data/cleaned/new_match.csv", sep=';', index=False)

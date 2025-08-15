@@ -1,410 +1,199 @@
-tournament;match_id;game_in_series;teamA;teamB;win;date
-LPL 2025 Split 1;1;1;Top Esports;LGD Gaming;1;2025-02-16
-LPL 2025 Split 1;1;2;Top Esports;LGD Gaming;1;2025-02-16
-LPL 2025 Split 1;1;3;Top Esports;LGD Gaming;1;2025-02-16
-LPL 2025 Split 1;2;1;Funplus Phoenix;Invictus Gaming;0;2025-02-15
-LPL 2025 Split 1;3;1;Bilibili Gaming;TT;1;2025-02-14
-LPL 2025 Split 1;3;2;Bilibili Gaming;TT;1;2025-02-14
-LPL 2025 Split 1;3;3;Bilibili Gaming;TT;0;2025-02-14
-LPL 2025 Split 1;4;1;Royal Never Give Up;Ninjas in Pyjamas;0;2025-02-13
-LPL 2025 Split 1;5;1;Ultra Prime;OMG;1;2025-02-12
-LPL 2025 Split 1;5;2;Ultra Prime;OMG;1;2025-02-12
-LPL 2025 Split 1;5;3;Ultra Prime;OMG;0;2025-02-12
-LPL 2025 Split 1;5;4;Ultra Prime;OMG;0;2025-02-12
-LPL 2025 Split 1;6;1;Edward Gaming;LNG Esports;1;2025-02-11
-LPL 2025 Split 1;6;2;Edward Gaming;LNG Esports;1;2025-02-11
-LPL 2025 Split 1;6;3;Edward Gaming;LNG Esports;1;2025-02-11
-LPL 2025 Split 1;7;1;Team WE;Anyone s Legend;1;2025-02-10
-LPL 2025 Split 1;7;2;Team WE;Anyone s Legend;0;2025-02-10
-LPL 2025 Split 1;8;1;JD Gaming;Weibo Gaming;1;2025-02-09
-LPL 2025 Split 1;8;2;JD Gaming;Weibo Gaming;0;2025-02-09
-LPL 2025 Split 1;8;3;JD Gaming;Weibo Gaming;1;2025-02-09
-LPL 2025 Split 1;8;4;JD Gaming;Weibo Gaming;1;2025-02-09
-LPL 2025 Split 1;9;1;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08
-LPL 2025 Split 1;9;2;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08
-LPL 2025 Split 1;9;3;Ninjas in Pyjamas;Funplus Phoenix;1;2025-02-08
-LPL 2025 Split 1;10;1;Invictus Gaming;Royal Never Give Up;1;2025-01-25
-LPL 2025 Split 1;10;2;Invictus Gaming;Royal Never Give Up;1;2025-01-25
-LPL 2025 Split 1;10;3;Invictus Gaming;Royal Never Give Up;1;2025-01-25
-LPL 2025 Split 1;11;1;Bilibili Gaming;LNG Esports;1;2025-01-25
-LPL 2025 Split 1;11;2;Bilibili Gaming;LNG Esports;1;2025-01-25
-LPL 2025 Split 1;11;3;Bilibili Gaming;LNG Esports;1;2025-01-25
-LPL 2025 Split 1;12;1;Top Esports;Anyone s Legend;1;2025-01-24
-LPL 2025 Split 1;12;2;Top Esports;Anyone s Legend;0;2025-01-24
-LPL 2025 Split 1;12;3;Top Esports;Anyone s Legend;0;2025-01-24
-LPL 2025 Split 1;13;1;OMG;JD Gaming;1;2025-01-23
-LPL 2025 Split 1;13;2;OMG;JD Gaming;0;2025-01-23
-LPL 2025 Split 1;13;3;OMG;JD Gaming;1;2025-01-23
-LPL 2025 Split 1;13;4;OMG;JD Gaming;0;2025-01-23
-LPL 2025 Split 1;13;5;OMG;JD Gaming;0;2025-01-23
-LPL 2025 Split 1;14;1;LGD Gaming;Team WE;1;2025-01-22
-LPL 2025 Split 1;14;2;LGD Gaming;Team WE;1;2025-01-22
-LPL 2025 Split 1;14;3;LGD Gaming;Team WE;1;2025-01-22
-LPL 2025 Split 1;15;1;Edward Gaming;TT;1;2025-01-21
-LPL 2025 Split 1;15;2;Edward Gaming;TT;0;2025-01-21
-LPL 2025 Split 1;15;3;Edward Gaming;TT;0;2025-01-21
-LPL 2025 Split 1;15;4;Edward Gaming;TT;0;2025-01-21
-LPL 2025 Split 1;16;1;JD Gaming;Ultra Prime;1;2025-01-20
-LPL 2025 Split 1;16;2;JD Gaming;Ultra Prime;1;2025-01-20
-LPL 2025 Split 1;16;3;JD Gaming;Ultra Prime;1;2025-01-20
-LPL 2025 Split 1;17;1;Invictus Gaming;Ninjas in Pyjamas;1;2025-01-19
-LPL 2025 Split 1;17;2;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19
-LPL 2025 Split 1;17;3;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19
-LPL 2025 Split 1;17;4;Invictus Gaming;Ninjas in Pyjamas;0;2025-01-19
-LPL 2025 Split 1;18;1;Top Esports;Team WE;1;2025-01-18
-LPL 2025 Split 1;18;2;Top Esports;Team WE;1;2025-01-18
-LPL 2025 Split 1;18;3;Top Esports;Team WE;1;2025-01-18
-LPL 2025 Split 1;19;1;Edward Gaming;Bilibili Gaming;0;2025-01-17
-LPL 2025 Split 1;20;1;LGD Gaming;Anyone s Legend;0;2025-01-16
-LPL 2025 Split 1;21;1;Ultra Prime;Weibo Gaming;1;2025-01-15
-LPL 2025 Split 1;21;2;Ultra Prime;Weibo Gaming;0;2025-01-15
-LPL 2025 Split 1;21;3;Ultra Prime;Weibo Gaming;0;2025-01-15
-LPL 2025 Split 1;22;1;Royal Never Give Up;Funplus Phoenix;1;2025-01-14
-LPL 2025 Split 1;22;2;Royal Never Give Up;Funplus Phoenix;1;2025-01-14
-LPL 2025 Split 1;22;3;Royal Never Give Up;Funplus Phoenix;1;2025-01-14
-LPL 2025 Split 1;23;1;LNG Esports;TT;1;2025-01-13
-LPL 2025 Split 1;23;2;LNG Esports;TT;0;2025-01-13
-LPL 2025 Split 1;23;3;LNG Esports;TT;0;2025-01-13
-LPL 2025 Split 1;23;4;LNG Esports;TT;0;2025-01-13
-LPL 2025 Split 1;24;1;Weibo Gaming;OMG;1;2025-01-12
-LPL 2025 Split 1;24;2;Weibo Gaming;OMG;1;2025-01-12
-LPL 2025 Split 1;24;3;Weibo Gaming;OMG;1;2025-01-12
-LPL 2025 Split 1 Playoffs;1;1;Top Esports;Anyone s Legend;1;2025-03-01
-LPL 2025 Split 1 Playoffs;1;2;Top Esports;Anyone s Legend;0;2025-03-01
-LPL 2025 Split 1 Playoffs;1;3;Top Esports;Anyone s Legend;1;2025-03-01
-LPL 2025 Split 1 Playoffs;1;4;Top Esports;Anyone s Legend;1;2025-03-01
-LPL 2025 Split 1 Playoffs;2;1;JD Gaming;Top Esports;1;2025-02-27
-LPL 2025 Split 1 Playoffs;2;2;JD Gaming;Top Esports;0;2025-02-27
-LPL 2025 Split 1 Playoffs;2;3;JD Gaming;Top Esports;0;2025-02-27
-LPL 2025 Split 1 Playoffs;2;4;JD Gaming;Top Esports;0;2025-02-27
-LPL 2025 Split 1 Playoffs;3;1;Bilibili Gaming;Top Esports;1;2025-02-26
-LPL 2025 Split 1 Playoffs;3;2;Bilibili Gaming;Top Esports;0;2025-02-26
-LPL 2025 Split 1 Playoffs;3;3;Bilibili Gaming;Top Esports;0;2025-02-26
-LPL 2025 Split 1 Playoffs;3;4;Bilibili Gaming;Top Esports;0;2025-02-26
-LPL 2025 Split 1 Playoffs;4;1;JD Gaming;Anyone s Legend;1;2025-02-25
-LPL 2025 Split 1 Playoffs;4;2;JD Gaming;Anyone s Legend;0;2025-02-25
-LPL 2025 Split 1 Playoffs;4;3;JD Gaming;Anyone s Legend;1;2025-02-25
-LPL 2025 Split 1 Playoffs;4;4;JD Gaming;Anyone s Legend;0;2025-02-25
-LPL 2025 Split 1 Playoffs;5;1;Ninjas in Pyjamas;Top Esports;1;2025-02-24
-LPL 2025 Split 1 Playoffs;5;2;Ninjas in Pyjamas;Top Esports;0;2025-02-24
-LPL 2025 Split 1 Playoffs;5;3;Ninjas in Pyjamas;Top Esports;0;2025-02-24
-LPL 2025 Split 1 Playoffs;5;4;Ninjas in Pyjamas;Top Esports;0;2025-02-24
-LPL 2025 Split 1 Playoffs;6;1;Bilibili Gaming;TT;1;2025-02-24
-LPL 2025 Split 1 Playoffs;6;2;Bilibili Gaming;TT;1;2025-02-24
-LPL 2025 Split 1 Playoffs;6;3;Bilibili Gaming;TT;1;2025-02-24
-LPL 2025 Split 1 Playoffs;7;1;Invictus Gaming;Top Esports;1;2025-02-23
-LPL 2025 Split 1 Playoffs;7;2;Invictus Gaming;Top Esports;0;2025-02-23
-LPL 2025 Split 1 Playoffs;8;1;Weibo Gaming;Bilibili Gaming;1;2025-02-23
-LPL 2025 Split 1 Playoffs;8;2;Weibo Gaming;Bilibili Gaming;0;2025-02-23
-LPL 2025 Split 1 Playoffs;8;3;Weibo Gaming;Bilibili Gaming;0;2025-02-23
-LPL 2025 Split 1 Playoffs;9;1;Ninjas in Pyjamas;Anyone s Legend;1;2025-02-22
-LPL 2025 Split 1 Playoffs;9;2;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22
-LPL 2025 Split 1 Playoffs;9;3;Ninjas in Pyjamas;Anyone s Legend;1;2025-02-22
-LPL 2025 Split 1 Playoffs;9;4;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22
-LPL 2025 Split 1 Playoffs;9;5;Ninjas in Pyjamas;Anyone s Legend;0;2025-02-22
-LPL 2025 Split 1 Playoffs;10;1;JD Gaming;TT;1;2025-02-22
-LPL 2025 Split 1 Playoffs;10;2;JD Gaming;TT;0;2025-02-22
-LPL 2025 Split 1 Playoffs;10;3;JD Gaming;TT;1;2025-02-22
-LPL 2025 Split 1 Playoffs;10;4;JD Gaming;TT;1;2025-02-22
-LEC Winter 2025;1;1;SK Gaming;Fnatic;0;2025-02-03
-LEC Winter 2025;2;1;G2 Esports;Team Heretics;1;2025-02-03
-LEC Winter 2025;3;1;Karmine Corp;Team BDS;0;2025-02-03
-LEC Winter 2025;4;1;Movistar KOI;Rogue;1;2025-02-03
-LEC Winter 2025;5;1;Team Vitality;GIANTX;1;2025-02-03
-LEC Winter 2025;6;1;G2 Esports;Movistar KOI;1;2025-02-02
-LEC Winter 2025;7;1;Team Heretics;Team Vitality;0;2025-02-02
-LEC Winter 2025;8;1;Fnatic;Karmine Corp;1;2025-02-02
-LEC Winter 2025;9;1;Team BDS;GIANTX;0;2025-02-02
-LEC Winter 2025;10;1;Rogue;SK Gaming;0;2025-02-02
-LEC Winter 2025;11;1;Team Vitality;Karmine Corp;0;2025-02-01
-LEC Winter 2025;12;1;Team Heretics;Movistar KOI;1;2025-02-01
-LEC Winter 2025;13;1;Rogue;G2 Esports;0;2025-02-01
-LEC Winter 2025;14;1;GIANTX;Fnatic;0;2025-02-01
-LEC Winter 2025;15;1;SK Gaming;Team BDS;0;2025-02-01
-LEC Winter 2025;16;1;SK Gaming;Movistar KOI;0;2025-01-27
-LEC Winter 2025;17;1;Karmine Corp;Team Heretics;1;2025-01-27
-LEC Winter 2025;18;1;G2 Esports;GIANTX;1;2025-01-27
-LEC Winter 2025;19;1;Fnatic;Team BDS;1;2025-01-27
-LEC Winter 2025;20;1;Team Vitality;Rogue;1;2025-01-27
-LEC Winter 2025;21;1;Team BDS;Movistar KOI;0;2025-01-26
-LEC Winter 2025;22;1;Karmine Corp;Rogue;1;2025-01-26
-LEC Winter 2025;23;1;Fnatic;G2 Esports;1;2025-01-26
-LEC Winter 2025;24;1;SK Gaming;Team Vitality;0;2025-01-26
-LEC Winter 2025;25;1;GIANTX;Team Heretics;1;2025-01-26
-LEC Winter 2025;26;1;Karmine Corp;SK Gaming;1;2025-01-25
-LEC Winter 2025;27;1;Team Vitality;G2 Esports;0;2025-01-25
-LEC Winter 2025;28;1;GIANTX;Movistar KOI;0;2025-01-25
-LEC Winter 2025;29;1;Team BDS;Team Heretics;0;2025-01-25
-LEC Winter 2025;30;1;Rogue;Fnatic;0;2025-01-25
-LEC Winter 2025;31;1;GIANTX;Karmine Corp;1;2025-01-20
-LEC Winter 2025;32;1;G2 Esports;SK Gaming;1;2025-01-20
-LEC Winter 2025;33;1;Movistar KOI;Team Vitality;1;2025-01-20
-LEC Winter 2025;34;1;Team Heretics;Fnatic;0;2025-01-20
-LEC Winter 2025;35;1;Team BDS;Rogue;1;2025-01-20
-LEC Winter 2025;36;1;Fnatic;Team Vitality;1;2025-01-19
-LEC Winter 2025;37;1;G2 Esports;Team BDS;0;2025-01-19
-LEC Winter 2025;38;1;Movistar KOI;Karmine Corp;0;2025-01-19
-LEC Winter 2025;39;1;Rogue;GIANTX;0;2025-01-19
-LEC Winter 2025;40;1;Team Heretics;SK Gaming;1;2025-01-19
-LEC Winter 2025;41;1;Karmine Corp;G2 Esports;1;2025-01-18
-LEC Winter 2025;42;1;Movistar KOI;Fnatic;1;2025-01-18
-LEC Winter 2025;43;1;GIANTX;SK Gaming;1;2025-01-18
-LEC Winter 2025;44;1;Team Vitality;Team BDS;1;2025-01-18
-LEC Winter 2025;45;1;Team Heretics;Rogue;0;2025-01-18
-LEC 2025 Winter Playoffs;1;1;G2 Esports;Karmine Corp;0;2025-03-02
-LEC 2025 Winter Playoffs;2;1;Karmine Corp;Fnatic;1;2025-03-01
-LEC 2025 Winter Playoffs;2;2;Karmine Corp;Fnatic;1;2025-03-01
-LEC 2025 Winter Playoffs;2;3;Karmine Corp;Fnatic;0;2025-03-01
-LEC 2025 Winter Playoffs;2;4;Karmine Corp;Fnatic;0;2025-03-01
-LEC 2025 Winter Playoffs;2;5;Karmine Corp;Fnatic;1;2025-03-01
-LEC 2025 Winter Playoffs;3;1;Fnatic;Movistar KOI;1;2025-02-28
-LEC 2025 Winter Playoffs;3;2;Fnatic;Movistar KOI;1;2025-02-28
-LEC 2025 Winter Playoffs;3;3;Fnatic;Movistar KOI;0;2025-02-28
-LEC 2025 Winter Playoffs;3;4;Fnatic;Movistar KOI;1;2025-02-28
-LEC 2025 Winter Playoffs;4;1;Karmine Corp;G2 Esports;1;2025-02-24
-LEC 2025 Winter Playoffs;4;2;Karmine Corp;G2 Esports;0;2025-02-24
-LEC 2025 Winter Playoffs;4;3;Karmine Corp;G2 Esports;0;2025-02-24
-LEC 2025 Winter Playoffs;5;1;Movistar KOI;GIANTX;1;2025-02-23
-LEC 2025 Winter Playoffs;5;2;Movistar KOI;GIANTX;1;2025-02-23
-LEC 2025 Winter Playoffs;6;1;Fnatic;Team BDS;1;2025-02-23
-LEC 2025 Winter Playoffs;6;2;Fnatic;Team BDS;0;2025-02-23
-LEC 2025 Winter Playoffs;6;3;Fnatic;Team BDS;1;2025-02-23
-LEC 2025 Winter Playoffs;7;1;Team Vitality;Team BDS;1;2025-02-22
-LEC 2025 Winter Playoffs;7;2;Team Vitality;Team BDS;0;2025-02-22
-LEC 2025 Winter Playoffs;8;1;GIANTX;Team Heretics;1;2025-02-22
-LEC 2025 Winter Playoffs;8;2;GIANTX;Team Heretics;0;2025-02-22
-LEC 2025 Winter Playoffs;8;3;GIANTX;Team Heretics;1;2025-02-22
-LEC 2025 Winter Playoffs;9;1;Karmine Corp;Movistar KOI;1;2025-02-17
-LEC 2025 Winter Playoffs;9;2;Karmine Corp;Movistar KOI;1;2025-02-17
-LEC 2025 Winter Playoffs;10;1;Fnatic;G2 Esports;0;2025-02-17
-LEC 2025 Winter Playoffs;11;1;Karmine Corp;Team Vitality;1;2025-02-16
-LEC 2025 Winter Playoffs;11;2;Karmine Corp;Team Vitality;1;2025-02-16
-LEC 2025 Winter Playoffs;12;1;Movistar KOI;Team BDS;1;2025-02-16
-LEC 2025 Winter Playoffs;12;2;Movistar KOI;Team BDS;1;2025-02-16
-LEC 2025 Winter Playoffs;13;1;G2 Esports;GIANTX;1;2025-02-15
-LEC 2025 Winter Playoffs;13;2;G2 Esports;GIANTX;1;2025-02-15
-LEC 2025 Winter Playoffs;14;1;Fnatic;Team Heretics;1;2025-02-15
-LEC 2025 Winter Playoffs;14;2;Fnatic;Team Heretics;1;2025-02-15
-LCK Cup 2025;1;1;Hanwha Life eSports;Gen.G eSports;1;2025-02-23
-LCK Cup 2025;1;2;Hanwha Life eSports;Gen.G eSports;0;2025-02-23
-LCK Cup 2025;1;3;Hanwha Life eSports;Gen.G eSports;1;2025-02-23
-LCK Cup 2025;1;4;Hanwha Life eSports;Gen.G eSports;0;2025-02-23
-LCK Cup 2025;1;5;Hanwha Life eSports;Gen.G eSports;1;2025-02-23
-LCK Cup 2025;2;1;Dplus KIA;Gen.G eSports;0;2025-02-22
-LCK Cup 2025;3;1;Nongshim RedForce;Gen.G eSports;1;2025-02-20
-LCK Cup 2025;3;2;Nongshim RedForce;Gen.G eSports;1;2025-02-20
-LCK Cup 2025;3;3;Nongshim RedForce;Gen.G eSports;0;2025-02-20
-LCK Cup 2025;4;1;Hanwha Life eSports;Dplus KIA;1;2025-02-19
-LCK Cup 2025;4;2;Hanwha Life eSports;Dplus KIA;0;2025-02-19
-LCK Cup 2025;4;3;Hanwha Life eSports;Dplus KIA;0;2025-02-19
-LCK Cup 2025;4;4;Hanwha Life eSports;Dplus KIA;1;2025-02-19
-LCK Cup 2025;4;5;Hanwha Life eSports;Dplus KIA;1;2025-02-19
-LCK Cup 2025;5;1;Gen.G eSports;Hanwha Life eSports;1;2025-02-16
-LCK Cup 2025;5;2;Gen.G eSports;Hanwha Life eSports;0;2025-02-16
-LCK Cup 2025;5;3;Gen.G eSports;Hanwha Life eSports;1;2025-02-16
-LCK Cup 2025;5;4;Gen.G eSports;Hanwha Life eSports;0;2025-02-16
-LCK Cup 2025;6;1;Dplus KIA;Nongshim RedForce;1;2025-02-15
-LCK Cup 2025;6;2;Dplus KIA;Nongshim RedForce;1;2025-02-15
-LCK Cup 2025;6;3;Dplus KIA;Nongshim RedForce;0;2025-02-15
-LCK Cup 2025;6;4;Dplus KIA;Nongshim RedForce;1;2025-02-15
-LCK Cup 2025;7;1;Hanwha Life eSports;T1;1;2025-02-13
-LCK Cup 2025;7;2;Hanwha Life eSports;T1;0;2025-02-13
-LCK Cup 2025;7;3;Hanwha Life eSports;T1;1;2025-02-13
-LCK Cup 2025;7;4;Hanwha Life eSports;T1;0;2025-02-13
-LCK Cup 2025;7;5;Hanwha Life eSports;T1;1;2025-02-13
-LCK Cup 2025;8;1;KT Rolster;Nongshim RedForce;0;2025-02-12
-LCK Cup 2025;9;1;DRX;Nongshim RedForce;1;2025-02-09
-LCK Cup 2025;9;2;DRX;Nongshim RedForce;0;2025-02-09
-LCK Cup 2025;9;3;DRX;Nongshim RedForce;0;2025-02-09
-LCK Cup 2025;10;1;Hanwha Life eSports;DRX;1;2025-02-08
-LCK Cup 2025;10;2;Hanwha Life eSports;DRX;1;2025-02-08
-LCK Cup 2025;11;1;T1;Nongshim RedForce;1;2025-02-08
-LCK Cup 2025;11;2;T1;Nongshim RedForce;1;2025-02-08
-LCK Cup 2025;12;1;Nongshim RedForce;OK BRION;1;2025-02-07
-LCK Cup 2025;12;2;Nongshim RedForce;OK BRION;1;2025-02-07
-LCK Cup 2025;13;1;DRX;DN Freecs;1;2025-02-07
-LCK Cup 2025;13;2;DRX;DN Freecs;1;2025-02-07
-LCK Cup 2025;14;1;Nongshim RedForce;BNK FearX;1;2025-02-02
-LCK Cup 2025;14;2;Nongshim RedForce;BNK FearX;1;2025-02-02
-LCK Cup 2025;15;1;OK BRION;Dplus KIA;1;2025-02-01
-LCK Cup 2025;15;2;OK BRION;Dplus KIA;0;2025-02-01
-LCK Cup 2025;15;3;OK BRION;Dplus KIA;0;2025-02-01
-LCK Cup 2025;16;1;T1;Gen.G eSports;1;2025-02-01
-LCK Cup 2025;16;2;T1;Gen.G eSports;0;2025-02-01
-LCK Cup 2025;16;3;T1;Gen.G eSports;1;2025-02-01
-LCK Cup 2025;17;1;DRX;Hanwha Life eSports;0;2025-01-31
-LCK Cup 2025;18;1;DN Freecs;KT Rolster;1;2025-01-31
-LCK Cup 2025;18;2;DN Freecs;KT Rolster;0;2025-01-31
-LCK Cup 2025;18;3;DN Freecs;KT Rolster;0;2025-01-31
-LCK Cup 2025;19;1;KT Rolster;OK BRION;1;2025-01-26
-LCK Cup 2025;19;2;KT Rolster;OK BRION;1;2025-01-26
-LCK Cup 2025;20;1;T1;Nongshim RedForce;1;2025-01-26
-LCK Cup 2025;20;2;T1;Nongshim RedForce;1;2025-01-26
-LCK Cup 2025;21;1;Gen.G eSports;DN Freecs;1;2025-01-25
-LCK Cup 2025;21;2;Gen.G eSports;DN Freecs;1;2025-01-25
-LCK Cup 2025;22;1;Hanwha Life eSports;Dplus KIA;1;2025-01-25
-LCK Cup 2025;22;2;Hanwha Life eSports;Dplus KIA;0;2025-01-25
-LCK Cup 2025;23;1;T1;KT Rolster;1;2025-01-24
-LCK Cup 2025;23;2;T1;KT Rolster;0;2025-01-24
-LCK Cup 2025;23;3;T1;KT Rolster;1;2025-01-24
-LCK Cup 2025;24;1;DRX;BNK FearX;1;2025-01-24
-LCK Cup 2025;24;2;DRX;BNK FearX;0;2025-01-24
-LCK Cup 2025;24;3;DRX;BNK FearX;1;2025-01-24
-LCK Cup 2025;25;1;Hanwha Life eSports;Nongshim RedForce;1;2025-01-23
-LCK Cup 2025;25;2;Hanwha Life eSports;Nongshim RedForce;1;2025-01-23
-LCK Cup 2025;26;1;OK BRION;Gen.G eSports;1;2025-01-23
-LCK Cup 2025;26;2;OK BRION;Gen.G eSports;1;2025-01-23
-LCK Cup 2025;27;1;DN Freecs;DRX;1;2025-01-22
-LCK Cup 2025;27;2;DN Freecs;DRX;0;2025-01-22
-LCK Cup 2025;27;3;DN Freecs;DRX;0;2025-01-22
-LCK Cup 2025;28;1;Dplus KIA;BNK FearX;1;2025-01-22
-LCK Cup 2025;28;2;Dplus KIA;BNK FearX;0;2025-01-22
-LCK Cup 2025;28;3;Dplus KIA;BNK FearX;1;2025-01-22
-LCK Cup 2025;29;1;BNK FearX;Gen.G eSports;0;2025-01-19
-LCK Cup 2025;30;1;KT Rolster;Hanwha Life eSports;0;2025-01-19
-LCK Cup 2025;31;1;DRX;T1;0;2025-01-18
-LCK Cup 2025;32;1;Dplus KIA;DN Freecs;1;2025-01-18
-LCK Cup 2025;32;2;Dplus KIA;DN Freecs;1;2025-01-18
-LCK Cup 2025;33;1;Nongshim RedForce;OK BRION;1;2025-01-17
-LCK Cup 2025;33;2;Nongshim RedForce;OK BRION;1;2025-01-17
-LCK Cup 2025;34;1;Gen.G eSports;Hanwha Life eSports;1;2025-01-17
-LCK Cup 2025;34;2;Gen.G eSports;Hanwha Life eSports;1;2025-01-17
-LCK Cup 2025;35;1;Dplus KIA;T1;1;2025-01-16
-LCK Cup 2025;35;2;Dplus KIA;T1;0;2025-01-16
-LCK Cup 2025;35;3;Dplus KIA;T1;1;2025-01-16
-LCK Cup 2025;36;1;BNK FearX;KT Rolster;1;2025-01-16
-LCK Cup 2025;36;2;BNK FearX;KT Rolster;0;2025-01-16
-LCK Cup 2025;37;1;DN Freecs;Nongshim RedForce;1;2025-01-15
-LCK Cup 2025;37;2;DN Freecs;Nongshim RedForce;0;2025-01-15
-LCK Cup 2025;37;3;DN Freecs;Nongshim RedForce;1;2025-01-15
-LCK Cup 2025;38;1;OK BRION;DRX;1;2025-01-15
-LCK Cup 2025;38;2;OK BRION;DRX;0;2025-01-15
-LCK Cup 2025;38;3;OK BRION;DRX;0;2025-01-15
-LTA North 2025 Split 1;1;1;Team Liquid;FlyQuest;0;2025-02-09
-LTA North 2025 Split 1;2;1;Dignitas;FlyQuest;0;2025-02-09
-LTA North 2025 Split 1;3;1;Team Liquid;Shopify Rebellion;1;2025-02-09
-LTA North 2025 Split 1;3;2;Team Liquid;Shopify Rebellion;1;2025-02-09
-LTA North 2025 Split 1;4;1;100 Thieves;Cloud9;1;2025-02-02
-LTA North 2025 Split 1;5;1;FlyQuest;Cloud9;1;2025-02-02
-LTA North 2025 Split 1;5;2;FlyQuest;Cloud9;0;2025-02-02
-LTA North 2025 Split 1;5;3;FlyQuest;Cloud9;0;2025-02-02
-LTA North 2025 Split 1;6;1;Team Liquid;100 Thieves;1;2025-02-02
-LTA North 2025 Split 1;6;2;Team Liquid;100 Thieves;0;2025-02-02
-LTA North 2025 Split 1;7;1;LYON;Shopify Rebellion;1;2025-02-01
-LTA North 2025 Split 1;7;2;LYON;Shopify Rebellion;0;2025-02-01
-LTA North 2025 Split 1;7;3;LYON;Shopify Rebellion;0;2025-02-01
-LTA North 2025 Split 1;8;1;Disguised;Dignitas;1;2025-02-01
-LTA North 2025 Split 1;8;2;Disguised;Dignitas;0;2025-02-01
-LTA North 2025 Split 1;8;3;Disguised;Dignitas;0;2025-02-01
-LTA North 2025 Split 1;9;1;Dignitas;Team Liquid;0;2025-01-26
-LTA North 2025 Split 1;10;1;Disguised;100 Thieves;0;2025-01-26
-LTA North 2025 Split 1;11;1;LYON;Cloud9;0;2025-01-25
-LTA North 2025 Split 1;12;1;Shopify Rebellion;FlyQuest;0;2025-01-25
-LTA South 2025 Split 1;1;1;LOUD;paiN Gaming;1;2025-02-09
-LTA South 2025 Split 1;2;1;paiN Gaming;FURIA;1;2025-02-09
-LTA South 2025 Split 1;2;2;paiN Gaming;FURIA;1;2025-02-09
-LTA South 2025 Split 1;3;1;RED Canids;LOUD;1;2025-02-09
-LTA South 2025 Split 1;3;2;RED Canids;LOUD;0;2025-02-09
-LTA South 2025 Split 1;3;3;RED Canids;LOUD;0;2025-02-09
-LTA South 2025 Split 1;4;1;Leviatan;Isurus;0;2025-02-02
-LTA South 2025 Split 1;5;1;paiN Gaming;Leviatan;1;2025-02-02
-LTA South 2025 Split 1;5;2;paiN Gaming;Leviatan;0;2025-02-02
-LTA South 2025 Split 1;6;1;Isurus;RED Canids;1;2025-02-02
-LTA South 2025 Split 1;6;2;Isurus;RED Canids;1;2025-02-02
-LTA South 2025 Split 1;7;1;Fluxo;FURIA;0;2025-02-01
-LTA South 2025 Split 1;8;1;LOUD;Vivo Keyd Stars;1;2025-02-01
-LTA South 2025 Split 1;8;2;LOUD;Vivo Keyd Stars;1;2025-02-01
-LTA South 2025 Split 1;9;1;RED Canids;Fluxo;1;2025-01-26
-LTA South 2025 Split 1;9;2;RED Canids;Fluxo;1;2025-01-26
-LTA South 2025 Split 1;10;1;Isurus;FURIA;1;2025-01-26
-LTA South 2025 Split 1;10;2;Isurus;FURIA;0;2025-01-26
-LTA South 2025 Split 1;10;3;Isurus;FURIA;1;2025-01-26
-LTA South 2025 Split 1;11;1;Vivo Keyd Stars;Leviatan;1;2025-01-25
-LTA South 2025 Split 1;11;2;Vivo Keyd Stars;Leviatan;0;2025-01-25
-LTA South 2025 Split 1;12;1;LOUD;paiN Gaming;1;2025-01-25
-LTA South 2025 Split 1;12;2;LOUD;paiN Gaming;0;2025-01-25
-LTA South 2025 Split 1;12;3;LOUD;paiN Gaming;0;2025-01-25
-LCP 2025 Season Kickoff;1;1;PSG Talon;MGN Vikings Esports;1;2025-02-16
-LCP 2025 Season Kickoff;1;2;PSG Talon;MGN Vikings Esports;0;2025-02-16
-LCP 2025 Season Kickoff;1;3;PSG Talon;MGN Vikings Esports;1;2025-02-16
-LCP 2025 Season Kickoff;2;1;CTBC Flying Oyster;Chiefs Esports Club;1;2025-02-16
-LCP 2025 Season Kickoff;2;2;CTBC Flying Oyster;Chiefs Esports Club;1;2025-02-16
-LCP 2025 Season Kickoff;3;1;Team Secret Whales;GAM Esports;1;2025-02-15
-LCP 2025 Season Kickoff;3;2;Team Secret Whales;GAM Esports;1;2025-02-15
-LCP 2025 Season Kickoff;4;1;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0;2025-02-15
-LCP 2025 Season Kickoff;5;1;CTBC Flying Oyster;PSG Talon;1;2025-02-14
-LCP 2025 Season Kickoff;5;2;CTBC Flying Oyster;PSG Talon;0;2025-02-14
-LCP 2025 Season Kickoff;5;3;CTBC Flying Oyster;PSG Talon;1;2025-02-14
-LCP 2025 Season Kickoff;6;1;Chiefs Esports Club;MGN Vikings Esports;0;2025-02-14
-LCP 2025 Season Kickoff;7;1;GAM Esports;DetonatioN FocusMe;1;2025-02-13
-LCP 2025 Season Kickoff;7;2;GAM Esports;DetonatioN FocusMe;1;2025-02-13
-LCP 2025 Season Kickoff;8;1;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0;2025-02-13
-LCP 2025 Season Kickoff;9;1;PSG Talon;GAM Esports;1;2025-02-09
-LCP 2025 Season Kickoff;9;2;PSG Talon;GAM Esports;0;2025-02-09
-LCP 2025 Season Kickoff;9;3;PSG Talon;GAM Esports;1;2025-02-09
-LCP 2025 Season Kickoff;10;1;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0;2025-02-09
-LCP 2025 Season Kickoff;11;1;MGN Vikings Esports;DetonatioN FocusMe;1;2025-02-08
-LCP 2025 Season Kickoff;11;2;MGN Vikings Esports;DetonatioN FocusMe;0;2025-02-08
-LCP 2025 Season Kickoff;11;3;MGN Vikings Esports;DetonatioN FocusMe;1;2025-02-08
-LCP 2025 Season Kickoff;12;1;CTBC Flying Oyster;Team Secret Whales;1;2025-02-08
-LCP 2025 Season Kickoff;12;2;CTBC Flying Oyster;Team Secret Whales;0;2025-02-08
-LCP 2025 Season Kickoff;12;3;CTBC Flying Oyster;Team Secret Whales;0;2025-02-08
-LCP 2025 Season Kickoff;13;1;Chiefs Esports Club;GAM Esports;0;2025-02-07
-LCP 2025 Season Kickoff;14;1;Fukuoka SoftBank HAWKS gaming;PSG Talon;0;2025-02-07
-LCP 2025 Season Kickoff;15;1;MGN Vikings Esports;Team Secret Whales;1;2025-02-06
-LCP 2025 Season Kickoff;15;2;MGN Vikings Esports;Team Secret Whales;1;2025-02-06
-LCP 2025 Season Kickoff;16;1;CTBC Flying Oyster;DetonatioN FocusMe;1;2025-02-06
-LCP 2025 Season Kickoff;16;2;CTBC Flying Oyster;DetonatioN FocusMe;1;2025-02-06
-LCP 2025 Season Kickoff;17;1;PSG Talon;DetonatioN FocusMe;1;2025-01-26
-LCP 2025 Season Kickoff;17;2;PSG Talon;DetonatioN FocusMe;1;2025-01-26
-LCP 2025 Season Kickoff;18;1;Chiefs Esports Club;Team Secret Whales;0;2025-01-26
-LCP 2025 Season Kickoff;19;1;GAM Esports;CTBC Flying Oyster;1;2025-01-25
-LCP 2025 Season Kickoff;19;2;GAM Esports;CTBC Flying Oyster;0;2025-01-25
-LCP 2025 Season Kickoff;20;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-01-25
-LCP 2025 Season Kickoff;21;1;PSG Talon;Team Secret Whales;1;2025-01-24
-LCP 2025 Season Kickoff;21;2;PSG Talon;Team Secret Whales;1;2025-01-24
-LCP 2025 Season Kickoff;22;1;Chiefs Esports Club;DetonatioN FocusMe;1;2025-01-24
-LCP 2025 Season Kickoff;22;2;Chiefs Esports Club;DetonatioN FocusMe;0;2025-01-24
-LCP 2025 Season Kickoff;23;1;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0;2025-01-19
-LCP 2025 Season Kickoff;24;1;GAM Esports;MGN Vikings Esports;0;2025-01-19
-LCP 2025 Season Kickoff;25;1;PSG Talon;Chiefs Esports Club;1;2025-01-18
-LCP 2025 Season Kickoff;25;2;PSG Talon;Chiefs Esports Club;1;2025-01-18
-LCP 2025 Season Kickoff;26;1;Team Secret Whales;DetonatioN FocusMe;1;2025-01-18
-LCP 2025 Season Kickoff;26;2;Team Secret Whales;DetonatioN FocusMe;1;2025-01-18
-LCP 2025 Season Kickoff;27;1;Fukuoka SoftBank HAWKS gaming;GAM Esports;1;2025-01-17
-LCP 2025 Season Kickoff;27;2;Fukuoka SoftBank HAWKS gaming;GAM Esports;0;2025-01-17
-LCP 2025 Season Kickoff;28;1;CTBC Flying Oyster;MGN Vikings Esports;1;2025-01-17
-LCP 2025 Season Kickoff;28;2;CTBC Flying Oyster;MGN Vikings Esports;1;2025-01-17
-LCP 2025 Season Kickoff Qualifying Series;1;1;CTBC Flying Oyster;PSG Talon;1;2025-02-23
-LCP 2025 Season Kickoff Qualifying Series;1;2;CTBC Flying Oyster;PSG Talon;1;2025-02-23
-LCP 2025 Season Kickoff Qualifying Series;1;3;CTBC Flying Oyster;PSG Talon;1;2025-02-23
-LCP 2025 Season Kickoff Qualifying Series;2;1;PSG Talon;MGN Vikings Esports;1;2025-02-22
-LCP 2025 Season Kickoff Qualifying Series;2;2;PSG Talon;MGN Vikings Esports;0;2025-02-22
-LCP 2025 Season Kickoff Qualifying Series;2;3;PSG Talon;MGN Vikings Esports;1;2025-02-22
-LCP 2025 Season Kickoff Qualifying Series;2;4;PSG Talon;MGN Vikings Esports;0;2025-02-22
-LCP 2025 Season Kickoff Qualifying Series;2;5;PSG Talon;MGN Vikings Esports;1;2025-02-22
-LCP 2025 Season Kickoff Qualifying Series;3;1;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21
-LCP 2025 Season Kickoff Qualifying Series;3;2;CTBC Flying Oyster;MGN Vikings Esports;0;2025-02-21
-LCP 2025 Season Kickoff Qualifying Series;3;3;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21
-LCP 2025 Season Kickoff Qualifying Series;3;4;CTBC Flying Oyster;MGN Vikings Esports;1;2025-02-21
-LCP 2025 Season Kickoff Qualifying Series;4;1;GAM Esports;PSG Talon;1;2025-02-21
-LCP 2025 Season Kickoff Qualifying Series;4;2;GAM Esports;PSG Talon;0;2025-02-21
-LCP 2025 Season Kickoff Qualifying Series;5;1;CTBC Flying Oyster;GAM Esports;1;2025-02-19
-LCP 2025 Season Kickoff Qualifying Series;5;2;CTBC Flying Oyster;GAM Esports;1;2025-02-19
-LCP 2025 Season Kickoff Qualifying Series;6;1;PSG Talon;MGN Vikings Esports;1;2025-02-19
-LCP 2025 Season Kickoff Qualifying Series;6;2;PSG Talon;MGN Vikings Esports;0;2025-02-19
-LCP 2025 Season Kickoff Qualifying Series;6;3;PSG Talon;MGN Vikings Esports;0;2025-02-19
-LCP 2025 Season Kickoff Qualifying Series;7;1;Team Secret Whales;GAM Esports;0;2025-02-18
-LCP 2025 Season Kickoff Qualifying Series;8;1;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0;2025-02-18
-LTA 2025 Split 1 Playoffs;1;1;100 Thieves;Team Liquid;0;2025-02-23
-LTA 2025 Split 1 Playoffs;2;1;Cloud9;Team Liquid;1;2025-02-22
-LTA 2025 Split 1 Playoffs;2;2;Cloud9;Team Liquid;0;2025-02-22
-LTA 2025 Split 1 Playoffs;3;1;100 Thieves;FlyQuest;1;2025-02-22
-LTA 2025 Split 1 Playoffs;3;2;100 Thieves;FlyQuest;1;2025-02-22
-LTA 2025 Split 1 Playoffs;4;1;Isurus;Team Liquid;1;2025-02-16
-LTA 2025 Split 1 Playoffs;4;2;Isurus;Team Liquid;0;2025-02-16
-LTA 2025 Split 1 Playoffs;5;1;Cloud9;LOUD;1;2025-02-16
-LTA 2025 Split 1 Playoffs;5;2;Cloud9;LOUD;1;2025-02-16
-LTA 2025 Split 1 Playoffs;6;1;Leviatan;FlyQuest;0;2025-02-15
-LTA 2025 Split 1 Playoffs;7;1;100 Thieves;paiN Gaming;1;2025-02-15
-LTA 2025 Split 1 Playoffs;7;2;100 Thieves;paiN Gaming;1;2025-02-15
+tournament;date;teamA;teamB;teamA_win
+LPL 2025 Split 1;2025-02-16;Top Esports;LGD Gaming;1
+LPL 2025 Split 1;2025-02-15;FunPlus Phoenix;Invictus Gaming;0
+LPL 2025 Split 1;2025-02-14;Bilibili Gaming;ThunderTalk Gaming;0
+LPL 2025 Split 1;2025-02-13;Royal Never Give Up;Ninjas in Pyjamas;0
+LPL 2025 Split 1;2025-02-12;Ultra Prime;Oh My God;0
+LPL 2025 Split 1;2025-02-11;EDward Gaming;LNG Esports;1
+LPL 2025 Split 1;2025-02-10;Team WE;Anyone's Legend;0
+LPL 2025 Split 1;2025-02-09;JD Gaming;Weibo Gaming;1
+LPL 2025 Split 1;2025-02-08;Ninjas in Pyjamas;FunPlus Phoenix;1
+LPL 2025 Split 1;2025-01-25;Invictus Gaming;Royal Never Give Up;1
+LPL 2025 Split 1;2025-01-25;Bilibili Gaming;LNG Esports;1
+LPL 2025 Split 1;2025-01-24;Top Esports;Anyone's Legend;0
+LPL 2025 Split 1;2025-01-23;Oh My God;JD Gaming;0
+LPL 2025 Split 1;2025-01-22;LGD Gaming;Team WE;1
+LPL 2025 Split 1;2025-01-21;EDward Gaming;ThunderTalk Gaming;0
+LPL 2025 Split 1;2025-01-20;JD Gaming;Ultra Prime;1
+LPL 2025 Split 1;2025-01-19;Invictus Gaming;Ninjas in Pyjamas;0
+LPL 2025 Split 1;2025-01-18;Top Esports;Team WE;1
+LPL 2025 Split 1;2025-01-17;EDward Gaming;Bilibili Gaming;0
+LPL 2025 Split 1;2025-01-16;LGD Gaming;Anyone's Legend;0
+LPL 2025 Split 1;2025-01-15;Ultra Prime;Weibo Gaming;0
+LPL 2025 Split 1;2025-01-14;Royal Never Give Up;FunPlus Phoenix;1
+LPL 2025 Split 1;2025-01-13;LNG Esports;ThunderTalk Gaming;0
+LPL 2025 Split 1;2025-01-12;Weibo Gaming;Oh My God;1
+LPL 2025 Split 1 Playoffs;2025-03-01;Top Esports;Anyone's Legend;1
+LPL 2025 Split 1 Playoffs;2025-02-27;JD Gaming;Top Esports;0
+LPL 2025 Split 1 Playoffs;2025-02-26;Bilibili Gaming;Top Esports;0
+LPL 2025 Split 1 Playoffs;2025-02-25;JD Gaming;Anyone's Legend;0
+LPL 2025 Split 1 Playoffs;2025-02-24;Ninjas in Pyjamas;Top Esports;0
+LPL 2025 Split 1 Playoffs;2025-02-24;Bilibili Gaming;ThunderTalk Gaming;1
+LPL 2025 Split 1 Playoffs;2025-02-23;Invictus Gaming;Top Esports;0
+LPL 2025 Split 1 Playoffs;2025-02-23;Weibo Gaming;Bilibili Gaming;0
+LPL 2025 Split 1 Playoffs;2025-02-22;Ninjas in Pyjamas;Anyone's Legend;0
+LPL 2025 Split 1 Playoffs;2025-02-22;JD Gaming;ThunderTalk Gaming;1
+LEC Winter 2025;2025-02-03;SK Gaming;Fnatic;0
+LEC Winter 2025;2025-02-03;G2 Esports;Team Heretics;1
+LEC Winter 2025;2025-02-03;Karmine Corp;Team BDS;0
+LEC Winter 2025;2025-02-03;Movistar KOI;Rogue;1
+LEC Winter 2025;2025-02-03;Team Vitality;GiantX;1
+LEC Winter 2025;2025-02-02;G2 Esports;Movistar KOI;1
+LEC Winter 2025;2025-02-02;Team Heretics;Team Vitality;0
+LEC Winter 2025;2025-02-02;Fnatic;Karmine Corp;1
+LEC Winter 2025;2025-02-02;Team BDS;GiantX;0
+LEC Winter 2025;2025-02-02;Rogue;SK Gaming;0
+LEC Winter 2025;2025-02-01;Team Vitality;Karmine Corp;0
+LEC Winter 2025;2025-02-01;Team Heretics;Movistar KOI;1
+LEC Winter 2025;2025-02-01;Rogue;G2 Esports;0
+LEC Winter 2025;2025-02-01;GiantX;Fnatic;0
+LEC Winter 2025;2025-02-01;SK Gaming;Team BDS;0
+LEC Winter 2025;2025-01-27;SK Gaming;Movistar KOI;0
+LEC Winter 2025;2025-01-27;Karmine Corp;Team Heretics;1
+LEC Winter 2025;2025-01-27;G2 Esports;GiantX;1
+LEC Winter 2025;2025-01-27;Fnatic;Team BDS;1
+LEC Winter 2025;2025-01-27;Team Vitality;Rogue;1
+LEC Winter 2025;2025-01-26;Team BDS;Movistar KOI;0
+LEC Winter 2025;2025-01-26;Karmine Corp;Rogue;1
+LEC Winter 2025;2025-01-26;Fnatic;G2 Esports;1
+LEC Winter 2025;2025-01-26;SK Gaming;Team Vitality;0
+LEC Winter 2025;2025-01-26;GiantX;Team Heretics;1
+LEC Winter 2025;2025-01-25;Karmine Corp;SK Gaming;1
+LEC Winter 2025;2025-01-25;Team Vitality;G2 Esports;0
+LEC Winter 2025;2025-01-25;GiantX;Movistar KOI;0
+LEC Winter 2025;2025-01-25;Team BDS;Team Heretics;0
+LEC Winter 2025;2025-01-25;Rogue;Fnatic;0
+LEC Winter 2025;2025-01-20;GiantX;Karmine Corp;1
+LEC Winter 2025;2025-01-20;G2 Esports;SK Gaming;1
+LEC Winter 2025;2025-01-20;Movistar KOI;Team Vitality;1
+LEC Winter 2025;2025-01-20;Team Heretics;Fnatic;0
+LEC Winter 2025;2025-01-20;Team BDS;Rogue;1
+LEC Winter 2025;2025-01-19;Fnatic;Team Vitality;1
+LEC Winter 2025;2025-01-19;G2 Esports;Team BDS;0
+LEC Winter 2025;2025-01-19;Movistar KOI;Karmine Corp;0
+LEC Winter 2025;2025-01-19;Rogue;GiantX;0
+LEC Winter 2025;2025-01-19;Team Heretics;SK Gaming;1
+LEC Winter 2025;2025-01-18;Karmine Corp;G2 Esports;1
+LEC Winter 2025;2025-01-18;Movistar KOI;Fnatic;1
+LEC Winter 2025;2025-01-18;GiantX;SK Gaming;1
+LEC Winter 2025;2025-01-18;Team Vitality;Team BDS;1
+LEC Winter 2025;2025-01-18;Team Heretics;Rogue;0
+LEC 2025 Winter Playoffs;2025-03-02;G2 Esports;Karmine Corp;0
+LEC 2025 Winter Playoffs;2025-03-01;Karmine Corp;Fnatic;1
+LEC 2025 Winter Playoffs;2025-02-28;Fnatic;Movistar KOI;1
+LEC 2025 Winter Playoffs;2025-02-24;Karmine Corp;G2 Esports;0
+LEC 2025 Winter Playoffs;2025-02-23;Movistar KOI;GiantX;1
+LEC 2025 Winter Playoffs;2025-02-23;Fnatic;Team BDS;1
+LEC 2025 Winter Playoffs;2025-02-22;Team Vitality;Team BDS;0
+LEC 2025 Winter Playoffs;2025-02-22;GiantX;Team Heretics;1
+LEC 2025 Winter Playoffs;2025-02-17;Karmine Corp;Movistar KOI;1
+LEC 2025 Winter Playoffs;2025-02-17;Fnatic;G2 Esports;0
+LEC 2025 Winter Playoffs;2025-02-16;Karmine Corp;Team Vitality;1
+LEC 2025 Winter Playoffs;2025-02-16;Movistar KOI;Team BDS;1
+LEC 2025 Winter Playoffs;2025-02-15;G2 Esports;GiantX;1
+LEC 2025 Winter Playoffs;2025-02-15;Fnatic;Team Heretics;1
+LCK Cup 2025;2025-02-23;Hanwha Life Esports;Gen.G;1
+LCK Cup 2025;2025-02-22;Dplus KIA;Gen.G;0
+LCK Cup 2025;2025-02-20;Nongshim RedForce;Gen.G;0
+LCK Cup 2025;2025-02-19;Hanwha Life Esports;Dplus KIA;1
+LCK Cup 2025;2025-02-16;Gen.G;Hanwha Life Esports;0
+LCK Cup 2025;2025-02-15;Dplus KIA;Nongshim RedForce;1
+LCK Cup 2025;2025-02-13;Hanwha Life Esports;T1;1
+LCK Cup 2025;2025-02-12;KT Rolster;Nongshim RedForce;0
+LCK Cup 2025;2025-02-09;DRX;Nongshim RedForce;0
+LCK Cup 2025;2025-02-08;Hanwha Life Esports;DRX;1
+LCK Cup 2025;2025-02-08;T1;Nongshim RedForce;1
+LCK Cup 2025;2025-02-07;Nongshim RedForce;OKSavingsBank BRION;1
+LCK Cup 2025;2025-02-07;DRX;DN Freecs;1
+LCK Cup 2025;2025-02-02;Nongshim RedForce;BNK FEARX;1
+LCK Cup 2025;2025-02-01;OKSavingsBank BRION;Dplus KIA;0
+LCK Cup 2025;2025-02-01;T1;Gen.G;1
+LCK Cup 2025;2025-01-31;DRX;Hanwha Life Esports;0
+LCK Cup 2025;2025-01-31;DN Freecs;KT Rolster;0
+LCK Cup 2025;2025-01-26;KT Rolster;OKSavingsBank BRION;1
+LCK Cup 2025;2025-01-26;T1;Nongshim RedForce;1
+LCK Cup 2025;2025-01-25;Gen.G;DN Freecs;1
+LCK Cup 2025;2025-01-25;Hanwha Life Esports;Dplus KIA;0
+LCK Cup 2025;2025-01-24;T1;KT Rolster;1
+LCK Cup 2025;2025-01-24;DRX;BNK FEARX;1
+LCK Cup 2025;2025-01-23;Hanwha Life Esports;Nongshim RedForce;1
+LCK Cup 2025;2025-01-23;OKSavingsBank BRION;Gen.G;1
+LCK Cup 2025;2025-01-22;DN Freecs;DRX;0
+LCK Cup 2025;2025-01-22;Dplus KIA;BNK FEARX;1
+LCK Cup 2025;2025-01-19;BNK FEARX;Gen.G;0
+LCK Cup 2025;2025-01-19;KT Rolster;Hanwha Life Esports;0
+LCK Cup 2025;2025-01-18;DRX;T1;0
+LCK Cup 2025;2025-01-18;Dplus KIA;DN Freecs;1
+LCK Cup 2025;2025-01-17;Nongshim RedForce;OKSavingsBank BRION;1
+LCK Cup 2025;2025-01-17;Gen.G;Hanwha Life Esports;1
+LCK Cup 2025;2025-01-16;Dplus KIA;T1;1
+LCK Cup 2025;2025-01-16;BNK FEARX;KT Rolster;0
+LCK Cup 2025;2025-01-15;DN Freecs;Nongshim RedForce;1
+LCK Cup 2025;2025-01-15;OKSavingsBank BRION;DRX;0
+LTA North 2025 Split 1;2025-02-09;Team Liquid;FlyQuest;0
+LTA North 2025 Split 1;2025-02-09;Dignitas;FlyQuest;0
+LTA North 2025 Split 1;2025-02-09;Team Liquid;Shopify Rebellion;1
+LTA North 2025 Split 1;2025-02-02;100 Thieves;Cloud9;1
+LTA North 2025 Split 1;2025-02-02;FlyQuest;Cloud9;0
+LTA North 2025 Split 1;2025-02-02;Team Liquid;100 Thieves;0
+LTA North 2025 Split 1;2025-02-01;LYON;Shopify Rebellion;0
+LTA North 2025 Split 1;2025-02-01;Disguised;Dignitas;0
+LTA North 2025 Split 1;2025-01-26;Dignitas;Team Liquid;0
+LTA North 2025 Split 1;2025-01-26;Disguised;100 Thieves;0
+LTA North 2025 Split 1;2025-01-25;LYON;Cloud9;0
+LTA North 2025 Split 1;2025-01-25;Shopify Rebellion;FlyQuest;0
+LTA South 2025 Split 1;2025-02-09;LOUD;paiN Gaming;1
+LTA South 2025 Split 1;2025-02-09;paiN Gaming;FURIA;1
+LTA South 2025 Split 1;2025-02-09;RED Canids;LOUD;0
+LTA South 2025 Split 1;2025-02-02;Leviatan;Isurus Estral;0
+LTA South 2025 Split 1;2025-02-02;paiN Gaming;Leviatan;0
+LTA South 2025 Split 1;2025-02-02;Isurus Estral;RED Canids;1
+LTA South 2025 Split 1;2025-02-01;Fluxo W7M;FURIA;0
+LTA South 2025 Split 1;2025-02-01;LOUD;Vivo Keyd Stars;1
+LTA South 2025 Split 1;2025-01-26;RED Canids;Fluxo W7M;1
+LTA South 2025 Split 1;2025-01-26;Isurus Estral;FURIA;1
+LTA South 2025 Split 1;2025-01-25;Vivo Keyd Stars;Leviatan;0
+LTA South 2025 Split 1;2025-01-25;LOUD;paiN Gaming;0
+LCP 2025 Season Kickoff;2025-02-16;TALON;MGN Vikings Esports;1
+LCP 2025 Season Kickoff;2025-02-16;CTBC Flying Oyster;Chiefs Esports Club;1
+LCP 2025 Season Kickoff;2025-02-15;Team Secret Whales;GAM Esports;1
+LCP 2025 Season Kickoff;2025-02-15;DetonatioN FocusMe;Fukuoka SoftBank HAWKS gaming;0
+LCP 2025 Season Kickoff;2025-02-14;CTBC Flying Oyster;TALON;1
+LCP 2025 Season Kickoff;2025-02-14;Chiefs Esports Club;MGN Vikings Esports;0
+LCP 2025 Season Kickoff;2025-02-13;GAM Esports;DetonatioN FocusMe;1
+LCP 2025 Season Kickoff;2025-02-13;Fukuoka SoftBank HAWKS gaming;Team Secret Whales;0
+LCP 2025 Season Kickoff;2025-02-09;TALON;GAM Esports;1
+LCP 2025 Season Kickoff;2025-02-09;Chiefs Esports Club;Fukuoka SoftBank HAWKS gaming;0
+LCP 2025 Season Kickoff;2025-02-08;MGN Vikings Esports;DetonatioN FocusMe;1
+LCP 2025 Season Kickoff;2025-02-08;CTBC Flying Oyster;Team Secret Whales;0
+LCP 2025 Season Kickoff;2025-02-07;Chiefs Esports Club;GAM Esports;0
+LCP 2025 Season Kickoff;2025-02-07;Fukuoka SoftBank HAWKS gaming;TALON;0
+LCP 2025 Season Kickoff;2025-02-06;MGN Vikings Esports;Team Secret Whales;1
+LCP 2025 Season Kickoff;2025-02-06;CTBC Flying Oyster;DetonatioN FocusMe;1
+LCP 2025 Season Kickoff;2025-01-26;TALON;DetonatioN FocusMe;1
+LCP 2025 Season Kickoff;2025-01-26;Chiefs Esports Club;Team Secret Whales;0
+LCP 2025 Season Kickoff;2025-01-25;GAM Esports;CTBC Flying Oyster;0
+LCP 2025 Season Kickoff;2025-01-25;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0
+LCP 2025 Season Kickoff;2025-01-24;TALON;Team Secret Whales;1
+LCP 2025 Season Kickoff;2025-01-24;Chiefs Esports Club;DetonatioN FocusMe;0
+LCP 2025 Season Kickoff;2025-01-19;Fukuoka SoftBank HAWKS gaming;CTBC Flying Oyster;0
+LCP 2025 Season Kickoff;2025-01-19;GAM Esports;MGN Vikings Esports;0
+LCP 2025 Season Kickoff;2025-01-18;TALON;Chiefs Esports Club;1
+LCP 2025 Season Kickoff;2025-01-18;Team Secret Whales;DetonatioN FocusMe;1
+LCP 2025 Season Kickoff;2025-01-17;Fukuoka SoftBank HAWKS gaming;GAM Esports;0
+LCP 2025 Season Kickoff;2025-01-17;CTBC Flying Oyster;MGN Vikings Esports;1
+LCP 2025 Season Kickoff Qualifying Series;2025-02-23;CTBC Flying Oyster;TALON;1
+LCP 2025 Season Kickoff Qualifying Series;2025-02-22;TALON;MGN Vikings Esports;1
+LCP 2025 Season Kickoff Qualifying Series;2025-02-21;CTBC Flying Oyster;MGN Vikings Esports;1
+LCP 2025 Season Kickoff Qualifying Series;2025-02-21;GAM Esports;TALON;0
+LCP 2025 Season Kickoff Qualifying Series;2025-02-19;CTBC Flying Oyster;GAM Esports;1
+LCP 2025 Season Kickoff Qualifying Series;2025-02-19;TALON;MGN Vikings Esports;0
+LCP 2025 Season Kickoff Qualifying Series;2025-02-18;Team Secret Whales;GAM Esports;0
+LCP 2025 Season Kickoff Qualifying Series;2025-02-18;Fukuoka SoftBank HAWKS gaming;MGN Vikings Esports;0
+LTA 2025 Split 1 Playoffs;2025-02-23;100 Thieves;Team Liquid;0
+LTA 2025 Split 1 Playoffs;2025-02-22;Cloud9;Team Liquid;0
+LTA 2025 Split 1 Playoffs;2025-02-22;100 Thieves;FlyQuest;1
+LTA 2025 Split 1 Playoffs;2025-02-16;Isurus Estral;Team Liquid;0
+LTA 2025 Split 1 Playoffs;2025-02-16;Cloud9;LOUD;1
+LTA 2025 Split 1 Playoffs;2025-02-15;Leviatan;FlyQuest;0
+LTA 2025 Split 1 Playoffs;2025-02-15;100 Thieves;paiN Gaming;1

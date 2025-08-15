@@ -24,3 +24,4 @@ for script in scripts:
     print(result.stdout)
     if result.returncode != 0:
         print(f"Error in {script_name}:\n{result.stderr}")
+        break

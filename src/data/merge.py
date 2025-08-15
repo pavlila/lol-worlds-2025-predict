@@ -1,93 +1,86 @@
 import pandas as pd
 
-def mergeSplits(splits):
+def concatDfs(splits):
     return pd.concat(splits, ignore_index=True)
 
-def get_closest_past_stats(team_name, match_date, stats_df):
-    team_data = stats_df[(stats_df["Team"] == team_name) & (stats_df["date"] < match_date)]
-    if team_data.empty:
-        return pd.Series(dtype=float)  # prázdný řádek
-    return team_data.sort_values("date", ascending=False).iloc[0]
+def getStats(team, tournament, date, teamsStats):
+    teamDataPast = teamsStats[(teamsStats['Team'] == team) & (teamsStats['date'] < date)]
 
-def merge_match_with_team_stats(matches_df, teams_df):
-    matches_df = matches_df.copy()
-    teams_df = teams_df.copy()
+    if teamDataPast.empty:
+        return pd.Series(dtype=float)
 
-    # Ošetření formátu datumu
-    matches_df["date"] = pd.to_datetime(matches_df["date"], errors="coerce")
-    teams_df["date"] = pd.to_datetime(teams_df["date"], errors="coerce")
+    teamLastData = teamDataPast.sort_values('date', ascending=False).iloc[0]
 
-    # Vyhoď řádky s NaT (nepovedený převod)
-    matches_df = matches_df.dropna(subset=["date"])
-    teams_df = teams_df.dropna(subset=["date"])
+    if teamLastData.GP > 5:
+        teamLastData = teamLastData.drop(columns=['date','Team','tournament'])
+        return teamLastData
+    else:
+        teamDataFromLastTournament = teamsStats[(teamsStats['Team'] == team) & (teamsStats['date'] < date) & (teamsStats['tournament'] != tournament)]
 
-    ignore_cols = {"Team", "tournament", "date"}  # tyto nechceš přidávat vůbec
+        if teamDataFromLastTournament.empty:
+            return pd.Series(dtype=float)
+        
+        teamLastDataFromLastTournament = teamDataFromLastTournament.sort_values('date', ascending=False).iloc[0]
+
+        gp_last = min(teamLastDataFromLastTournament.GP, 5)
+        gp_curr = teamLastData.GP
+        gp = gp_last + gp_curr
+
+        numeric_cols = [
+            'AGT','KD','CKPM','GPR','GSPD','EGR','MLR','GD15',
+            'FB%','FT%','F3T%','PPG','HLD%','GRB%','FD%','DRG%','ELD%',
+            'FBN%','BN%','LNE%','JNG%','WPM','CWPM','WCPM','winrate%'
+        ]
+
+        combined_data = pd.Series(dtype=float)
+        for col in numeric_cols:
+            combined_data[col] = (teamLastData[col] * gp_curr + teamLastDataFromLastTournament[col] * gp_last) / (gp_curr + gp_last)
+
+        combined_data['GP'] = gp
+
+        return combined_data
+
+def mergeMatchesAndTeamsData(matches, teams):
     merged_rows = []
+    for _, row in matches.iterrows():
+        teamA = row['teamA']
+        teamB = row['teamB']
+        date = row['date']
+        tournament = row['tournament']
+        win = row['teamA_win']
 
-    for _, row in matches_df.iterrows():
-        teamA = row["teamA"]
-        teamB = row["teamB"]
-        match_date = row["date"]
+        statsA = getStats(teamA, tournament, date, teams)
+        statsB = getStats(teamB, tournament, date, teams)
 
-        stats_A = get_closest_past_stats(teamA, match_date, teams_df)
-        stats_B = get_closest_past_stats(teamB, match_date, teams_df)
+        if statsA.empty or statsB.empty:
+            continue
 
-        # Odstraň ignorované sloupce
-        stats_A = stats_A.drop(labels=ignore_cols, errors="ignore")
-        stats_B = stats_B.drop(labels=ignore_cols, errors="ignore")
+        statsA = statsA[[col for col in statsA.index if col not in ['Team','tournament','date','teamA_win']]]
+        statsB = statsB[[col for col in statsB.index if col not in ['Team','tournament','date','teamA_win']]]
 
-        # Přejmenuj zbytek
-        stats_A = stats_A.add_prefix("A_")
-        stats_B = stats_B.add_prefix("B_")
+        statsA = statsA.add_suffix("_A")
+        statsB = statsB.add_suffix("_B")
 
-        # Sloučíme s původním řádkem – zajistíme unikátní indexy
-        combined_data = pd.concat([row.drop(labels=ignore_cols, errors="ignore"), stats_A, stats_B])
+        combined_data = pd.concat([statsA, statsB])
 
-        # Přidej zpět potřebné sloupce (např. tournament a date z match)
-        combined_data["tournament"] = row["tournament"]
-        combined_data["date"] = row["date"]
+        combined_data['teamA'] = teamA
+        combined_data['teamB'] = teamB
+        combined_data['date'] = date
+        combined_data['tournament'] = tournament
+        combined_data['teamA_win'] = win
 
         merged_rows.append(combined_data)
 
-    # Vrátíme dataframe
     return pd.DataFrame(merged_rows).reset_index(drop=True)
 
-def rename(df):
-    replace_map = {
-        "Edward Gaming": "EDward Gaming",
-        "Hanwha Life eSports": "Hanwha Life Esports",
-        "PSG Talon": "TALON",
-        "BNK FearX": "BNK FEARX",
-        "GIANTX": "GiantX",
-        "OMG": "Oh My God",
-        "Fluxo": "Fluxo W7M",
-        "Gen.G eSports": "Gen.G",
-        "Anyone s Legend": "Anyone's Legend",
-        "Isurus": "Isurus Estral",
-        "Funplus Phoenix": "FunPlus Phoenix",
-        "OK BRION": "OKSavingsBank BRION",
-        "TT": "ThunderTalk Gaming"  
-    }
+dfs_matches = ['winter', 'spring', 'summer', 'msi', 'ewc']
+matches_list = [pd.read_csv(f"../../data/cleaned/matches_{match}.csv", sep=';') for match in dfs_matches]
+matches = concatDfs(matches_list)
 
-    df[["teamA", "teamB"]] = df[["teamA", "teamB"]].replace(replace_map)
+dfs_teams = ['winter','spring','summer','msi','ewc']
+teams_list = [pd.read_csv(f"../../data/cleaned/teams_{team}.csv", sep=';') for team in dfs_teams]
+teams = concatDfs(teams_list)
 
-    return df
-
-matches_winter = pd.read_csv("../../data/cleaned/matches_winter.csv", sep=';')
-matches_spring = pd.read_csv("../../data/cleaned/matches_spring.csv", sep=';')
-matches_msi = pd.read_csv("../../data/cleaned/matches_msi.csv", sep=';')
-matches_ewc = pd.read_csv("../../data/cleaned/matches_ewc.csv", sep=';')
-
-matches = mergeSplits([matches_winter,matches_spring,matches_msi,matches_ewc])
-matches = rename(matches)
-
-teams_winter = pd.read_csv("../../data/cleaned/teams_winter.csv", sep=';')
-teams_spring = pd.read_csv("../../data/cleaned/teams_spring.csv", sep=';')
-teams_msi = pd.read_csv("../../data/cleaned/teams_msi.csv", sep=';')
-teams_ewc = pd.read_csv("../../data/cleaned/teams_ewc.csv", sep=';')
-
-teams = mergeSplits([teams_winter,teams_spring,teams_msi,teams_ewc])
-
-data = merge_match_with_team_stats(matches, teams)
+data = mergeMatchesAndTeamsData(matches, teams)
 
 data.to_csv("../../data/merged/data.csv", sep=';', index=False)

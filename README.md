@@ -51,6 +51,16 @@ The team–match linking logic is separated into three distinct cases:
 
 - summer
 
+        lpl - LPL 2025 Split 3
+
+        lec - LEC 2025 Summer Season
+
+        lck - LCK 2025 Rounds 3-5
+
+        lta - LTA North 2025 Split 3 | LTA South 2025 Split 3
+
+        lcp - LCP 2025 Season Finals
+
 - interleague
 
         2025 Mid-Season Invitational
@@ -77,7 +87,7 @@ The team–match linking logic is separated into three distinct cases:
   
   - Place your match data at `user/new_match.csv`
     
-  - Make sure the file contains the following columns: tournament | teamA | number_of_matches | teamB | date
+  - Make sure the file contains the following columns: tournament | teamA | teamB | date
  
 - Process the new data
 
@@ -89,14 +99,12 @@ The team–match linking logic is separated into three distinct cases:
       cd user
       python3 prediction.py
 
-  - The output below shows predictions for three matches, where 1 indicates a win for Team A and 0 indicates a loss for Team A.
+  - The output below shows predictions for one match, where 1 indicates a win for Team A and 0 indicates a loss for Team A.
  
-        Decision Tree: [0 1 1]
-        Random Forest: [1 1 0]
-        XGBoost: [1 1 0]
-        Logistic regression: [1 0 0]
-    
-  - For example, the Decision Tree predicts that Team A loses the first match, wins the second match, and wins the third match.
+        Decision Tree: [0]
+        Random Forest: [1]
+        XGBoost: [1]
+        Logistic regression: [1]
 
 - Tip
 

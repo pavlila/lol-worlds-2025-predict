@@ -10,7 +10,7 @@ data = pd.read_csv("../../data/featured/data.csv", sep=';')
 Xtrain = data.drop('teamA_win', axis=1)
 ytrain = data.teamA_win
 
-model = RandomForestClassifier(max_depth=14, n_estimators=26)
+model = RandomForestClassifier(max_depth=6, n_estimators=35)
 model.fit(Xtrain, ytrain)
 
 dump(model, '../../models/random_forest.joblib')

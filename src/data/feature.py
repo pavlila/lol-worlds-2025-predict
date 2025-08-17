@@ -1,5 +1,21 @@
 import pandas as pd
+from joblib import dump
 
+def setFavorite(row):
+    if row['winrate%_B'] > row['winrate%_A']:
+
+        a_cols = [c for c in row.index if c.endswith('_A')]
+        for a_col in a_cols:
+            base = a_col[:-2]
+            b_col = f'{base}_B'
+            row[a_col], row[b_col] = row[b_col], row[a_col]
+
+        row['teamA'], row['teamB'] = row['teamB'], row['teamA']
+        row['teamA_win'] = 1 - row['teamA_win']
+
+        return row
+    return row
+    
 def makeDiff(df):
     a_cols = [c for c in df.columns if c.endswith('_A')]
     b_cols = [c for c in df.columns if c.endswith('_B')]
@@ -12,20 +28,26 @@ def makeDiff(df):
             df[f'diff_{base}'] = df[a_col] - df[b_col]
             df[f'ratio_{base}'] = df[a_col] / (df[b_col] + 1e-6)
 
+    df = df.drop(columns=a_cols + b_cols)
     return df
 
 def makeFeature(df):
     df['date'] = pd.to_datetime(df['date'])
-
     df['year'] = df['date'].dt.year
     df['month'] = df['date'].dt.month
     df['day'] = df['date'].dt.day
-
     df = df.drop(columns=['date'])
 
-    df[df.select_dtypes(['object']).columns] = df.select_dtypes(['object']).astype('category')
-    df[df.select_dtypes(['category']).columns] = df.select_dtypes(['category']).apply(lambda x: x.cat.codes)
+    df = df.apply(setFavorite, axis=1)
 
+    cat_cols = df.select_dtypes(['object']).columns
+    df[cat_cols] = df[cat_cols].astype('category')
+
+    decode_maps = {col: dict(enumerate(df[col].cat.categories)) for col in cat_cols}
+    dump(decode_maps, "../../data/featured/decode_maps.joblib")
+
+    df[cat_cols] = df[cat_cols].apply(lambda x: x.cat.codes)
+    
     df = df.fillna(-1)
 
     df = makeDiff(df)

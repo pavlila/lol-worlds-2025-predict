@@ -17,8 +17,8 @@ Xtrain_mm = scaler_mm.fit_transform(Xtrain)
 scaler_st = StandardScaler()
 Xtrain_st = scaler_st.fit_transform(Xtrain)
 
-model = LogisticRegression(C = 0.01, penalty = 'l2', solver = 'saga')
-model.fit(Xtrain_mm,ytrain)
+model = LogisticRegression(C = 0.1, penalty = 'l1', solver = 'liblinear')
+model.fit(Xtrain_st,ytrain)
 
 dump(scaler_mm, "../../models/min_max_scaler.joblib")
 dump(scaler_st, "../../models/standard_scaler.joblib")

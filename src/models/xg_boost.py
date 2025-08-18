@@ -13,9 +13,9 @@ ytrain = data.teamA_win
 
 model = xgb.XGBClassifier(
         eval_metric='logloss',
-        max_depth=2,
-        learning_rate=0.2,
-        n_estimators=25
+        max_depth=3,
+        learning_rate=0.15,
+        n_estimators=21
     )
 model.fit(Xtrain, ytrain)
 

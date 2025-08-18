@@ -38,9 +38,7 @@ def makeFeature(df):
     df['month'] = df['date'].dt.month
     df['day'] = df['date'].dt.day
     df = df.drop(columns=['date'])
-    
-    df = df.apply(setFavorite, axis=1)
-    
+        
     decode_maps = load("../../data/featured/decode_maps.joblib")
 
     for col, mapping in decode_maps.items():

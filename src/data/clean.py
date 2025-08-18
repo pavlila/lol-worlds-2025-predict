@@ -5,14 +5,14 @@ def renameTeamsInMatches(df):
     replace_map = {
         "Edward Gaming": "EDward Gaming",
         "Hanwha Life eSports": "Hanwha Life Esports",
-        "PSG Talon": "TALON",
+        "TALON": "PSG Talon",
         "BNK FearX": "BNK FEARX",
         "GIANTX": "GiantX",
         "OMG": "Oh My God",
         "Fluxo": "Fluxo W7M",
         "Gen.G eSports": "Gen.G",
         "Anyone s Legend": "Anyone's Legend",
-        "Isurus": "Isurus Estral",
+        "Isurus Estral": "Isurus",
         "Funplus Phoenix": "FunPlus Phoenix",
         "OK BRION": "OKSavingsBank BRION",
         "TT": "ThunderTalk Gaming"  

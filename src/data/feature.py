@@ -15,6 +15,32 @@ def setFavorite(row):
 
         return row
     return row
+
+def makeMirror(df):
+    """Rozmnoží dataset: každý zápas A vs B dostane i zrcadlenou verzi B vs A."""
+
+    # Kopie původního dataframe
+    df_orig = df.copy()
+
+    # Mirror = prohodíme všechny A/B sloupce
+    df_mirror = df.copy()
+    
+    a_cols = [c for c in df.columns if c.endswith('_A')]
+    for a_col in a_cols:
+        base = a_col[:-2]
+        b_col = f"{base}_B"
+        df_mirror[a_col], df_mirror[b_col] = df[b_col], df[a_col]
+
+    # Prohodíme i názvy týmů
+    df_mirror['teamA'], df_mirror['teamB'] = df['teamB'], df['teamA']
+
+    # Label musíme zrcadlit → pokud vyhrál A v originálu, v mirroru vyhrál B
+    df_mirror['teamA_win'] = 1 - df['teamA_win']
+
+    # Spojíme originál + mirror
+    df_out = pd.concat([df_orig, df_mirror], ignore_index=True)
+
+    return df_out
     
 def makeDiff(df):
     a_cols = [c for c in df.columns if c.endswith('_A')]
@@ -38,7 +64,7 @@ def makeFeature(df):
     df['day'] = df['date'].dt.day
     df = df.drop(columns=['date'])
 
-    df = df.apply(setFavorite, axis=1)
+    df = makeMirror(df)
 
     cat_cols = df.select_dtypes(['object']).columns
     df[cat_cols] = df[cat_cols].astype('category')

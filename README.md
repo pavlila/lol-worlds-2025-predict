@@ -124,7 +124,11 @@ This project aims to predict the outcome of the League of Legends World Champion
 
                - The raw statistics for Wins (W) and Losses (L) were removed after computing the win rate percentage (winrate%)
 
-  - After merging the data like the next part [Team-Match Linking Logic](#team-match-linking-logic)
+  - After merging the data as described in the next part [Team-Match Linking Logic](#team-match-linking-logic)
+
+    - Create difference and ratio features from the team's data, then remove the individual team columns. This encourages the model to learn from the differences between teams rather than individual team stats, so it does not matter which team is labeled A or B
+   
+    - Generate mirror matches to improve generalization. For most of the data, it does not matter whether a team is listed first or second (this is what I aimed to achieve)
 
 ## Team-Match Linking Logic
 

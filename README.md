@@ -2,27 +2,6 @@
 
 This project aims to predict the outcome of the League of Legends World Championship based on match data from the entire 2025 season, sourced from [gol.gg](https://gol.gg/). Team statistics, sourced from [oracleselixir.com](https://oracleselixir.com/), are updated daily and reflect performance only within the current tournament — from the team’s first match to their last match in that tournament. The prediction logic dynamically uses these team stats limited to each tournament’s timeframe.
 
-## Team-Match Linking Logic:
-
-The team–match linking logic is separated into three distinct cases:
-
-- If a team plays six or more matches from its first match in the tournament to its last match in that tournament
-  
-  - Take the statistics for that period
- 
-- If it is the team's first match in the tournament
-
-  - Take the statistics from previous tournament
-
-- If a team plays less than six matches from its first match in the tournament to its last match in that tournament
-
-  - Take the statistics from the previous tournament, reduced to five games
- 
-  - Combine the reduced statistics from the previous tournament with data from the period between the first and last games in the current tournament
-
-<img src="pictures/team_match_linking.png" width="1200">
-
-
 ## Used tournaments
 
 - winter
@@ -66,6 +45,106 @@ The team–match linking logic is separated into three distinct cases:
         2025 Mid-Season Invitational
 
         Esports World Cup 2025
+
+## About data
+
+  - All the data presented below comes after the data cleaning phase
+
+     - Matches data
+   
+           tournament: Tournament Name
+
+           date: Date of the Match
+
+           teamA: Name of the First Team
+
+           teamB: Name of the Second Team
+
+           teamA_win: Binary outcome - 1 if the first team wins, 0 if the second team wins
+
+     - Teams data
+   
+           tournament: Tournament Name
+
+           date: Date on which the statistic was recorded (aggregated from the start of the tournament up to this date
+
+           Team: Team Name
+
+           GP: Games Played
+
+           AGT: Average game time/duration, in minutes
+
+           KD: Kill-to-Death Ratio
+
+           CKPM: Average combined kills per minute (team kills + opponent kills)
+
+           GPR: Gold percent rating (average amount of game's total gold held, relative to 50%)
+
+           GSPD: Average gold spent percentage difference
+
+           EGR: Early-Game Rating
+
+           MLR: Mid/Late Rating
+
+           GD15: Average gold difference at 15 minutes
+
+           FB%: First Blood rate -- for players/champions, percent of games earning a First Blood participation (kill or assist)
+
+           FT%: First tower rate
+
+           F3T%: First-to-three-towers rate (percentage of games in which team was the first to 3 tower kills)
+
+           PPG: Turret plates destroed per game
+
+           HLD%: Rift Herald control rate
+
+           GRB%: Void Grub control rate
+
+           FD%: First dragon rate
+
+           DRG%: Dragon control rate: percent of all Dragons killed that were taken by the team, reflecting only elemental drakes if ELD% is present
+
+           ELD%: Elder dragon control rate
+
+           FBN%: First Baron rate
+
+           BN%: Baron control rate
+
+           LNE%: Lane Control: average share of game's total lane CS
+
+           JNG%: Jungle Control: average share of game's total jungle CS
+
+           WPM: Average wards placed per minute
+
+           CWPM: Control wards puschased per minute
+
+           WCPM: Average wards cleared per minute
+
+           winrate%: W/GP ratio (Win/Games Played)
+
+               - The raw statistics for Wins (W) and Losses (L) were removed after computing the win rate percentage (winrate%)
+
+  - After merging the data like the next part [Team-Match Linking Logic](#team-match-linking-logic)
+
+## Team-Match Linking Logic
+
+The team–match linking logic is separated into three distinct cases:
+
+- If a team plays six or more matches from its first match in the tournament to its last match in that tournament
+  
+  - Take the statistics for that period
+ 
+- If it is the team's first match in the tournament
+
+  - Take the statistics from previous tournament
+
+- If a team plays less than six matches from its first match in the tournament to its last match in that tournament
+
+  - Take the statistics from the previous tournament, reduced to five games
+ 
+  - Combine the reduced statistics from the previous tournament with data from the period between the first and last games in the current tournament
+
+<img src="pictures/team_match_linking.png" width="1200">
 
 ## how to use it (Linux)
 

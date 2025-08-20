@@ -1,21 +1,6 @@
 import pandas as pd
 from joblib import dump
 
-def setFavorite(row):
-    if row['winrate%_B'] > row['winrate%_A']:
-
-        a_cols = [c for c in row.index if c.endswith('_A')]
-        for a_col in a_cols:
-            base = a_col[:-2]
-            b_col = f'{base}_B'
-            row[a_col], row[b_col] = row[b_col], row[a_col]
-
-        row['teamA'], row['teamB'] = row['teamB'], row['teamA']
-        row['teamA_win'] = 1 - row['teamA_win']
-
-        return row
-    return row
-
 def makeMirror(df):
     """Rozmnoží dataset: každý zápas A vs B dostane i zrcadlenou verzi B vs A."""
 

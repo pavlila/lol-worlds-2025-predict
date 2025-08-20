@@ -2,21 +2,6 @@ import pandas as pd
 import numpy as np
 from joblib import load
 
-def setFavorite(row):
-    if row['winrate%_B'] > row['winrate%_A']:
-
-        a_cols = [c for c in row.index if c.endswith('_A')]
-        for a_col in a_cols:
-            base = a_col[:-2]
-            b_col = f'{base}_B'
-            row[a_col], row[b_col] = row[b_col], row[a_col]
-
-        row['teamA'], row['teamB'] = row['teamB'], row['teamA']
-
-        return row
-    return row
-    
-
 def makeDiff(df):
     a_cols = [c for c in df.columns if c.endswith('_A')]
     b_cols = [c for c in df.columns if c.endswith('_B')]

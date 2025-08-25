@@ -56,14 +56,14 @@ def teamsClean(df):
 
     return df
 
-dfs_matches = ['winter', 'spring', 'summer', 'msi', 'ewc']
+dfs_matches = ['winter', 'spring', 'summer', 'msi', 'ewc', 'fst']
 
 for df_match in dfs_matches:
     df = pd.read_csv(f"../../data/raw/matches_{df_match}.csv", sep=r'\t|\s{2,}', engine='python')
     df_clean = matchesClean(df)
     df_clean.to_csv(f"../../data/cleaned/matches_{df_match}.csv", sep=',', index=False)
 
-dfs_teams = ['winter', 'spring', 'summer', 'msi', 'ewc']
+dfs_teams = ['winter', 'spring', 'summer', 'msi', 'ewc', 'fst']
 
 for df_team in dfs_teams:
     df = pd.read_csv(f"../../data/raw/teams_{df_team}.csv", sep=',')

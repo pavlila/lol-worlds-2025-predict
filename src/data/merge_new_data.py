@@ -71,7 +71,7 @@ def mergeMatchesAndTeamsData(matches, teams):
 
 new_match = pd.read_csv("../../data/cleaned/new_match.csv", sep=',')
 
-dfs_teams = ['winter','spring','summer','msi','ewc']
+dfs_teams = ['winter','spring','summer','msi','ewc', 'fst']
 teams_list = [pd.read_csv(f"../../data/cleaned/teams_{team}.csv", sep=',') for team in dfs_teams]
 teams = concatDfs(teams_list)
 

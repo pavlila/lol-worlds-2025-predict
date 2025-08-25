@@ -1,6 +1,12 @@
 tournament,date,teamA,teamB,teamA_win
-LPL 2025 Split 3,,Anyone's Legend,WEEK6,0
-LPL 2025 Split 3,,Ninjas in Pyjamas,WEEK6,0
+LPL 2025 Split 3,2025-05-22,ThunderTalk Gaming,Ninjas in Pyjamas,1
+LPL 2025 Split 3,2025-05-22,Team WE,Weibo Gaming,1
+LPL 2025 Split 3,2025-05-21,Bilibili Gaming,Invictus Gaming,1
+LPL 2025 Split 3,2025-05-21,Anyone's Legend,JD Gaming,0
+LPL 2025 Split 3,2025-05-20,Bilibili Gaming,Top Esports,1
+LPL 2025 Split 3,2025-05-20,Invictus Gaming,FunPlus Phoenix,1
+LPL 2025 Split 3,2025-08-19,Anyone's Legend,Top Esports,0
+LPL 2025 Split 3,2025-08-19,Ninjas in Pyjamas,LNG Esports,1
 LPL 2025 Split 3,2025-08-18,Bilibili Gaming,Invictus Gaming,0
 LPL 2025 Split 3,2025-08-18,FunPlus Phoenix,Weibo Gaming,0
 LPL 2025 Split 3,2025-08-17,Top Esports,Bilibili Gaming,1
@@ -66,6 +72,8 @@ LPL 2025 Split 3,2025-07-20,EDward Gaming,ThunderTalk Gaming,1
 LPL 2025 Split 3,2025-07-19,Top Esports,Invictus Gaming,1
 LPL 2025 Split 3,2025-07-19,Weibo Gaming,FunPlus Phoenix,1
 LPL 2025 Split 3,2025-07-19,EDward Gaming,Ultra Prime,1
+LEC 2025 Summer Season,2025-08-18,G2 Esports,Team BDS,1
+LEC 2025 Summer Season,2025-08-18,Karmine Corp,Team Vitality,0
 LEC 2025 Summer Season,2025-08-17,Fnatic,G2 Esports,0
 LEC 2025 Summer Season,2025-08-17,Team Vitality,Natus Vincere,1
 LEC 2025 Summer Season,2025-08-16,Team Heretics,SK Gaming,0
@@ -80,6 +88,16 @@ LEC 2025 Summer Season,2025-08-03,GiantX,Karmine Corp,0
 LEC 2025 Summer Season,2025-08-03,Team BDS,SK Gaming,1
 LEC 2025 Summer Season,2025-08-02,Team Heretics,Fnatic,0
 LEC 2025 Summer Season,2025-08-02,Natus Vincere,Karmine Corp,0
+LCK 2025 Rounds 3-5,2025-08-24,KT Rolster,T1,1
+LCK 2025 Rounds 3-5,2025-08-24,BNK FEARX,Dplus KIA,0
+LCK 2025 Rounds 3-5,2025-08-23,OKSavingsBank BRION,DN Freecs,0
+LCK 2025 Rounds 3-5,2025-08-23,Hanwha Life Esports,Gen.G,0
+LCK 2025 Rounds 3-5,2025-08-22,Dplus KIA,DRX,1
+LCK 2025 Rounds 3-5,2025-08-22,Nongshim RedForce,T1,0
+LCK 2025 Rounds 3-5,2025-08-21,OKSavingsBank BRION,BNK FEARX,0
+LCK 2025 Rounds 3-5,2025-08-21,KT Rolster,Hanwha Life Esports,0
+LCK 2025 Rounds 3-5,2025-08-20,Gen.G,Nongshim RedForce,1
+LCK 2025 Rounds 3-5,2025-08-20,DRX,DN Freecs,1
 LCK 2025 Rounds 3-5,2025-08-17,OKSavingsBank BRION,Dplus KIA,1
 LCK 2025 Rounds 3-5,2025-08-17,Hanwha Life Esports,Gen.G,0
 LCK 2025 Rounds 3-5,2025-08-16,DRX,BNK FEARX,1
@@ -120,6 +138,8 @@ LCK 2025 Rounds 3-5,2025-07-24,KT Rolster,Nongshim RedForce,1
 LCK 2025 Rounds 3-5,2025-07-24,DN Freecs,BNK FEARX,0
 LCK 2025 Rounds 3-5,2025-07-23,Gen.G,Hanwha Life Esports,1
 LCK 2025 Rounds 3-5,2025-07-23,Dplus KIA,OKSavingsBank BRION,0
+LTA North 2025 Split 3,2025-08-24,LYON,100 Thieves,0
+LTA North 2025 Split 3,2025-08-23,Disguised,Dignitas,1
 LTA North 2025 Split 3,2025-08-17,FlyQuest,Team Liquid,1
 LTA North 2025 Split 3,2025-08-16,Cloud9,Shopify Rebellion,0
 LTA North 2025 Split 3,2025-08-10,Dignitas,Disguised,0
@@ -134,6 +154,8 @@ LTA North 2025 Split 3,2025-07-27,Shopify Rebellion,Dignitas,1
 LTA North 2025 Split 3,2025-07-27,Team Liquid,100 Thieves,1
 LTA North 2025 Split 3,2025-07-26,Cloud9,LYON,1
 LTA North 2025 Split 3,2025-07-26,FlyQuest,Disguised,1
+LTA South 2025 Split 3,2025-08-24,Isurus,Leviatan,0
+LTA South 2025 Split 3,2025-08-23,LOUD,Fluxo W7M,1
 LTA South 2025 Split 3,2025-08-17,paiN Gaming,RED Canids,1
 LTA South 2025 Split 3,2025-08-16,Vivo Keyd Stars,FURIA,1
 LTA South 2025 Split 3,2025-08-10,paiN Gaming,RED Canids,0
@@ -148,6 +170,12 @@ LTA South 2025 Split 3,2025-07-27,LOUD,Vivo Keyd Stars,0
 LTA South 2025 Split 3,2025-07-27,Isurus,RED Canids,0
 LTA South 2025 Split 3,2025-07-26,paiN Gaming,Leviatan,1
 LTA South 2025 Split 3,2025-07-26,FURIA,Fluxo W7M,1
+LCP 2025 Season Finals,2025-08-24,GAM Esports,Team Secret Whales,1
+LCP 2025 Season Finals,2025-08-24,DetonatioN FocusMe,Fukuoka SoftBank HAWKS gaming,1
+LCP 2025 Season Finals,2025-08-23,Team Secret Whales,MGN Vikings Esports,1
+LCP 2025 Season Finals,2025-08-23,Fukuoka SoftBank HAWKS gaming,Chiefs Esports Club,1
+LCP 2025 Season Finals,2025-08-22,CTBC Flying Oyster,GAM Esports,1
+LCP 2025 Season Finals,2025-08-22,PSG Talon,DetonatioN FocusMe,1
 LCP 2025 Season Finals,2025-08-17,Fukuoka SoftBank HAWKS gaming,DetonatioN FocusMe,0
 LCP 2025 Season Finals,2025-08-17,PSG Talon,Chiefs Esports Club,1
 LCP 2025 Season Finals,2025-08-16,Team Secret Whales,GAM Esports,0

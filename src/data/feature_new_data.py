@@ -34,8 +34,8 @@ def makeFeature(df):
 
     return df
 
-new_data = pd.read_csv("../../data/merged/new_data.csv", sep=';')
+new_data = pd.read_csv("../../data/merged/new_data.csv", sep=',')
 
 new_data = makeFeature(new_data)
 
-new_data.to_csv("../../data/featured/new_data.csv", sep=';', index=False)
+new_data.to_csv("../../data/featured/new_data.csv", sep=',', index=False)

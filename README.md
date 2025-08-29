@@ -46,6 +46,8 @@ This project aims to predict the outcome of the League of Legends World Champion
 
         Esports World Cup 2025
 
+        First Stand 2025
+
 ## About data
 
   - All the data presented below comes after the data cleaning phase

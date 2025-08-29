@@ -9,7 +9,7 @@ lr = load("../models/logistic_regression.joblib")
 scaler_mm = load("../models/min_max_scaler.joblib")
 scaler_st = load("../models/standard_scaler.joblib")
 
-data = pd.read_csv("../data/featured/new_data.csv", sep=';')
+data = pd.read_csv("../data/featured/new_data.csv", sep=',')
 decode_maps = load("../data/featured/decode_maps.joblib")
 
 teamA_names = data['teamA'].map(decode_maps['teamA'])

@@ -69,12 +69,12 @@ def mergeMatchesAndTeamsData(matches, teams):
 
     return pd.DataFrame(merged_rows).reset_index(drop=True)
 
-new_match = pd.read_csv("../../data/cleaned/new_match.csv", sep=';')
+new_match = pd.read_csv("../../data/cleaned/new_match.csv", sep=',')
 
-dfs_teams = ['winter','spring','summer','msi','ewc']
-teams_list = [pd.read_csv(f"../../data/cleaned/teams_{team}.csv", sep=';') for team in dfs_teams]
+dfs_teams = ['winter','spring','summer','msi','ewc', 'fst']
+teams_list = [pd.read_csv(f"../../data/cleaned/teams_{team}.csv", sep=',') for team in dfs_teams]
 teams = concatDfs(teams_list)
 
 new_data = mergeMatchesAndTeamsData(new_match, teams)
 
-new_data.to_csv("../../data/merged/new_data.csv", sep=';', index=False)
+new_data.to_csv("../../data/merged/new_data.csv", sep=',', index=False)

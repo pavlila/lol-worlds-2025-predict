@@ -1,10 +1,23 @@
 tournament    vs  teamA   scoreA  scoreB  teamB   round   patch   date
-LPL 2025 Split 3  NIP vs TT	TT	2   0	Ninjas in Pyjamas	WEEK8	15.9	2025-05-22
-LPL 2025 Split 3  Team WE vs WBG	Team WE	2   0	Weibo Gaming	WEEK8	15.9	2025-05-22
-LPL 2025 Split 3  IG vs BLG	Bilibili Gaming	2   1	Invictus Gaming	WEEK8	15.9	2025-05-21
-LPL 2025 Split 3  JD Gaming vs AL	Anyone s Legend	0   2	JD Gaming	WEEK8	15.9	2025-05-21
-LPL 2025 Split 3  Top Esports vs BLG	Bilibili Gaming	2   0	Top Esports	WEEK8	15.9	2025-05-20
-LPL 2025 Split 3  FPX vs IG	Invictus Gaming	2   0	Funplus Phoenix	WEEK8	15.9	2025-05-20
+LPL 2025 Split 3  IG vs BLG	Invictus Gaming	2   0	Bilibili Gaming	WEEK7	15.16	2025-08-28
+LPL 2025 Split 3  WBG vs JD Gaming	JD Gaming	2   1	Weibo Gaming	WEEK7	15.16	2025-08-28
+LPL 2025 Split 3  Team WE vs AL	Team WE	2   0	Anyone s Legend	WEEK7	15.16	2025-08-27
+LPL 2025 Split 3  WBG vs JD Gaming	Weibo Gaming	2   0	JD Gaming	WEEK7	15.16	2025-08-27
+LPL 2025 Split 3  FPX vs Top Esports	Top Esports	2   1	Funplus Phoenix	WEEK7	15.16	2025-08-26
+LPL 2025 Split 3  Team WE vs IG	Team WE	0   2	Invictus Gaming	WEEK7	15.16	2025-08-26
+LPL 2025 Split 3  BLG vs FPX	Funplus Phoenix	0   2	Bilibili Gaming	WEEK7	15.16	2025-08-25
+LPL 2025 Split 3  Ultra Prime vs LGD Gaming	LGD Gaming	2   1	Ultra Prime	WEEK7	15.16	2025-08-25
+LPL 2025 Split 3  JD Gaming vs AL	Anyone s Legend	2   0	JD Gaming	WEEK6	15.16	2025-08-24
+LPL 2025 Split 3  LNG Esports vs EDG	Edward Gaming	2   0	LNG Esports	WEEK6	15.16	2025-08-24
+LPL 2025 Split 3  WBG vs IG	Weibo Gaming	1   2	Invictus Gaming	WEEK6	15.16	2025-08-23
+LPL 2025 Split 3  Team WE vs Top Esports	Team WE	1   2	Top Esports	WEEK6	15.16	2025-08-23
+LPL 2025 Split 3  LNG Esports vs TT	LNG Esports	2   0	TT	WEEK6	15.16	2025-08-23
+LPL 2025 Split 3  LGD Gaming vs EDG	Edward Gaming	0   2	LGD Gaming	WEEK6	15.16	2025-08-22
+LPL 2025 Split 3  IG vs FPX	Invictus Gaming	2   0	Funplus Phoenix	WEEK6	15.16	2025-08-22
+LPL 2025 Split 3  JD Gaming vs BLG	JD Gaming	1   2	Bilibili Gaming	WEEK6	15.16	2025-08-21
+LPL 2025 Split 3  Ultra Prime vs EDG	Ultra Prime	0   2	Edward Gaming	WEEK6	15.16	2025-08-21
+LPL 2025 Split 3  AL vs FPX	Funplus Phoenix	0   2	Anyone s Legend	WEEK6	15.16	2025-08-20
+LPL 2025 Split 3  TT vs LGD Gaming	LGD Gaming	2   0	TT	WEEK6	15.16	2025-08-20
 LPL 2025 Split 3  AL vs Top Esports	Anyone s Legend	0   2	Top Esports	WEEK6	15.16	2025-08-19
 LPL 2025 Split 3  LNG Esports vs NIP	Ninjas in Pyjamas	2   0	LNG Esports	WEEK6	15.16	2025-08-19
 LPL 2025 Split 3  IG vs BLG	Bilibili Gaming	1   2	Invictus Gaming	WEEK6	15.15	2025-08-18
@@ -72,6 +85,10 @@ LPL 2025 Split 3  TT vs EDG	Edward Gaming	2   0	TT	WEEK1	15.14	2025-07-20
 LPL 2025 Split 3  IG vs Top Esports	Top Esports	2   1	Invictus Gaming	WEEK1	15.14	2025-07-19
 LPL 2025 Split 3  WBG vs FPX	Weibo Gaming	2   1	Funplus Phoenix	WEEK1	15.14	2025-07-19
 LPL 2025 Split 3  Ultra Prime vs EDG	Edward Gaming	2   0	Ultra Prime	WEEK1	15.14	2025-07-19
+LEC 2025 Summer Season  NAVI vs GIANTX	Natus Vincere	0   2	GIANTX	WEEK4	15.16	2025-08-26
+LEC 2025 Summer Season  VIT vs MKOI	Team Vitality	0   2	Movistar KOI	WEEK4	15.16	2025-08-26
+LEC 2025 Summer Season  Team BDS vs TH	Team BDS	1   2	Team Heretics	WEEK4	15.16	2025-08-25
+LEC 2025 Summer Season  SK Gaming vs G2 Esports	SK Gaming	0   2	G2 Esports	WEEK4	15.16	2025-08-25
 LEC 2025 Summer Season  G2 Esports vs Team BDS	G2 Esports	2   0	Team BDS	WEEK3	15.16	2025-08-18
 LEC 2025 Summer Season  KC vs VIT	Karmine Corp	1   2	Team Vitality	WEEK3	15.16	2025-08-18
 LEC 2025 Summer Season  Fnatic vs G2 Esports	Fnatic	0   2	G2 Esports	WEEK3	15.16	2025-08-17
@@ -88,6 +105,16 @@ LEC 2025 Summer Season  GIANTX vs KC	GIANTX	1   2	Karmine Corp	WEEK1	15.15	2025-
 LEC 2025 Summer Season  Team BDS vs SK Gaming	Team BDS	2   0	SK Gaming	WEEK1	15.15	2025-08-03
 LEC 2025 Summer Season  TH vs Fnatic	Team Heretics	1   2	Fnatic	WEEK1	15.15	2025-08-02
 LEC 2025 Summer Season  NAVI vs KC	Natus Vincere	0   2	Karmine Corp	WEEK1	15.15	2025-08-02
+LCK 2025 Rounds 3-5  DRX vs OK BRION	DRX	1   2	OK BRION	WEEK15	15.16	2025-08-31
+LCK 2025 Rounds 3-5  NS vs KT Rolster	Nongshim RedForce	0   2	KT Rolster	WEEK15	15.16	2025-08-31
+LCK 2025 Rounds 3-5  DN Freecs vs Dplus KIA	DN Freecs	1   2	Dplus KIA	WEEK15	15.16	2025-08-30
+LCK 2025 Rounds 3-5  T1 vs GEN	T1	1   2	Gen.G eSports	WEEK15	15.16	2025-08-30
+LCK 2025 Rounds 3-5  HLE vs NS	Hanwha Life eSports	2   0	Nongshim RedForce	WEEK15	15.16	2025-08-29
+LCK 2025 Rounds 3-5  BNK FearX vs DRX	BNK FearX	2   1	DRX	WEEK15	15.16	2025-08-29
+LCK 2025 Rounds 3-5  GEN vs KT Rolster	Gen.G eSports	2   0	KT Rolster	WEEK15	15.16	2025-08-28
+LCK 2025 Rounds 3-5  Dplus KIA vs OK BRION	Dplus KIA	2   0	OK BRION	WEEK15	15.16	2025-08-28
+LCK 2025 Rounds 3-5  DN Freecs vs BNK FearX	DN Freecs	0   2	BNK FearX	WEEK15	15.16	2025-08-27
+LCK 2025 Rounds 3-5  T1 vs HLE	T1	2   1	Hanwha Life eSports	WEEK15	15.16	2025-08-27
 LCK 2025 Rounds 3-5  KT Rolster vs T1	KT Rolster	2   0	T1	WEEK14	15.16	2025-08-24
 LCK 2025 Rounds 3-5  BNK FearX vs Dplus KIA	BNK FearX	0   2	Dplus KIA	WEEK14	15.16	2025-08-24
 LCK 2025 Rounds 3-5  OK BRION vs DN Freecs	OK BRION	1   2	DN Freecs	WEEK14	15.16	2025-08-23
@@ -138,6 +165,9 @@ LCK 2025 Rounds 3-5  KT Rolster vs NS	KT Rolster	2   0	Nongshim RedForce	WEEK10	
 LCK 2025 Rounds 3-5  DN Freecs vs BNK FearX	DN Freecs	0   2	BNK FearX	WEEK10	15.14	2025-07-24
 LCK 2025 Rounds 3-5  GEN vs HLE	Gen.G eSports	2   0	Hanwha Life eSports	WEEK10	15.14	2025-07-23
 LCK 2025 Rounds 3-5  Dplus KIA vs OK BRION	Dplus KIA	1   2	OK BRION	WEEK10	15.14	2025-07-23
+LTA North 2025 Split 3  SR vs FlyQuest	FlyQuest	3   1	Shopify Rebellion	ROUND4	15.17	2025-08-31
+LTA North 2025 Split 3  Team Liquid vs 100 Thieves	Team Liquid	0   3	100 Thieves	ROUND2	15.17	2025-08-30
+LTA North 2025 Split 3  Cloud9 vs Disguised	Cloud9	3   2	Disguised	ROUND2	15.17	2025-08-29
 LTA North 2025 Split 3  LYON vs 100 Thieves	LYON	1   3	100 Thieves	ROUND1	15.16	2025-08-24
 LTA North 2025 Split 3  Disguised vs Dignitas	Disguised	3   1	Dignitas	ROUND1	15.16	2025-08-23
 LTA North 2025 Split 3  FlyQuest vs Team Liquid	FlyQuest	3   0	Team Liquid	ROUND2	15.16	2025-08-17
@@ -154,6 +184,9 @@ LTA North 2025 Split 3  SR vs Dignitas	Shopify Rebellion	2   0	Dignitas	WEEK1	15
 LTA North 2025 Split 3  Team Liquid vs 100 Thieves	Team Liquid	2   0	100 Thieves	WEEK1	15.14	2025-07-27
 LTA North 2025 Split 3  Cloud9 vs LYON	Cloud9	2   0	LYON	WEEK1	15.14	2025-07-26
 LTA North 2025 Split 3  FlyQuest vs Disguised	FlyQuest	2   0	Disguised	WEEK1	15.14	2025-07-26
+LTA South 2025 Split 3  VKS vs paiN Gaming	paiN Gaming	1   3	Vivo Keyd Stars	ROUND4	15.17	2025-08-31
+LTA South 2025 Split 3  FURIA vs LOUD	FURIA	0   3	LOUD	ROUND2	15.17	2025-08-30
+LTA South 2025 Split 3  RED Canids vs Leviatan	RED Canids	3   1	Leviatan	ROUND2	15.17	2025-08-29
 LTA South 2025 Split 3  Isurus vs Leviatan	Isurus	2   3	Leviatan	ROUND1	15.16	2025-08-24
 LTA South 2025 Split 3  LOUD vs Fluxo	LOUD	3   0	Fluxo	ROUND1	15.16	2025-08-23
 LTA South 2025 Split 3  RED Canids vs paiN Gaming	paiN Gaming	3   1	RED Canids	ROUND2	15.16	2025-08-17

@@ -1,10 +1,23 @@
 tournament,date,teamA,teamB,teamA_win
-LPL 2025 Split 3,2025-05-22,ThunderTalk Gaming,Ninjas in Pyjamas,1
-LPL 2025 Split 3,2025-05-22,Team WE,Weibo Gaming,1
-LPL 2025 Split 3,2025-05-21,Bilibili Gaming,Invictus Gaming,1
-LPL 2025 Split 3,2025-05-21,Anyone's Legend,JD Gaming,0
-LPL 2025 Split 3,2025-05-20,Bilibili Gaming,Top Esports,1
-LPL 2025 Split 3,2025-05-20,Invictus Gaming,FunPlus Phoenix,1
+LPL 2025 Split 3,2025-08-28,Invictus Gaming,Bilibili Gaming,1
+LPL 2025 Split 3,2025-08-28,JD Gaming,Weibo Gaming,1
+LPL 2025 Split 3,2025-08-27,Team WE,Anyone's Legend,1
+LPL 2025 Split 3,2025-08-27,Weibo Gaming,JD Gaming,1
+LPL 2025 Split 3,2025-08-26,Top Esports,FunPlus Phoenix,1
+LPL 2025 Split 3,2025-08-26,Team WE,Invictus Gaming,0
+LPL 2025 Split 3,2025-08-25,FunPlus Phoenix,Bilibili Gaming,0
+LPL 2025 Split 3,2025-08-25,LGD Gaming,Ultra Prime,1
+LPL 2025 Split 3,2025-08-24,Anyone's Legend,JD Gaming,1
+LPL 2025 Split 3,2025-08-24,EDward Gaming,LNG Esports,1
+LPL 2025 Split 3,2025-08-23,Weibo Gaming,Invictus Gaming,0
+LPL 2025 Split 3,2025-08-23,Team WE,Top Esports,0
+LPL 2025 Split 3,2025-08-23,LNG Esports,ThunderTalk Gaming,1
+LPL 2025 Split 3,2025-08-22,EDward Gaming,LGD Gaming,0
+LPL 2025 Split 3,2025-08-22,Invictus Gaming,FunPlus Phoenix,1
+LPL 2025 Split 3,2025-08-21,JD Gaming,Bilibili Gaming,0
+LPL 2025 Split 3,2025-08-21,Ultra Prime,EDward Gaming,0
+LPL 2025 Split 3,2025-08-20,FunPlus Phoenix,Anyone's Legend,0
+LPL 2025 Split 3,2025-08-20,LGD Gaming,ThunderTalk Gaming,1
 LPL 2025 Split 3,2025-08-19,Anyone's Legend,Top Esports,0
 LPL 2025 Split 3,2025-08-19,Ninjas in Pyjamas,LNG Esports,1
 LPL 2025 Split 3,2025-08-18,Bilibili Gaming,Invictus Gaming,0
@@ -72,6 +85,10 @@ LPL 2025 Split 3,2025-07-20,EDward Gaming,ThunderTalk Gaming,1
 LPL 2025 Split 3,2025-07-19,Top Esports,Invictus Gaming,1
 LPL 2025 Split 3,2025-07-19,Weibo Gaming,FunPlus Phoenix,1
 LPL 2025 Split 3,2025-07-19,EDward Gaming,Ultra Prime,1
+LEC 2025 Summer Season,2025-08-26,Natus Vincere,GiantX,0
+LEC 2025 Summer Season,2025-08-26,Team Vitality,Movistar KOI,0
+LEC 2025 Summer Season,2025-08-25,Team BDS,Team Heretics,0
+LEC 2025 Summer Season,2025-08-25,SK Gaming,G2 Esports,0
 LEC 2025 Summer Season,2025-08-18,G2 Esports,Team BDS,1
 LEC 2025 Summer Season,2025-08-18,Karmine Corp,Team Vitality,0
 LEC 2025 Summer Season,2025-08-17,Fnatic,G2 Esports,0
@@ -88,6 +105,16 @@ LEC 2025 Summer Season,2025-08-03,GiantX,Karmine Corp,0
 LEC 2025 Summer Season,2025-08-03,Team BDS,SK Gaming,1
 LEC 2025 Summer Season,2025-08-02,Team Heretics,Fnatic,0
 LEC 2025 Summer Season,2025-08-02,Natus Vincere,Karmine Corp,0
+LCK 2025 Rounds 3-5,2025-08-31,DRX,OKSavingsBank BRION,0
+LCK 2025 Rounds 3-5,2025-08-31,Nongshim RedForce,KT Rolster,0
+LCK 2025 Rounds 3-5,2025-08-30,DN Freecs,Dplus KIA,0
+LCK 2025 Rounds 3-5,2025-08-30,T1,Gen.G,0
+LCK 2025 Rounds 3-5,2025-08-29,Hanwha Life Esports,Nongshim RedForce,1
+LCK 2025 Rounds 3-5,2025-08-29,BNK FEARX,DRX,1
+LCK 2025 Rounds 3-5,2025-08-28,Gen.G,KT Rolster,1
+LCK 2025 Rounds 3-5,2025-08-28,Dplus KIA,OKSavingsBank BRION,1
+LCK 2025 Rounds 3-5,2025-08-27,DN Freecs,BNK FEARX,0
+LCK 2025 Rounds 3-5,2025-08-27,T1,Hanwha Life Esports,1
 LCK 2025 Rounds 3-5,2025-08-24,KT Rolster,T1,1
 LCK 2025 Rounds 3-5,2025-08-24,BNK FEARX,Dplus KIA,0
 LCK 2025 Rounds 3-5,2025-08-23,OKSavingsBank BRION,DN Freecs,0
@@ -138,6 +165,9 @@ LCK 2025 Rounds 3-5,2025-07-24,KT Rolster,Nongshim RedForce,1
 LCK 2025 Rounds 3-5,2025-07-24,DN Freecs,BNK FEARX,0
 LCK 2025 Rounds 3-5,2025-07-23,Gen.G,Hanwha Life Esports,1
 LCK 2025 Rounds 3-5,2025-07-23,Dplus KIA,OKSavingsBank BRION,0
+LTA North 2025 Split 3,2025-08-31,FlyQuest,Shopify Rebellion,1
+LTA North 2025 Split 3,2025-08-30,Team Liquid,100 Thieves,0
+LTA North 2025 Split 3,2025-08-29,Cloud9,Disguised,1
 LTA North 2025 Split 3,2025-08-24,LYON,100 Thieves,0
 LTA North 2025 Split 3,2025-08-23,Disguised,Dignitas,1
 LTA North 2025 Split 3,2025-08-17,FlyQuest,Team Liquid,1
@@ -154,6 +184,9 @@ LTA North 2025 Split 3,2025-07-27,Shopify Rebellion,Dignitas,1
 LTA North 2025 Split 3,2025-07-27,Team Liquid,100 Thieves,1
 LTA North 2025 Split 3,2025-07-26,Cloud9,LYON,1
 LTA North 2025 Split 3,2025-07-26,FlyQuest,Disguised,1
+LTA South 2025 Split 3,2025-08-31,paiN Gaming,Vivo Keyd Stars,0
+LTA South 2025 Split 3,2025-08-30,FURIA,LOUD,0
+LTA South 2025 Split 3,2025-08-29,RED Canids,Leviatan,1
 LTA South 2025 Split 3,2025-08-24,Isurus,Leviatan,0
 LTA South 2025 Split 3,2025-08-23,LOUD,Fluxo W7M,1
 LTA South 2025 Split 3,2025-08-17,paiN Gaming,RED Canids,1
